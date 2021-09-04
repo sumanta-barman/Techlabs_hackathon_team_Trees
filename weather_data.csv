@@ -1,0 +1,7 @@
+,season,max_temp,min_temp,mean_temp,mean_sun_hours,mean_precipitation,min_ground_temp,mean_wind_speed,max_wind_speed
+0,winter_17_18,28.8,-7.9,-1,1,2.09,-9.8,9,93
+1,summer_18,38.0,-0.4,27,13,1.89,-2.7,6,65
+2,winter_18_19,26.7,-6.9,3,0,1.93,-9.2,6,83
+3,summer_19,41.0,-1.6,20,9,1.9,-3.4,9,61
+4,winter_19_20,24.6,-4.4,4,1,2.2,-6.7,6,87
+5,summer_20,36.3,0.0,24,14,1.07,-1.7,6,65

@@ -1,0 +1,455 @@
+baum_id;strasse;deutsch;stammumfang;grund_fuer_faellung;latitude;longitude
+68;Arnoldstraße 15;Mehlbeere;72;Pilzbefall;51.23397516;6.77674576
+279579;Jägerhofpassage;Bergahorn;227;abgestorben;51.23043732;6.78523145
+279124;Jägerhofpassage;Spitzahorn;142;abgestorben;51.229472;6.78698812
+279523;Jägerhofpassage;Stieleiche;140;abgestorben;51.23005481;6.78648057
+2126;Königsallee 28;Kastanie;185;abgestorben;51.22031065;6.77929851
+2100;Königsallee 40;Kastanie;174;abgestorben;51.22397075;6.77940632
+2093;Königsallee 90;Kastanie;173;abgestorben;51.22475395;6.77942691
+2165;Königsallee gegenüber 26;Kastanie;155;abgestorben;51.22487841;6.77920837
+2159;Königsallee gegenüber 40;Kastanie;157;abgestorben;51.22386317;6.77917761
+2152;Königsallee gegenüber 64;Kastanie;163;abgestorben;51.22195143;6.77912242
+2377;Liefergasse;Scheinakazie;75;überwiegend abgestorben;51.22764008;6.7733608
+2389;Liesegangstraße 9;Kastanie;78;abgestorben;51.22656413;6.78677558
+39927;Mühlenstraße;Eberesche;44;abgestorben;51.22722713;6.77273418
+279921;Opern-Passage;Bergahorn;179;abgestorben;51.22901911;6.77790831
+279781;Opern-Passage;Eibe;134;abgestorben;51.22725132;6.77869863
+2690;Ratinger Mauer;Kugelscheinakazie;103;Unfallschaden;51.22945821;6.77579911
+2866;Schützenstraße 71;Winterlinde;134;abgestorben;51.22645027;6.79405599
+281015;Weyhepassage;Vogelkirsche;165;abgestorben;51.2328099;6.77351801
+1627;Hubertusstraße;Mehlbeere;80;Pilzbefall am Kronenansatz;51.21751329;6.76753435
+282852;Kaiserteich;Silberahorn;240;überwiegend abgestorben;51.21756118;6.77508456
+334643;Neusser Straße;Esche;36;Stammschäden, Schrägstand, Rißbildung;51.21709444;6.76587984
+40917;Reichsstraße 41;Amberbaum;36;abgestorben;51.21604086;6.77244093
+3103;Talstraße 2;Scheinakazie;115;Pilzbefall  (Schwefelporling);51.21728483;6.77872956
+206307;Cecilienallee ;Kastanie;210;Sturmschaden;51.2459043;6.76634085
+846;Cecilienallee 11;Rotdorn;60;überwiegend abgestorben;51.24237981;6.77035879
+827;Cecilienallee 21;Rotdorn;45;Sturmschaden;51.24340198;6.76958732
+200978;Cecilienallee 26;Zierapfel;56;abgestorben;51.24402161;6.76902015
+810;Cecilienallee 33;Rotdorn;45;abgestorben;51.24424342;6.76880939
+806;Cecilienallee 34;Rotdorn;55;abgestorben;51.24441732;6.76860939
+597;Cecilienallee 36;Kastanie;110;abgestorben;51.24462639;6.76806064
+784;Cecilienallee 43 a;Rotdorn;55;abgestorben;51.24544914;6.76742499
+863;Cecilienallee 6;Rotdorn;50;abgestorben;51.24069575;6.77126466
+336417;B 7;Feldahorn;80;überwiegend abgestorben;51.23426482;6.72918473
+336429;B 7;Kirsche;150;abgestorben;51.24065235;6.7432386
+336416;B 7;Pappel;150;abgestorben;51.23424932;6.72879397
+336414;B 7;Spitzahorn;90;abgestorben;51.23426556;6.72855106
+331191;B 7;Hainbuche;80;Sturmschaden;51.23430088;6.72718392
+336412;B 7;Pappel;275;Sturmschaden;51.23446585;6.72670833
+336413;B 7;Pappel;195;Sturmschaden;51.23448981;6.72642364
+336420;B 7;Pappel;150;Sturmschaden;51.23420264;6.72957702
+336418;B 7;Götterbaum;175;Unfallschaden;51.23426471;6.72924419
+336419;B 7;Götterbaum;180;Unfallschaden;51.23423817;6.72929463
+336415;B 7;Pappel;120/120/120;Unfallschaden;51.23425408;6.72864116
+336411;B 7;Spitzahorn;125;Unfallschaden;51.23444593;6.72686819
+21662;Baldurstraße 31;Eberesche;90;Pilzbefall (Lackporling);51.22997293;6.72181024
+21707;Barmer Straße 14;Rotdorn;50;Unfallschaden;51.23019448;6.74703362
+21764;Benediktusstraße 13;Eberesche;120;Pilzbefall (Lackporling);51.23370655;6.71598387
+21765;Benediktusstraße 13;Eberesche;130;Pilzbefall (Lackporling);51.23378953;6.71594567
+21763;Benediktusstraße 15;Eberesche;120;überwiegend abgestorben;51.23363211;6.71601793
+21748;Benediktusstraße 45;Eberesche;90;Pilzbefall am Kronenansatz, zottiger Schillerporling;51.23228423;6.71664438
+19;Brend'amourstraße 4;Mehlbeere;30;abgestorben;51.23114278;6.76101273
+22477;Hansaallee 17;Kastanie;160;Morschung;51.2358298;6.74081212
+22586;Hansaallee 198;Linde;180;Morschung;51.23756386;6.73611275
+22685;Hansaallee 201;Linde;150;Stammschäden;51.24129542;6.72466192
+22547;Hansaallee 33;Linde;195;Morschung;51.23665838;6.73835835
+22550;Hansaallee 49;Linde;110;Morschung;51.23673792;6.7381278
+22398;Hansaallee gegenüber 44;Kastanie;60;Stammschäden;51.23443175;6.74391613
+336438;Heerdter Landstraße Freizeitanlage;Kugel-Ahorn;40;abgestorben;51.23212142;6.70923212
+331184;Heerdter Lohweg;Pappel;350;Sturmschaden;51.23468133;6.72624042
+331185;Heerdter Lohweg;Pappel;350;Sturmschaden;51.23465551;6.72613368
+22853;Heerdter Lohweg 216;Kastanie;150;Stammschäden, Stammschaden, Komplexkrankheit, Wurzelhochstand;51.23706544;6.72753575
+22824;Heerdter Lohweg 226 b;Kastanie;210;abgestorben;51.23946935;6.72792888
+22906;Hohenstaufenstraße gegenüber 2;Schnurbaum;235;Stammschäden;51.23601332;6.76035287
+132729;Im Kämpchen;Ahorn;155;Sturmschaden;51.23386447;6.72332445
+297306;Kaiser-Wilhelm-Ring Vorflutgelände;Weide;170;Morschung;51.22414718;6.76135605
+41366;Knechtstedenstraße 41;Eschen-Ahorn;180;Morschung, Mehrstämmig mit Zwieselbildung diverse Höhlungen und morschende Schnittstellen;51.23145003;6.70278755
+41446;Krefelder Straße 165 a;Bergahorn;175;abgestorben;51.2378141;6.71005603
+41717;Krefelder Straße 95;Bergahorn;85;Morschung;51.235312;6.71457902
+41718;Krefelder Straße 95;Bergahorn;90;Morschung;51.23530744;6.7145665
+41719;Krefelder Straße 95;Bergahorn;90;Morschung;51.23530243;6.7145679
+37463;Lütticher Straße Ecke Niederkasseler Kirchweg;Feldahorn;95;Morschung;51.23780091;6.74485229
+37469;Lütticher Straße Ecke Niederkasseler Kirchweg;Feldahorn;125;Morschung;51.23762681;6.74490908
+24020;Markgrafenstraße 21;Scheinakazie;200;Pilzbefall (Schwefelporling);51.23018939;6.76021545
+24025;Markgrafenstraße 24;Scheinakazie;200;Pilzbefall  (Schwefelporling);51.22942156;6.75973835
+24041;Markgrafenstraße 65;Scheinakazie;135;Morschung;51.22734913;6.75771397
+132299;Niederdonker Straße Grünanlage;Ahorn;220;überwiegend abgestorben;51.24387766;6.72344488
+132339;Niederdonker Straße Grünanlage;Birke;110;abgestorben;51.2441128;6.72300856
+132311;Niederdonker Straße Grünanlage;Eberesche;120;Stammschäden;51.2452892;6.72398989
+335678;Pariser Straße;Götterbaum;180;Stammschäden;51.23142236;6.73621931
+42144;Prinzenallee 19;Weißdorn;125;abgestorben;51.23727254;6.73500598
+24864;Prinzenallee 19;Pappel;250;Sturmschaden;51.23698828;6.73476565
+42158;Prinzenallee 21;Feldahorn;110;Morschung;51.23731212;6.73550347
+42159;Prinzenallee 21;Feldahorn;100;Morschung;51.23729584;6.73548937
+24863;Prinzenallee 9;Pappel;350;Sturmschaden;51.23668274;6.73450445
+325877;Ria-Thiele-Straße 23;Ahorn;30;abgestorben;51.2339143;6.74162971
+335681;Schiessstraße Höhe Friedhof;Spitzahorn;110;überwiegend abgestorben;51.23677557;6.71858026
+335680;Schiessstraße Höhe Friedhof;Spitzahorn;120/120/130;Morschung;51.23680235;6.71865286
+336408;Wickrather Straße;Pappel;290;überwiegend abgestorben;51.24327331;6.73401375
+336409;Wickrather Straße;Pappel;180;überwiegend abgestorben;51.24326728;6.7339904
+132614;Wickrather Straße Radrennbahn;Kirsche;190;abgestorben;51.24287765;6.73171914
+132550;Wickrather Straße Radrennbahn;Kirsche;90;abgestorben;51.24282859;6.73171253
+132565;Wickrather Straße Radrennbahn;Ahorn;220/200;Pilzbefall (Lackporling);51.24267717;6.73275822
+42063;Wildenbruchstraße 52;Weissdorn;55;überwiegend abgestorben;51.22878529;6.75376947
+274947;Willstätterstraße 71;Tulpenbaum;25;Sturmschaden;51.23681441;6.73029597
+26547;Zülpicher Straße 12;Bergahorn;140;Pilzbefall (Lackporling);51.23457723;6.70053986
+122616;Danziger Straße;Scheinakazie;160;Morschung;51.25384963;6.77073351
+123394;Danziger Straße;Silberweide;150;Morschung;51.25479022;6.76768828
+122612;Danziger Straße;Scheinakazie;200;Stammschäden;51.25432009;6.76883684
+123354;Danziger Straße;Silberweide;176;Stammschäden;51.25445259;6.76853647
+311063;Friedrich Lau Straße 9;Kirsche;155;Stammschäden;51.25380399;6.75910198
+123435;Meineckestraße 59;Eberesche;80;abgestorben;51.25491713;6.76520094
+123617;Tersteegenstraße 3;Scheinakazie;110;überwiegend abgestorben;51.25345872;6.76167154
+125120;Thewissenweg 85;Scheinakazie;120;abgestorben;51.25953734;6.76424222
+125757;Am Roten Haus Grüngürtel;Bergahorn;130;abgestorben;51.26971073;6.76003524
+125798;Am Roten Haus Grüngürtel;Bergahorn;130;abgestorben;51.27043326;6.75978991
+125731;Am Roten Haus Grüngürtel;Feldulme;140;abgestorben;51.26922939;6.76022725
+125760;Am Roten Haus Grüngürtel;Silberahorn;120;abgestorben;51.26975502;6.7600186
+123854;Danziger Straße;Sandbirke;120;abgestorben;51.26531453;6.75538101
+326674;Heiligenweg KGV;Spitzahorn;130;abgestorben;51.26979501;6.73553544
+311324;Heiligenweg KGV;Spitzahorn;150;überwiegend abgestorben;51.27020738;6.73476433
+311461;Heiligenweg KGV;Spitzahorn;310;überwiegend abgestorben;51.27043222;6.73003034
+311300;Heiligenweg KGV;Eiche;140;abgestorben;51.26963134;6.73498277
+311304;Heiligenweg KGV;Spitzahorn;140;abgestorben;51.2699174;6.73678032
+311482;Heiligenweg KGV;Spitzahorn;145;abgestorben;51.26969161;6.732991
+311466;Heiligenweg KGV;Spitzahorn;470;Stammschäden;51.27041926;6.72991857
+311470;Heiligenweg KGV;Spitzahorn;130;Stammschäden;51.27036121;6.72966638
+283429;Heymstraße KSP;Götterbaum;340;Stammschäden;51.26346329;6.73956608
+336024;Hünefeldstraße Lärmschutzwall;Kiefer;60;abgestorben;51.27154447;6.74888716
+336387;Kaiserswerther Straße;Weide;600;abgestorben;51.25599001;6.74934769
+336388;Kaiserswerther Straße Nordpark;Birke;140;abgestorben;51.25554327;6.74799532
+336025;Lilienthalstraße Lärmschutzwall;Kiefer;50;abgestorben;51.27159387;6.74913623
+336344;Mörikestraße Lärmschutzwall;Bergahorn;89;abgestorben;51.2691452;6.74461054
+336345;Mörikestraße Lärmschutzwall;Bergahorn;110;abgestorben;51.26914814;6.74464151
+336346;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26910293;6.74452674
+336347;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26910984;6.74455866
+336348;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26909439;6.7444473
+336349;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26908631;6.74447637
+336350;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26906034;6.74438417
+336351;Mörikestraße Lärmschutzwall;Kiefer;100;abgestorben;51.26896195;6.74394555
+336352;Mörikestraße Lärmschutzwall;Kiefer;110;abgestorben;51.26900152;6.74401085
+336389;Nordpark Kirche;Fichte;100;abgestorben;51.25461047;6.74561419
+336390;Nordpark Sortengarten;Bergahorn;140;abgestorben;51.25739924;6.74444031
+336391;Nordpark Sortengarten;Sandbirke;110;abgestorben;51.25738266;6.74436831
+336380;Stockumer Höfe KGV;Kirsche;155;abgestorben;51.2685983;6.73247322
+336369;Stockumer Höfe KGV;Pappel;230;abgestorben;51.26890955;6.73155354
+336370;Stockumer Höfe KGV;Spitzahorn;160;abgestorben;51.26861468;6.73172247
+336371;Stockumer Höfe KGV;Spitzahorn;140;abgestorben;51.26819667;6.73210348
+336372;Stockumer Höfe KGV;Spitzahorn;140;abgestorben;51.26817967;6.73221026
+336373;Stockumer Höfe KGV;Spitzahorn;140;abgestorben;51.26812403;6.73227651
+336379;Stockumer Höfe KGV;Spitzahorn;170;abgestorben;51.26882991;6.73312933
+311261;Stockumer Höfe KGV;Trauben-Eiche;175;abgestorben;51.2688176;6.73435571
+311247;Stockumer Höfe KGV;Zierapfel;240;abgestorben;51.26792925;6.73460414
+336334;Stockumer Höfe Lärmschutzwall;Bergahorn;120;abgestorben;51.26542122;6.73653364
+336343;Stockumer Höfe Lärmschutzwall;Bergahorn;155;abgestorben;51.26529072;6.73613852
+336340;Stockumer Höfe Lärmschutzwall;Kiefer;90;abgestorben;51.26568765;6.73734929
+336341;Stockumer Höfe Lärmschutzwall;Spitzahorn;140;abgestorben;51.26569713;6.73725363
+336339;Stockumer Höfe Lärmschutzwall;Kirsche;130;abgestorben;51.26571523;6.7374457
+336342;Stockumer Höfe Lärmschutzwall;Spitzahorn;120;Stammschäden;51.26571392;6.73712666
+336386;Stockumer Kirchstraße;Sandbirke;140;abgestorben;51.25751877;6.74876934
+130965;Stockumer Kirchstraße;Bergahorn;50;Stammschäden;51.25736264;6.74291492
+336385;Thewissenweg Mahnmahl;Trauben-Eiche;160;abgestorben;51.2587516;6.7631708
+108922;Adlerstraße 32;Scheinakazie;190;Pilzbefall  (Schwefelporling);51.23116214;6.79177027
+108949;Adlerstraße gegenüber 44;Scheinakazie;220;Pilzbefall  (Schwefelporling);51.23068039;6.79279162
+108091;An der Piwipp gegenüber KGV Eingang;Birne;50;abgestorben;51.2630037;6.78770616
+103877;Barbarastraße 2;Bergahorn;82;Stammschäden;51.24422406;6.78832349
+103958;Duisburgerstraße 68;LInde;200;überwiegend abgestorben;51.2344572;6.7837032
+106384;Johannstraße;Scheinakazie;70;Pilzbefall  (Schwefelporling);51.25386724;6.77979513
+335529;Johannstraße 58;Scheinakazie;80;Pilzbefall  (Schwefelporling);51.25396582;6.77933133
+106804;Kennedydamm Mittelstreifen;Erle;40;abgestorben;51.24830723;6.77187017
+130913;Klever Straße Alter Golzheimer Friedhof;Ahorn;250;abgestorben;51.23769889;6.77486904
+103803;Rolandstraße gegenüber 44;Scheinakazie;180;Pilzbefall  (Schwefelporling);51.24582682;6.77855952
+103808;Rolandstraße Landesarchiv;Scheinakazie;180;Pilzbefall  (Schwefelporling);51.24540849;6.77727401
+103738;Römerstraße 27;Scheinakazie;200;Pilzbefall  (Schwefelporling);51.24481106;6.78262576
+103737;Römerstraße 27;Scheinakazie;200;Stammschäden;51.24485693;6.78276384
+105643;Schimmelbuschstraße gegenüber 22;Linde;90;Pilzbefall (Lackporling);51.25602162;6.78370284
+105774;Schimmelbuschstraße KSP;Weissdorn;40;abgestorben;51.25604027;6.78242319
+110749;Schwerinstraße 13;Scheinakazie;200;Pilzbefall  (Schwefelporling);51.23953937;6.77864746
+106656;Uerdinger Straße 75;Blutpflaume;70;Pilzbefall (Lackporling);51.25156847;6.76887735
+335533;Uerdinger Straße 87;Sandbirke;80;abgestorben;51.25227692;6.77037909
+106366;Ulmenstraße;Bergahorn;90;überwiegend abgestorben;51.25149274;6.78161995
+105850;Pempelforter Straße Schule;Feuer-Ahorn;150;Morschungen und Pilzbefall (Lackporling) ;51.23012546;6.79252338
+110821;Saarbrücker Straße 18;Scheinakazie;200;Pilzbefall (Schwefelporling) ;51.24794514;6.77956226
+108727;Brehmstraße gegenüber 9;Scheinakazie;68;abgestorben;51.24004043;6.80236015
+110074;Grunerstraße 30;Scheinakazie;205;Morschung;51.24374194;6.79999813
+103268;Ostendorfstraße  18;Kirsche;83;Morschung;51.24711804;6.80401508
+103267;Ostendorfstraße 18;Kirsche;105;Pilzbefall;51.24714811;6.80419893
+103019;Weseler Straße 20;Scheinakazie;200;Pilzbefall  (Schwefelporling);51.24055177;6.79929158
+11532;Weseler Straße 59;Ahorn;200;Pilzbefall (Schwefelporling) ;51.23910244;6.80147173
+102970;Weseler Straße 61;Scheinakazie;200;Pilzbefall  (Schwefelporling);51.23918184;6.801337
+335547;Am Röttchen 118 a;Zierapfel;45;abgestorben;51.26779235;6.78788414
+108294;An der Piwipp 89;Scheinakazie;150;Stammschäden;51.26306653;6.78014846
+307749;An der Piwipp KGV;Esche;45;abgestorben;51.26480227;6.78548296
+108490;Auf den Geisten 21;Mehlbeere;130;Morschung;51.27125003;6.77544119
+335621;Auf der Reide KGV;Eberesche;47;abgestorben;51.27097443;6.79285609
+335558;Bottroper Straße Brachfläche;Pappel;70;abgestorben;51.26344715;6.7945227
+335598;Cloppenburger Weg KSP;Weide;25 + 30;abgestorben;51.2705686;6.7805715
+107893;Dorstener Straße 3;Kastanie;86;überwiegend abgestorben;51.26955833;6.79744003
+106991;Eggerscheidter Straße KSP;Linde;234;Pilzbefall (Lackporling);51.258258;6.81532661
+108608;Frobenstraße 28;Eberesche;40;überwiegend abgestorben;51.25469063;6.81685887
+108582;Frobenstraße 5;Bergahorn;90;Morschung;51.25548337;6.81991522
+335531;Grashofstraße;Spitzahorn;90;Stammschäden;51.25243623;6.7952031
+107544;Habichtstraße gegenüber 15;Eberesche;142;Pilzbefall (Lackporling);51.25970244;6.80481206
+107542;Habichtstraße gegenüber 21;Eberesche;168;Pilzbefall (Lackporling);51.26025422;6.80505783
+107545;Habichtstraße gegenüber 27;Eberesche;148;Pilzbefall (Lackporling);51.26002854;6.80495563
+107209;In den Diken gegenüber 9;Eberesche;46;abgestorben;51.26365981;6.81271004
+275239;In den Diken gegenüber 9;Hängeesche;18;Pilzbefall (Lackporling);51.26384591;6.81264372
+107954;Kürtenstraße 75;Kastanie;63;Pilzbefall;51.26896289;6.79772771
+107908;Kürtenstraße 81;Kastanie;45;Pilzbefall;51.26910131;6.79761356
+335542;Lemgoer Weg 10;Eberesche;40 +35;überwiegend abgestorben;51.264184;6.78821455
+107340;Münsterstraße 484;Bergahorn;74;Morschung;51.26059108;6.80899592
+107130;Rather Broich 16;Scheinakazie;164;überwiegend abgestorben;51.26160292;6.81187871
+107581;Rather Kreuzweg 69;Scheinakazie;120;Morschung;51.26429558;6.80425901
+104755;Robert-Stolz-Straße 38;Rotdorn;45;abgestorben;51.24829722;6.81027473
+104467;Roseggerstraße 5 a;Baumhasel;65;abgestorben;51.25518877;6.80614517
+106898;Rotdornstraße KSP;Kirsche;142;abgestorben;51.26189568;6.8164489
+336392;Sankt Franziskusstraße ;Eberesche;150;Morschungen im Stammbereich;51.25692395;6.81210896
+104451;Sankt-Franziskus-Straße;Eberesche;113;Pilzbefall (Lackporling);51.25439087;6.80817559
+107061;Sankt-Franziskus-Straße;Eberesche;100;Pilzbefall (Lackporling);51.25803676;6.81375688
+107617;Scheffelstraße 13 d;Eberesche;103;abgestorben;51.26114001;6.80341938
+275268;Scheffelstraße 2 a;Mehlbeere;16;abgestorben;51.25983836;6.80788833
+275269;Scheffelstraße 8;Mehlbeere;15;abgestorben;51.26016415;6.8070988
+107290;Spatenstraße 36;Kirsche;84;abgestorben;51.25706859;6.80990387
+335600;Syltstraße27;Sandbirke;145;abgestorben;51.27260389;6.7782892
+107149;Westfalenstraße 44;Scheinakazie;170;Pilzbefall  (Schwefelporling);51.26287466;6.81490424
+335597;Westfalenstraße 75;Scheinakazie;191;Morschung;51.26317058;6.81784128
+104231;Wilhelm-Raabe-Straße gegenüber 60;Eberesche;55;Pilzbefall (Lackporling);51.2545345;6.81692618
+104242;Wrangelstraße Schule;Kirsche;89;Pilzbefall (Lackporling);51.25621126;6.81037102
+104259;Wrangelstraße Schule;Kirsche;204;Pilzbefall (Lackporling);51.25618809;6.81041612
+118803;Altenbergstraße 56;Kastanie;53;abgestorben;51.23724875;6.82921749
+119127;Beethovenstraße 2;Bergahorn;289;überwiegend abgestorben;51.23019986;6.80178617
+119173;Birkenstraße  32;Eisenholzbaum;30;abgestorben;51.22791907;6.80064613
+120757;Bruchstraße 35;Bergahorn;177;überwiegend abgestorben;51.22941279;6.81604573
+118434;Daimlerstraße 11;Kirsche;189;Pilzbefall;51.23049359;6.8248097
+120742;Flurstraße;Kugel-Trompetenbaum;25;abgestorben;51.22814484;6.81782162
+120834;Flurstraße;Scheinakazie;25;abgestorben;51.22852538;6.81511502
+120831;Flurstraße;Scheinakazie;25;abgestorben;51.22854362;6.81489285
+120832;Flurstraße;Scheinakazie;25;abgestorben;51.22854668;6.81507075
+276596;Flurstraße;Weissdorn;25;abgestorben;51.22856373;6.81490995
+276593;Flurstraße;Weissdorn;25;abgestorben;51.22851206;6.81513857
+122573;Goethestraße 23;Bergahorn;169;überwiegend abgestorben;51.23337128;6.80646336
+118409;Hellweg 33;Kastanie;330;Pilzbefall;51.2295539;6.82397996
+120693;Lichtstraße 49;Hängeesche;56;überwiegend abgestorben;51.22972346;6.81585455
+122109;Lindemannstraße Schule;Bergahorn;170;abgestorben;51.23394743;6.80604301
+121770;Paulusplatz Schule;Platane;405;Pilzbefall;51.23573569;6.80490079
+119432;Schlüterstraße 1a;Bergahorn;231;überwiegend abgestorben;51.23304117;6.82193234
+120236;Schlüterstraße Schule;Sumpfeiche;150;überwiegend abgestorben;51.23077859;6.82222313
+119937;Simrockstraße 100;Esche;176;überwiegend abgestorben;51.23866719;6.82156655
+121569;Sohnstraße;Rotdorn;40;abgestorben;51.2370936;6.81378508
+121545;Sohnstraße 12;Rotdorn;70;abgestorben;51.23490046;6.81600128
+119622;Sohnstraße 4;Rotdorn;20;abgestorben;51.23440352;6.81659627
+116778;Zum Märchenland 16;Scheinakazie;207;Pilzbefall  (Schwefelporling);51.22963454;6.83394738
+113382;Am Gartenkamp 11;Ahorn;287;überwiegend abgestorben;51.25735972;6.87629463
+113254;Am Gartenkamp 75;Magnolie;30;abgestorben;51.25627809;6.87416066
+114277;Am Irlenspahn 7;Baumhasel;51;Sturmschaden;51.23418416;6.86271475
+115204;Benderstraße Schule;Birke;245;abgestorben;51.23740887;6.8517788
+113931;Bergische Landstraße 252;Scheinakazie;160;überwiegend abgestorben;51.24821921;6.86152386
+113932;Bergische Landstraße 252;Scheinakazie;133;überwiegend abgestorben;51.24823133;6.86149836
+113936;Bergische Landstraße 252;Scheinakazie;134;überwiegend abgestorben;51.24823892;6.86146591
+113937;Bergische Landstraße 252;Scheinakazie;155;überwiegend abgestorben;51.24824679;6.8614386
+113938;Bergische Landstraße 252;Scheinakazie;199;überwiegend abgestorben;51.24825359;6.86141693
+113939;Bergische Landstraße 252;Scheinakazie;311;überwiegend abgestorben;51.2482676;6.86137186
+116596;Bertastraße Randbepflanzung;Schwarzerle;78;überwiegend abgestorben;51.22176454;6.84242834
+116604;Bertastraße Randbepflanzung;Schwarzerle;83;überwiegend abgestorben;51.22190804;6.84252403
+116608;Bertastraße Randbepflanzung;Schwarzerle;82;überwiegend abgestorben;51.2218142;6.84244893
+116609;Bertastraße Randbepflanzung;Schwarzerle;79;überwiegend abgestorben;51.22179497;6.84244009
+116872;Diepenstraße 28;Baumhasel;85;überwiegend abgestorben;51.23135091;6.84423313
+112906;Dorfstraße ;Eberesche;127;überwiegend abgestorben;51.25837618;6.90400942
+112910;Dorfstraße ;Amberbaum;155;abgestorben;51.25836589;6.90463538
+122587;Fahneburgstraße 11;Rotbuche;489;überwiegend abgestorben;51.25162564;6.82533516
+116402;Hardtstraße 138;Kastanie;289;überwiegend abgestorben;51.2378274;6.83564474
+117022;Hardtstraße 77;Kastanie;277;überwiegend abgestorben;51.2383502;6.83342474
+115081;Heinrich-Könn-Straße 221;Scheinakazie;88;überwiegend abgestorben;51.24052406;6.85214269
+115664;Lakronstraße 17;Bergahorn;233;überwiegend abgestorben;51.23424743;6.85276098
+115660;Lakronstraße 44;Bergahorn;211;überwiegend abgestorben;51.23448639;6.85045459
+115663;Lakronstraße 56;Bergahorn;245;überwiegend abgestorben;51.23479905;6.84941945
+113725;Luckemeyerstraße 33;Sumpfeiche;205;überwiegend abgestorben;51.25891898;6.86202998
+112824;Morper Straße 118;Esche;183;überwiegend abgestorben;51.2242288;6.87300728
+114832;Neunzigstraße 8;Tulpenbaum;104;überwiegend abgestorben;51.23866406;6.86019428
+127914;Ostpark;Ahorn;520;Pilzbefall;51.23626537;6.83398115
+114879;Ratinger Weg 166;Eberesche;55;abgestorben;51.2457958;6.85471301
+114901;Ratinger Weg 166;Eberesche;56;abgestorben;51.24583793;6.85478384
+114986;Ratinger Weg 166;Eberesche;50;abgestorben;51.24544928;6.85403633
+113113;Rotthäuser Weg 16 a;Bergahorn;289;überwiegend abgestorben;51.25643842;6.87848539
+115632;Schönaustraße 34;Scheinakazie;77;überwiegend abgestorben;51.23477901;6.85778362
+115626;Schönaustraße 43;Scheinakazie;144;abgestorben;51.23481075;6.85662448
+119792;Simrockstraße 100;Kastanie;250;überwiegend abgestorben;51.23858789;6.82227805
+119904;Simrockstraße 100;Kastanie;255;überwiegend abgestorben;51.23863637;6.82219095
+113110;Stratenweg KSP;Weide;85;Vandalismus;51.26385103;6.88777007
+116750;Sulzbachstraße ;Kastanie;165;überwiegend abgestorben;51.23487788;6.83440533
+114443;Torfbruchstraße;Kastanie;299;Pilzbefall;51.22399796;6.85990105
+114447;Torfbruchstraße;Kastanie;315;Pilzbefall;51.22420852;6.8597008
+114448;Torfbruchstraße;Kastanie;294;Pilzbefall;51.22431503;6.85960877
+114576;Von-Gahlen-Straße 98;Bergahorn;171;überwiegend abgestorben;51.23611536;6.85164824
+116519;Zamenhofweg 1;Kastanie;279;Pilzbefall;51.22067216;6.84410992
+35807;Alte Landstraße 35;Bergahorn;170;überwiegend abgestorben;51.28937825;6.73906886
+3456;Alte Landstraße 37;Bergahorn;180;überwiegend abgestorben;51.28957975;6.73915505
+296720;Am Damm 5;Winter-Linde;160;abgestorben;51.33184123;6.72209899
+26727;Angermunder Straße 14;Spitzahorn;60;überwiegend abgestorben;51.32381828;6.77186043
+102452;Angermunder Straße 32a;Scheinakazie;250;abgestorben;51.33097344;6.78342803
+3580;Angermunder Straße 37;Bergahorn;130;überwiegend abgestorben;51.33174582;6.78726578
+35766;Arnheimer Straße;Bergahorn;90;überwiegend abgestorben;51.31322432;6.74362355
+35767;Arnheimer Straße;Bergahorn;120;überwiegend abgestorben;51.3131896;6.74361865
+35741;Arnheimer Straße;Stieleiche;150;abgestorben;51.31291156;6.7438355
+335674;Arnheimer Straße ;Spitzahorn;380;Stammschäden;51.31287569;6.7438407
+3901;Barbarossawall;Linde;3,5;Pilzbefall (Lackporling);51.29911155;6.73562675
+42923;Edmund-Bertrams-Straße 22;Bergahorn;80;überwiegend abgestorben;51.30053422;6.75892079
+38533;Einbrunger Straße Am Rittergut;Ulme;420;überwiegend abgestorben;51.31572939;6.74728961
+299874;Einbrunger Straße Brückenrampe;Hainbuche;70;abgestorben;51.3180379;6.74465815
+32194;Fährerweg 20;Kastanie;240;überwiegend abgestorben;51.29615083;6.73037326
+4345;Hans Vilz Weg 23;Bergahorn;40;abgestorben;51.31659218;6.74930749
+4409;Heinrich-Holtschneider-Weg 74;Bergahorn;15;abgestorben;51.31825473;6.75019657
+43621;Hoppengarten;Silberahorn;160;überwiegend abgestorben;51.33515439;6.78815385
+43622;Hoppengarten;Silberahorn;430;überwiegend abgestorben;51.33515242;6.788107
+43623;Hoppengarten;Silberahorn;450;überwiegend abgestorben;51.3351156;6.78821473
+336023;Hünefeldstraße 14;Kiefer;70;abgestorben;51.27146074;6.74827905
+336026;Hünefeldstraße 14;Spitzahorn;80;abgestorben;51.2715186;6.7483882
+22949;Im Lohauser Feld 69;Kirsche;90;abgestorben;51.27990915;6.73156606
+4457;Im Luftfeld 72;Eberesche;100;Pilzbefall (Lackporling);51.2938283;6.73815377
+35213;Kalkumer Schloßallee 33;Linde;35;Morschung;51.30509807;6.74574013
+43555;Kalkweg;Buche ;350;überwiegend abgestorben;51.33783027;6.79395861
+40223;Kittelbachstraße 20;Mehlbeere;110;Pilzbefall;51.29545189;6.73744062
+43539;Melbecksweg 48;Spitzahorn;450;Pilzbefall (Lackporling);51.32321923;6.74040817
+34876;Niederrheinstraße 260;Bergahorn;70;überwiegend abgestorben;51.28653061;6.73857526
+335511;Sonnenacker 6;Vogelkirsche;40;abgestorben;51.33229718;6.72856922
+335583;Steinwerth 17;Spitzahorn;80;überwiegend abgestorben;51.33826741;6.78735584
+327294;Wallgraben Niederrheinstraße ;Kastanie;430;überwiegend abgestorben;51.29916114;6.73247435
+327373;Wallgraben Niederrheinstraße ;Sandbirke;160;überwiegend abgestorben;51.29916243;6.73775593
+278154;Zur Lindung;Hainbuche;210;abgestorben;51.32339377;6.78642358
+9766;Mintarder Weg;Götterbaum;90;abgestorben;51.27806029;6.7927441
+45757;Corneliusstraße 86;Scheinakazie;180;überwiegend abgestorben;51.21260963;6.78285641
+46816;Fürstenwall 66 a;Bergahorn;155;überwiegend abgestorben;51.21480055;6.76841639
+47035;Halskestraße 12;Mehlbeere;75;Pilzbefall;51.21218905;6.78832238
+47993;Kopernikusstraße 6;Kastanie;260;überwiegend abgestorben;51.20156692;6.77199547
+48278;Lorettostraße 22;Scheinakazie;120;Morschung;51.21414016;6.76627276
+48303;Lorettostraße 28;Scheinakazie;158;Morschung;51.21370599;6.76578058
+77500;Lorettostraße 47;Scheinakazie;155;Morschung;51.2129258;6.76455741
+275556;Max-Brandts-Straße 16;Bergahorn;60;überwiegend abgestorben;51.20289226;6.76457807
+48688;Morsestraße 23;Mehlbeere;80;abgestorben;51.21159636;6.78336129
+77381;Volmerswerther Straße 81;Bergahorn;260;Morschung;51.20558254;6.76033812
+57466;Erkrather Straße 118;Linde;111;überwiegend abgestorben;51.22164215;6.80718842
+51987;Erkrather Straße 143;Linde;181;Morschung;51.2213764;6.80749135
+52438;Höherweg 22;Kastanie;111;Pilzbefall;51.2236897;6.80754238
+52439;Höherweg 22;Kastanie;163;Pilzbefall;51.22374542;6.80737746
+52457;Höherweg 22;Kastanie;161;Pilzbefall;51.22363502;6.80771069
+52456;Höherweg 5;Kastanie;202;Pilzbefall;51.22398447;6.80625968
+335590;Bittweg 50;Bergahorn;160;Pilzbefall (Lackporling);51.20216864;6.79414227
+51820;Ellerstraße 101;Scheinakazie;106;Pilzbefall  (Schwefelporling);51.21591253;6.79645882
+51835;Ellerstraße 108;Scheinakazie;107;Pilzbefall  (Schwefelporling);51.21559252;6.79800991
+51844;Ellerstraße 176;Scheinakazie;132;Pilzbefall  (Schwefelporling);51.21400392;6.8034502
+51741;Ellerstraße Schule;Bergahorn;182;Pilzbefall (Lackporling);51.21602909;6.79686452
+52289;Harffstraße 59;Vogelkirsche;53;abgestorben;51.19645379;6.8182386
+52451;Höherweg 22;Kastanie;189;Pilzbefall (Schwefelporling) ;51.22344641;6.80828095
+308309;In den Gärten GA;Esche;230;überwiegend abgestorben;51.20494882;6.80938286
+53234;Linienstraße 102;Spitzahorn;95;Pilzbefall (Lackporling);51.21166737;6.79995139
+53238;Linienstraße 106;Spitzahorn;133;Pilzbefall (Lackporling);51.21149843;6.80018826
+53289;Linienstraße 92;Mehlbeere;114;überwiegend abgestorben;51.21225324;6.79901121
+78332;Mindener Straße 128;Scheinakazie;196;Pilzbefall  (Schwefelporling);51.21091789;6.81367684
+78333;Mindenerstraße 128;Scheinakazie;186;Pilzbefall (Schwefelporling) ;51.21088878;6.81386164
+54354;Schloßmannstraße 13;Scheinakazie;66;Stammschäden;51.20049831;6.79177647
+54423;Schmiedestraße 51 gegenüber;Amberbaum;114;überwiegend abgestorben;51.2102737;6.80344348
+54468;Siegburger Straße KITA;Spitzahorn;145;Stammschäden;51.20650488;6.81033798
+54579;Siegburger Straße KITA;Sumpfeiche;210;Stammschäden;51.20637377;6.81011799
+55061;Van-der-Werff-Straße 1;Mehlbeere;64;überwiegend abgestorben;51.21526644;6.80233459
+283662;Volksgarten Spielachse;Pappel;600;Morschung;51.2078996;6.80271703
+283678;Volksgarten Spielachse;Pappel;470;Morschung;51.20765733;6.80250264
+77644;Witzelstraße 76;Scheinakazie;210;Stammschäden;51.20093676;6.78803622
+55577;Witzelstraße 92;Scheinakazie;186;Pilzbefall  (Schwefelporling);51.19929204;6.79169274
+77665;Hohensandweg 21;Vogelkirsche;100;Stammschäden;51.19521597;6.81127686
+53717;Ohligser Straße 39;Kastanie;281;Pilzbefall;51.19409344;6.8208253
+56541;Am Bermeshau 3;Kastanie;180;Pilzbefall;51.21512432;6.82248364
+56633;Am Hohlen Berg 6;Linde;195;Morschung;51.20548353;6.89544915
+336320;Am Schönenkamp Böschung;Hainbuche;80;abgestorben;51.19100151;6.85756691
+336319;Am Schönenkamp Böschung;Linde;105;abgestorben;51.19234173;6.85715937
+292111;GA Schlosspark Eller;Amerikanische Eiche;130;Unfallschaden;51.19204033;6.85228922
+336318;Grünweg Eller;Eiche;165;Stammschäden;51.19057486;6.83213401
+335990;Grünweg Tannenhof;Spitzahorn;111;abgestorben;51.21812841;6.86237397
+335847;GW Eller;Esche;63;überwiegend abgestorben;51.19587079;6.83947164
+335814;GW Eller;Hainbuche;95;überwiegend abgestorben;51.19204028;6.83876262
+335753;GW Eller;Winter-Linde;125;überwiegend abgestorben;51.19042091;6.83073336
+335750;GW Vennhausen, GA;Amerikanische Eiche;125;überwiegend abgestorben;51.20667744;6.85426044
+335729;GW Vennhausen, GA;Pappel;125;überwiegend abgestorben;51.20654632;6.85245243
+336323;Josef-Wilbert-Straße 15;Esche;35;Sachbeschädigung;51.20247396;6.84746732
+336324;Josef-Wilbert-Straße 15;Kirsche;150;Sachbeschädigung;51.20244298;6.84743541
+336325;Josef-Wilbert-Straße 19;Sandbirke;30;Sachbeschädigung;51.20228155;6.8474551
+336327;Josef-Wilbert-Straße 19;Spitzahorn;80;Sachbeschädigung;51.20233283;6.84744656
+336326;Josef-Wilbert-Straße 19;Weide;130;Sachbeschädigung;51.20230824;6.84745386
+336321;Josef-Wilbert-Straße 9;Spitzahorn;80;Sachbeschädigung;51.20277602;6.8472259
+336322;Josef-Wilbert-Straße4 a;Spitzahorn;95;Sachbeschädigung;51.20275956;6.84726016
+59275;Kuthsweg 7;Kastanie;140;abgestorben;51.20672026;6.82690755
+59272;Kuthsweg 9;Kastanie;135;abgestorben;51.20677086;6.82706065
+335350;Lierenfelder Platz, GA;Kastanie;185;überwiegend abgestorben;51.20855317;6.83013965
+2;Richardstraße 102;Scheinakazie;140;Pilzbefall  (Schwefelporling);51.20944288;6.83784625
+59887;Richardstraße 39;Scheinakazie;160;Stammschäden;51.20606476;6.83913825
+285861;Schlosspark Eller;Scheinakazie;235;Morschung;51.19536917;6.84863159
+294731;Schlosspark Eller;Bergahorn;90;Pilzbefall (Lackporling);51.19260451;6.84670924
+288890;Schlosspark Eller;Winter-Linde;123;Pilzbefall (Lackporling);51.19495083;6.850307
+336328;Vennhauser Allee Schule;Spitzahorn;90;abgestorben;51.20520767;6.85709329
+60920;Wormser Weg 7;Mehlbeere;155;abgestorben;51.20376376;6.82085742
+205859;Alt Himmelgeist 12 b;Linde;240;Pilzbefall (Lackporling);51.1673665;6.80399978
+72605;Am Schönenkamp Brückenrampe;Spitzahorn;100;abgestorben;51.18983738;6.85839161
+289134;Am Schönenkamp Brückenrampe;Ulme;100;abgestorben;51.18989718;6.85820908
+68050;An der Jagengrenze 7;Birne;20;abgestorben;51.16932559;6.81747435
+55676;Clausiusweg hinter 19;Baumhasel;50;abgestorben;51.18924548;6.80998496
+336061;Grünweg Cronenbergerweg;Schlehe;120;abgestorben;51.1869589;6.81669261
+68999;Halbuschstraße 140;Platane;240;überwiegend abgestorben;51.18475906;6.84069948
+336053;Ickerswarder Straße;Ulme;80;abgestorben;51.17659702;6.81028191
+69498;Ickerswarder Straße 117;Spitzahorn;25;abgestorben;51.1794008;6.81407074
+336050;Ickerswarder Straße 14;Spitzahorn;25;überwiegend abgestorben;51.18346474;6.81999664
+69473;Ickerswarder Straße 58;Spitzahorn;25;überwiegend abgestorben;51.18148412;6.81665358
+336058;Ickerswarder Straße 82;Spitzahorn;25;überwiegend abgestorben;51.18032351;6.8153249
+336059;Ickerswarder Straße 96;Spitzahorn;25;überwiegend abgestorben;51.17968272;6.81454104
+336052;Ickerswarder Straße Einmündung Münchener Straße ;Ulme;80;abgestorben;51.17655698;6.81024718
+336054;Ickerswarder Straße Einmündung Münchener Straße ;Ulme;80;abgestorben;51.17660304;6.81033914
+336055;Ickerswarder Straße Einmündung Münchener Straße ;Ulme;80;abgestorben;51.17657176;6.81033533
+336056;Ickerswarder Straße Einmündung Münchener Straße ;Ulme;80;abgestorben;51.17654185;6.81031843
+336057;Ickerswarder Straße Einmündung Münchener Straße ;Ulme;80;abgestorben;51.17651958;6.81026727
+296278;Ickerswarder Straße KGV;Erle;80;abgestorben;51.17584605;6.81216518
+72183;Kohlrauschweg 78;Amberbaum;25;überwiegend abgestorben;51.18567646;6.81547171
+336063;Kohlrauschweg 78;Amberbaum;25;abgestorben;51.18539641;6.8152942
+70195;Küppersteger Straße8;Mehlbeere;90;überwiegend abgestorben;51.18285532;6.82373848
+72462;Nöggerathweg 18;Spitzahorn;35;Stammschäden;51.19036504;6.80825349
+56516;Röntgenweg 33;Amberbaum;30;abgestorben;51.18773488;6.81498824
+71477;Werstener Dorfstraße 47;Hainbuche;80;abgestorben;51.19137287;6.81954649
+336064;Werstener Feld 62;Scheinakazie;190;überwiegend abgestorben, Wurzelschäden;51.18658692;6.82647893
+75596;Frankfurter Straße;Bergahorn;150;abgestorben;51.15993852;6.88034444
+75602;Frankfurter Straße;Bergahorn;160;abgestorben;51.1596168;6.88079512
+306656;Alfred-Döblin-Straße;Platane;320;Massiver Vitalitätsrückang durch 2malig Injektion von Natriumchlorad und Glyphoshat in 10 Bohrlöcher ringsum im unteren Baumstammbereich. Bekannte Injektionszeiträume März 2016 und April 2018. Täter ist unbekannt: Zeugen wurden nicht gefunden;51.13634356;6.89849087
+335637;Dresdener Straße 160;Scheinakazie;180;Stammschäden;51.13301878;6.91301787
+62320;Frankfurter Straße;Esche;100;Pilzbefall (Lackporling);51.1305347;6.91276755
+76072;Hellerhofweg;Spitzahorn;150;zu dichter Stand;51.12990766;6.89995643
+76080;Hellerhofweg;Spitzahorn;150;zu dichter Stand;51.13003274;6.90084179
+73899;Stettiner Straße 51;Bergahorn;90;Stammschäden;51.14956128;6.89987553
+72782;Am Denkmal;Kastanie;270;abgestorben;51.1763017;6.87074781
+82100;Benrather Rathausstraße 46;Rotdorn;20;abgestorben;51.16395677;6.86524239
+82102;Benrather Rathausstraße 46;Rotdorn;20;abgestorben;51.16406488;6.8652281
+329787;Benrather Schlosspark Fächerallee;Linde;192;abgestorben;51.16054498;6.86960263
+68581;Buchenstraße gegenüber 15;Eberesche;100;Pilzbefall Feuerschwamm;51.17768917;6.85969904
+336091;Erich-Müller-Straße 31;Sandbirke;100;abgestorben;51.16724367;6.86931192
+65914;Hasselsstraße 89;Linde;105;Pilzbefall (Lackporling);51.17672031;6.871966
+336093;Heiligenhauser Straße 26;Hainbuche;100ü;abgestorben;51.17783058;6.87038104
+336089;Koblenzerstraße gegenüber 11;Ahorn;350;Stammfußmorschung abgängig;51.15534709;6.8736309
+336090;Koblenzerstraße gegenüber 11;Ahorn;360;Stammfußmorschung abgängig;51.15536024;6.87351832
+70378;Marbacher Straße 79;Rotdorn;100;überwiegend abgestorben;51.16448199;6.863996
+70782;Paulistraße 11;Winterlinde;134;abgestorben;51.16155067;6.87572389
+295952;Paulistraße 13;Winterlinde;125;abgestorben;51.16141435;6.87572028
+295954;Paulistraße 13;Winterlinde;165;abgestorben;51.16134102;6.8757185
+66638;Richard-Strauss-Platz KSP;Weissdorn;70;abgestorben;51.15321694;6.87811021
+71139;Schimmelpfennigstraße 28;Hängeesche;100;abgestorben;51.16366014;6.88727669
+295714;Urdenbacher Allee 109;Linde;220;Pilzbefall (Lackporling);51.15033655;6.86829518
+97621;Am Nordfriedhof 1;Ross-Kastanie;;Pilzbefall;51.256170;6.776098
+99858;Am Nordfriedhof 1;Eiche;;Lackporling;51.258578;6.770335
+99860;Am Nordfriedhof 1;Eiche;;Lackporling;51.258378;6.770201
+128900;Am Südfriedhof 16;Eiche;;Pilzbefall;51.196954;6.754346
+128933;Am Südfriedhof 16;Eiche;;Pilzbefall;51.195826;6.753227
+128986;Am Südfriedhof 16;Robinie;;Riss im Zwiesel;51.195945;6.751919
+128402;Am Südfriedhof 16;Eiche;;Pilzbefall;51.194741;6.753366
+90601;Quadenhofstraße 151;Amerikanische Roteiche;;Pilzbefall;51.230928;6.871042
+90604;Quadenhofstraße 151;Amerikanische Roteiche;;Pilzbefall;51.230843;6.871289
+91373;Quadenhofstraße 151;Eiche;;Gefahr für den Öltank des Kapellengebäudes;51.230266;6.872218
+91393;Quadenhofstraße 151;Eiche;;Gefahr für den Öltank des Kapellengebäudes;51.230553;6.871675
+91394;Quadenhofstraße 151;Eiche;;Gefahr für den Öltank des Kapellengebäudes;51.230563;6.871732
+91395;Quadenhofstraße 151;Eiche;;Gefahr für den Öltank des Kapellengebäudes;51.23051;6.871777
+91396;Quadenhofstraße 151;Eiche;;Pilzbefall;51.230536;6.871748
+92322;Quadenhofstraße 151;Eiche;;Pilzbefall;51.231418;6.869787

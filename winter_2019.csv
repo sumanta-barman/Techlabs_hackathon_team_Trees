@@ -1,0 +1,620 @@
+baum id;strasse;deutsch;stammumfang;grund der faellung;latitude;longitude
+356105;Bernburger Straße Grünstreifen;Eberesche;50;abgestorben;51.199.541;6.834.216
+356108;GW Eller;Bergahorn;50;abgestorben;5.119.186;6.835.038
+78099;Bergstraße 1;Sandbirke;90;abgestorben;51.202.293;6.893.294
+52758;Karl-Geusen-Straße Grünstreifen;Rosskastanie;185;absterbend;51.207.101;6.822.749
+58304;Jägerstraße 61;Echte Mehlbeere;80;abgestorben;51.205.242;6.840.178
+56616;Am Hackenbruch 103;Echte Mehlbeere;100;abgestorben;51.206.952;6.841.063
+59551;Neusalzer Weg 12;Robinie;210;Pilzbefall (Schwefelporling);51.210.912;6.847.818
+57817;Gatherweg Einzelbaumscheibe;Südlicher Zürgelbaum;202;Pilzbefall (Riesenporling);5.120.951;6.826.843
+52781;Karl-Geusen-Straße Grünstreifen;Rosskastanie;235;massive Wurzelhalsfäule;51.206.676;6.824.674
+56804;Am Stufstock 8;Bergahorn;70;massiver Rindenschaden;51.208.471;6.825.374
+57799;Gatherweg 55;Bergahorn;170;massiver Rindenschaden;51.209.159;6.825.477
+58511;Schule Kikweg. GA;Spitzahorn;50;unterständig. bedrängt stark den Nachbarbaum;51.198.763;6.852.348
+58516;Schloßallee;Spitzahorn;70;abgestorben;51.195.883;684.622
+60090;Schloßallee;Bergahorn;150;abgestorben;51.195.681;6.846.294
+80296;Heidelberger Straße Skatepark;Gemeine Esche;86;absterbend;51.196.593;6.846.811
+80409;Schule Kikweg. GA;Feldahorn;80;abgestorben;5.119.889;6.852.255
+296662;Schule Kikweg. GA;Silberahorn;60;Morschung - Stockaustriebe fällen;51.197.629;6.852.372
+296670;Schule Kikweg. GA;Spitzahorn;170;eingerissener Druckzwiesel;51.198.274;6.852.714
+296678;Schule Kikweg. GA;Abendländischer Lebensbaum;30;abgestorben;51.197.572;6.849.821
+303581;Schule Kikweg. GA;Stieleiche;30;starker unterständiger Bedränger des Nachbarbaumes;51.198.646;6.852.015
+315140;Spielplatz im Schlosspark Eller Park;Rotbuche;340;Pilzbefall (Riesenporling);51.194.667;6.853.888
+337128;Heidelberger Straße;Clusius-Ulme;90;abgestorben;51.196.302;6.843.547
+337129;Heidelberger Straße;Clusius-Ulme;60;abgestorben;51.196.304;6.843.462
+340305;Schule Kikweg. GA;Süßkirsche;40;abgestorben;51.198.797;68.525
+282976;Kaiserteich/Schwanenspiegel;Amberbaum;320;Pilzbefall & Sturmschaden;5.121.713;6.772.883
+46;Alt-Pempelfort 2;Robinie;266;Pilzbefall & 40% trocken;51.231.453;6.787.447
+319094;Spee'scher Graben /Karltor. GA;Spitzahorn;205;Sturmschaden. 40% trocken;51.219.747;6.771.333
+318898;Carlstor Spee'scher Graben /Karltor. GA;Säulen-Buche;362;Pilzbefall (Lackporling);51.220.234;6.770.152
+960;St. Benedikt-Schule;Robinie;189;absterbend;5.122.359;6.789.673
+1555;Herzogstraße 68;Baumhasel;199;abgestorben;51.215.786;6.782.144
+1976;Karlstraße 30;Spitzahorn;108;abgestorben;51.221.121;6.790.249
+280410;Weyhepassage Gehölzbepflanzung;Zerr-Eiche;281;Pilzbefall (Schwefelporling);51.232.313;6.779.338
+280912;Weyhepassage Gehölzbepflanzung;Rotbuche;357;abgestorben;51.233.496;677.466
+356793;Königsallee 18;Rosskastanie;150;absterbend;51.225.301;6.779.223
+356794;Königsallee 82;Rosskastanie;121;absterbend;51.220.681;6.779.093
+2098;Königsallee 34a;Rosskastanie;156;absterbend;51.224.195;6.779.412
+2142;Königsallee 94;Rosskastanie;170;absterbend;51.219.555;6.779.053
+2136;Königsallee 98;Rosskastanie;183;absterbend;5.121.916;6.779.262
+33761;Königsallee 59;Rosskastanie;237;absterbend;51.219.883;677.849
+2190;Königsallee 92;Rosskastanie;203;absterbend;5.121.988;6.778.963
+2106;Königsallee 56;Rosskastanie;247;absterbend;5.122.275;6.779.369
+42062;Wildenbruchstraße 46;Pflaumenblättriger Weißdorn;125;abgestorben;51.228.662;6.754.135
+42007;Friedr.-von-Bodelschwingh-Grundschule;Sumpfeiche;200;Verdacht auf Phythophthora;51.229;6.756.791
+459;Cecilienallee 4;Rosskastanie;45;abgestorben;51.239.912;6.771.157
+463;Cecilienallee 5;Rosskastanie;320;absterbend;51.240.052;6.771.122
+541;Cecilienallee 16;Rosskastanie;95;abgestorben;51.242.792;6.769.654
+741;Cecilienallee 68;Zweigriffeliger Weißdorn;35;abgestorben;51.247.845;676.378
+769;Cecilienallee 52;Zweigriffeliger Weißdorn;55;abgestorben;51.246.552;676.592
+771;Cecilienallee 52;Zweigriffeliger Weißdorn;55;abgestorben;51.246.471;6.766.044
+792;Cecilienallee 40;Zweigriffeliger Weißdorn;25;abgestorben;51.245.082;6.767.867
+800;Cecilienallee 37;Zweigriffeliger Weißdorn;55;abgestorben;5.124.473;6.768.269
+830;Cecilienallee 19;Zweigriffeliger Weißdorn;55;abgestorben;51.243.259;6.769.709
+831;Cecilienallee 19;Zweigriffeliger Weißdorn;55;abgestorben;51.243.211;6.769.747
+858;Cecilienallee 6;Zweigriffeliger Weißdorn;20;abgestorben;51.240.796;6.771.217
+875;Cecilienallee 4;Zweigriffeliger Weißdorn;55;abgestorben;5.123.985;6.771.555
+885;Cecilienallee 3;Zweigriffeliger Weißdorn;55;abgestorben;51.238.579;6.771.928
+899;Cecilienallee 1;Zweigriffeliger Weißdorn;20;abgestorben;51.237.475;6.772.173
+900;Cecilienallee 1;Zweigriffeliger Weißdorn;50;abgestorben;51.237.419;6.772.182
+901;Cecilienallee 1;Zweigriffeliger Weißdorn;50;abgestorben;51.237.361;6.772.191
+21393;Am Pappelwäldchen 3;Kanadische Pappel;400;Pilzbefall;51.236.663;6.762.215
+21415;Am Pappelwäldchen 3;Kanadische Pappel;400;Pilzbefall;51.237.735;6.761.768
+21416;Am Pappelwäldchen 3;Kanadische Pappel;450;Stammschäden;51.237.992;6.761.725
+21426;Am Pappelwäldchen 3;Pyramiden-Pappel;320;Morschung an Geschwür;51.239.364;676.107
+21485;Am Pappelwäldchen 3;Kanadische Pappel;420;Morschung;51.246.264;6.752.377
+21493;Am Pappelwäldchen 3;Kanadische Pappel;350;Pilzbefall & 25% der Krone ausgebrochen;51.247.216;6.750.113
+30460;Cecilienallee 1;Bergahorn;110;Pilzbefall (Rußrindenkrankheit);51.236.594;6.772.312
+111230;Cecilienallee 2;Zweigriffeliger Weißdorn;55;abgestorben;51.238.314;6.771.997
+131558;Cecilienallee Park;Rosskastanie;230;Stammschäden & Sturmschaden;51.241.519;6.768.273
+200979;Cecilienallee 33;Eingriffeliger Weißdorn;60;abgestorben;51.244.195;6.768.847
+200982;Cecilienallee 65;Eingriffeliger Weißdorn;45;abgestorben;51.247.441;6.764.498
+278319;Cecilienallee Park;Rosskastanie;222;Verdacht auf Pseudomonas;51.237.466;6.771.179
+297100;Am Pappelwäldchen 3;Grau-Pappel;450;Pilzbefall;51.249.706;6.744.373
+297106;Niederkasseler Deich 3;Grau-Pappel;500;33% der Krone ausgebrochen;5.124.769;6.749.653
+297109;Niederkasseler Deich 3;Grau-Pappel;500;Pilzbefall;51.248.141;6.748.444
+297110;Am Pappelwäldchen 2;Grau-Pappel;450;Pilzbefall;51.248.679;6.747.537
+297111;Niederkasseler Deich 3;Grau-Pappel;450;Pilzbefall;51.248.632;6.747.379
+297112;Niederkasseler Deich 3;Grau-Pappel;450;Pilzbefall;5.124.862;6.747.173
+297176;Am Pappelwäldchen 2;Grau-Pappel;450;Pilzbefall;51.236.718;676.358
+307079;Cecilienallee Einzelbaumscheibe;Zierapfel;20;abgestorben;51.237.625;6.772.143
+307602;Cecilienallee Einzelbaumscheibe;Zierapfel;20;abgestorben;51.246.389;6.766.159
+356581;Cecilienallee 65;Zierapfel;30;abgestorben;51.247.333;6.764.674
+21658;Baldurstraße 19;Echte Mehlbeere;85;abgestorben;51.230.299;6.722.891
+22052;Düsseldorfer Straße 62;Holländische Linde;99;absterbend;51.227.868;6.752.563
+24036;Markgrafenstraße 58;Robinie;160;Fäule im Stammfußbereich;51.227.688;675.795
+25466;Rheinallee 4;Kanadische Pappel;160;Schrägstand & Pappelbock;51.226.669;6.752.664
+25469;Rheinallee 4;Kanadische Pappel;169;Stammschäden;51.226.896;6.751.455
+25483;Rheinallee 4;Kanadische Pappel;90;absterbend;51.227.949;6.745.966
+25485;Rheinallee 4;Kanadische Pappel;180;Pilzbefall & Pappelbock;51.228.077;6.745.283
+26451;Wetzelgasse 6;Schwedische Mehlbeere;80;abgestorben;51.231.392;672.268
+42075;Düsseldorfer Straße 211;Bergahorn;60;Überhang zur Tunneltrogwand;51.230.566;6.738.697
+133745;Rheinallee 4;Bergahorn;135;abgestorben;51.225.793;6.757.682
+133790;Rheinallee 3;Bergahorn;80/110;abgestorben;51.226.089;6.755.373
+133833;Rheinallee 4;Laubbaum;90;abgestorben;51.226.391;6.752.882
+133895;Rheinallee 4;Spitzahorn;199;absterbend;51.227.891;6.745.453
+134032;Pariser Straße;Bergahorn;60;abgestorben;51.231.339;6.736.139
+134070;Pariser Straße 3;Pappel;240;abgestorben;51.231.407;6.733.749
+282194;Rheinallee 4;Korbweide;80;abgestorben;51.231.375;6.730.463
+340350;Düsseldorfer Straße 113;Holländische Linde;20;abgestorben;51.229.016;6.747.554
+356202;Rheinallee;Spitzahorn;80;abgestorben;51.227.449;6.747.499
+356583;nähe B7;Eschenahorn;90;abgestorben;51.226.736;6.750.734
+356584;Rheinallee Grünstreifen;Bergahorn;67;abgestorben;51.226.469;6.752.458
+356585;Pariser Straße 5;Silberweide;120/140;abgestorben;51.231.373;6.730.413
+356586;Rheinallee 21;Silber-Pappel;500;abgestorben;51.228.153;6.722.574
+21693;Barmer Straße 3;Zweigriffeliger Weißdorn;50;absterbend;51.229.674;6.746.899
+21837;Friedr.-von-Bodelschwingh-Grundschule;Platane;160;absterbend;51.228.672;6.756.421
+21922;Dominikanerstraße 6;Robinie;130;Pilzbefall;51.230.854;6.751.602
+21938;Dominikanerstraße 16;Robinie;140;Pilzbefall;51.230.168;6.750.976
+22340;Habsburgerstraße 7;Echte Mehlbeere;20;absterbend;51.238.305;6.756.555
+22348;Habsburgerstraße 12;Echte Mehlbeere;90;Pilzbefall;51.238.164;6.756.448
+26471;Wildenbruchstraße 44;Zweigriffeliger Weißdorn;80;absterbend;51.228.613;6.754.277
+26478;Wildenbruchstraße 60;Zweigriffeliger Weißdorn;80;absterbend;51.228.946;6.753.311
+26490;Wildenbruchstraße 88;Zweigriffeliger Weißdorn;85;absterbend;51.229.318;6.751.007
+41964;Friedr.-von-Bodelschwingh-Grundschule;Bergahorn;160;absterbend;51.228.932;6.757.549
+42000;Friedr.-von-Bodelschwingh-Grundschule;Hainbuche;95;Sturmschaden & abgestorben;51.229.055;675.624
+42606;Carl-Berg-Realschule;Silberweide;150;absterbend;51.238.347;6.751.385
+307605;Wildenbruchstraße Einzelbaumscheibe;Thüringische Säulen-Eberesche;20;abgestorben;51.230.571;6.761.052
+356594;Wildenbruchstraße 82;Eingriffeliger Weißdorn;20;abgestorben;51.229.274;6.751.413
+356603;Am Deich 4;Europäische Lärche;110;abgestorben;51.238.015;6.756.358
+356604;An der Apfelweide;Bergahorn;100;Unfallschaden;51.242.384;6.751.936
+356605;An der Apfelweide;Bergahorn;190;absterbend;51.242.117;6.751.259
+21875;Columbusstraße 2;Zweigriffeliger Weißdorn;40;absterbend;51.231.616;6.743.576
+21885;Columbusstraße 24;Zweigriffeliger Weißdorn;90;absterbend;51.231.508;6.742.132
+21886;Columbusstraße 26;Zweigriffeliger Weißdorn;80;abgestorben;51.231.502;6.741.972
+22740;Heerdter Landstraße 49;Rosskastanie;250;absterbend;51.232.105;6.716.463
+22840;Heerdter Lohweg 226;Rosskastanie;55;Brandschaden Rinde + Krone;51.238.577;6.727.783
+23535;Lanker Straße 4;Echte Mehlbeere;20;abgestorben;51.232.864;6.747.324
+24863;Prinzenallee 9;Kanadische Pappel;350;absterbend;51.236.683;6.734.504
+24864;Prinzenallee 19;Kanadische Pappel;250;absterbend;51.236.988;6.734.766
+36757;Löricker Straße 19;Holländische Linde;140;absterbend;51.243.821;6.722.153
+42158;Prinzenallee;Feldahorn;110;Fäule ;51.237.312;6.735.503
+42159;Prinzenallee;Feldahorn;100;Fäule;51.237.296;6.735.489
+42550;Neersener Straße KSP;Eberesche;30;abgestorben;51.239.697;6.741.979
+43016;Comeniusplatz;Schwarzerle;130;absterbend;51.235.727;675.133
+43058;Kyffhäuserstraße Kita;Gingko;20;Vandalismusschaden Baum abgesägt;51.232.248;6.753.449
+132402;Brüggener Weg KSP;Süßkirsche;15;Stammschäden;51.238.975;6.746.577
+132407;Brüggener Weg KSP;Süßkirsche;40;absterbend;51.238.991;6.746.152
+132775;Columbusplatz;Ahorn;123;Pilzbefall (Rußrindenkrankheit);5.123.095;6.739.816
+132785;Columbusplatz;Ahorn;150;Pilzbefall (Rußrindenkrankheit);51.231.241;6.739.994
+133177;Heerdter Landstraße 160;Ahorn;123;abgestorben;51.232.902;6.709.729
+133254;Heerdter Landstraße 160;Silberweide;450;Pilzbefall;51.232.415;6.709.271
+206339;Schiessstraße 80;Platane;25;abgestorben;51.241.137;6.721.603
+307350;Schanzenstraße Einzelbaumscheibe;Säulen-Tulpenbaum;25;abgestorben;51.231.781;6.743.249
+308170;Heerdter Landstraße Anlagenbaum;Holländische Linde;100;absterbend;51.233.073;6.708.682
+341497;Pastor-Busch-Weg;Spitzahorn;90;Fäule;51.237.847;6.736.295
+341506;Neuwerker Straße Grünstreifen;Kanadische Pappel;315;Sturmschaden & Pilzbefall;51.234.729;6.729.432
+356607;Brüggener Weg 6;Pyramiden-Pappel;300;Sturmschaden;51.239.914;6.744.765
+356612;Neersener Straße KSP;Schwedische Mehlbeere;40;abgestorben;51.239.793;6.742.267
+356617;Alberichweg;Süßkirsche;120/140;abgestorben;51.232.344;6.734.738
+356618;Neuwerker Straße Grünstreifen;Kanadische Pappel;210;absterbend;51.234.849;6.729.456
+356619;Neuwerker Straße Grünstreifen;Kanadische Pappel;210;absterbend;51.234.848;6.729.526
+356620;Neuwerker Straße Grünstreifen;Kanadische Pappel;210;absterbend;51.234.904;6.729.651
+356621;Neuwerker Straße Grünstreifen;Kanadische Pappel;220;abgestorben;51.234.935;6.729.727
+22460;Hansaallee 29;Rosskastanie;135;absterbend;51.236.292;6.739.451
+341508;Hansaallee 264;Kanadische Pappel;425;Sturmschaden & Pilzbefall;51.239.608;6.730.518
+318599;Oberlöricker Straße;Winterlinde;230;Fäule;51.251.503;6.721.404
+354072;Deikerstraße Böschung;Burgenahorn;85;Druckzwiesel im Stammfuß;51.260.482;6.762.068
+354073;Deikerstraße Böschung;Spitzahorn;176;Druckzwiesel im Stämmlingsansatz;51.260.276;6.762.109
+354075;Deikerstraße Böschung;Feldahorn;83;Druckzwiesel im Stammfuß;51.259.534;6.762.276
+354083;Danziger Straße;Pyramiden-Pappel;220;Fäule im Stammuß;51.257.229;6.763.248
+125793;Am Roten Haus 67;Bergahorn;120;Fäule im Stammuß;51.270.293;6.759.857
+125544;Sandweg;Bergahorn;165;abgestorben;51.266.883;6.760.644
+354097;Sandweg;Orientalische Goldfichte;120;abgestorben;51.267.174;6.753.595
+355993;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.268.304;6.739.454
+355994;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.268.326;6.739.435
+355995;Stockumer Höfe Grünstreifen;Bergahorn;82;abgestorben;5.126.835;6.739.479
+355996;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.268.383;6.739.432
+355997;Stockumer Höfe Grünstreifen;Bergahorn;84;abgestorben;51.268.433;673.943
+355998;Stockumer Höfe Grünstreifen;Bergahorn;81;abgestorben;51.268.406;6.739.507
+355999;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.268.449;6.739.487
+356000;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.268.368;6.739.524
+356001;Stockumer Höfe Grünstreifen;Bergahorn;90;abgestorben;51.268.326;6.739.526
+356002;Stockumer Höfe Grünstreifen;Bergahorn;104;abgestorben;51.268.359;6.740.235
+356003;Stockumer Höfe Grünstreifen;Bergahorn;84;abgestorben;51.268.996;6.741.866
+356004;Stockumer Höfe Grünstreifen;Bergahorn;86;abgestorben;51.268.994;67.419
+356005;Stockumer Höfe Grünstreifen;Bergahorn;110;abgestorben;51.268.995;6.741.924
+356006;Stockumer Höfe Grünstreifen;Bergahorn;90;abgestorben;51.268.975;6.741.885
+356007;Stockumer Höfe Grünstreifen;Bergahorn;100;abgestorben;51.268.983;6.741.815
+356009;Mörikestraße Grünstreifen;Traubeneiche;154;abgestorben;51.268.422;6.742.173
+356010;Mörikestraße Grünstreifen;Traubeneiche;81;abgestorben;51.268.658;6.742.395
+356011;Mörikestraße Grünstreifen;Spitzahorn;82;abgestorben;51.268.668;6.742.389
+356012;Mörikestraße Grünstreifen;Schwarzkiefer;120;abgestorben;51.268.949;6.743.821
+356013;Mörikestraße Grünstreifen;Schwarzkiefer;154;abgestorben;51.268.959;6.744.604
+356014;Mörikestraße Grünstreifen;Robinie;155;Fäule;51.267.335;6.744.769
+356015;Mörikestraße Brachfläche;Silberweide;260;abgestorben;51.268.075;6.744.241
+356016;Mörikestraße Brachfläche;Sandbirke;165;abgestorben;51.268.075;6.744.639
+356017;Stockumer Höfe Grünstreifen;Berg-Ulme;130;abgestorben;51.267.775;6.741.431
+356018;Stockumer Höfe Grünstreifen;Berg-Ulme;125;abgestorben;5.126.778;6.741.504
+334570;Stockumer Höfe Messeparkplätze;Rotbuche;160;abgestorben;51.266.076;6.738.473
+356019;Stockumer Höfe Grünstreifen;Bergahorn;85;abgestorben;51.266.088;6.738.574
+356020;Stockumer Höfe Grünstreifen;Rotbuche;145;abgestorben;51.266.044;6.738.478
+356021;Stockumer Höfe Grünstreifen;Bergahorn;177;abgestorben;5.126.596;6.738.377
+356022;Stockumer Höfe Grünstreifen;Rotbuche;164;abgestorben;51.265.964;6.738.252
+356023;Stockumer Höfe Grünstreifen;Bergahorn;163;abgestorben;51.265.871;6.738.126
+356024;Stockumer Höfe Grünstreifen;Bergahorn;155;abgestorben;51.265.691;6.737.564
+356025;Heymstraße Grünstreifen;Spitzahorn;550;Fäule im Stammfuß. Druckzwiesel  an Stämmlingsanbindung;51.265.336;6.737.592
+356026;Danziger Straße Grünstreifen;Hainbuche;110;abgestorben;51.270.006;675.074
+356027;Goldregenweg Grünstreifen;Rotfichte;140;abgestorben;51.270.022;6.751.904
+356028;Goldregenweg Grünstreifen;Rotfichte;110;abgestorben;51.270.115;6.751.854
+356029;Goldregenweg Grünstreifen;Rotfichte;110;abgestorben;51.270.097;6.751.858
+356030;Goldregenweg Grünstreifen;Rotfichte;140;abgestorben;51.269.828;6.752.032
+356031;Goldregenweg Grünstreifen;Rotfichte;110;abgestorben;51.269.732;6.752.038
+124079;Farnweg Schule;Sandbirke;320;abgestorben;512.663;6.755.447
+356032;Farnweg Schule;Spitzahorn;205;Sachbeschädigung - Stammschäden;51.266.372;6.754.699
+125375;Koetschaustraße 36;Sandbirke;355;absterbend;51.260.409;6.760.375
+123153;Koetschaustraße 36;Kanadische Pappel;310;Fäule im Stammfuß . hohe Ameisenaktivität;51.260.525;6.760.806
+123150;Koetschaustraße Gyschu;Gemeine Esche;260;Fäule im Stammfußbereich;5.126.057;6.760.899
+356033;Koetschaustraße Schule;Bergahorn;84;abgestorben;51.260.557;6.761.205
+123229;Koetschaustraße 36;Silberahorn;320;Fäule im Stammfußbereich;51.259.375;6.759.678
+356034;Gottfried-Keller-Straße;Sandbirke;130;abgestorben;51.258.143;6.758.111
+327859;Stockumer Kirchstraße 46;Zierapfel;180;abgestorben;51.257.935;6.744.064
+356037;Nordpark;Sandbirke;145;abgestorben;51.257.516;6.743.049
+356038;Nordpark;Bergahorn;130;abgestorben;51.256.662;6.743.264
+356039;Nordpark;Bergahorn;160;abgestorben;51.254.574;6.745.443
+356040;Nordoark;Europäische Lärche;130;abgestorben;51.254.516;6.745.386
+356041;Nordpark;Europäische Lärche;120;abgestorben;51.254.518;674.542
+356042;Nordpark;Silberahorn;180;abgestorben;5.125.706;6.751.501
+356043;Kaiserswerther Straße Nordpark. Kanalgarten;Robinie;140;abgestorben;51.257.033;6.751.556
+356044;GW Unterrath. GA;Sumpfeiche;150;abgestorben;51.267.941;6.767.955
+125956;Danziger Straße;Götterbaum;180;abgestorben;51.266.273;6.754.251
+126173;Gerhard-Tersteegen-Grundschule;Bergahorn;310;abgestorben;51.264.645;6.752.333
+124253;Niederrheinstraße 10;Gemeine Esche;160;Pilzbefall (Eschentriebsterben);51.268.372;674.883
+104597;Graf-Recke-Straße 96;Bergahorn;132;absterbend;51.243.594;6.812.039
+281298;Zoopark;Spitzahorn;179;absterbend;51.240.661;6.805.425
+310464;Spichern- Einzelbaumscheibe;Tulpenbaum;25;abgestorben;51.249.311;6.789.265
+334191;Toulouser Allee;Platane;28;abgestorben;51.244.113;6.794.943
+318365;Stadtgärten Derendorf;Gleditschie;39;absterbend;51.233.202;6.794.964
+336434;Schinkelstraße 23/25;Platane;25;Unfallschaden;51.232.558;6.793.407
+111751;Prinz-Georg-Straße 80;Magnolie;20;abgestorben;51.236.428;6.788.401
+110113;Franklinstraße 63;Robinie;241;Schrägstand & absterbend;51.236.011;6.793.281
+103943;Camphausenstraße 10;Zweigriffeliger Weißdorn;104;abgestorben;51.234.425;6.788.936
+105389;Wielandstraße 42;Echte Mehlbeere;90;abgestorben;51.230.093;6.794.022
+105399;Wielandstraße 23;Echte Mehlbeere;60;abgestorben;51.229.746;6.793.808
+103047;Wielandstraße 17;Birne;65;abgestorben;51.229.514;679.354
+111774;Ehrenstraße 65;Bergahorn;99;abgestorben;51.235.201;6.786.987
+109396;Kapellstraße 44;Echte Mehlbeere;80;abgestorben;51.235.648;6.781.143
+109397;Kapellstraße 46;Echte Mehlbeere;50;abgestorben;51.235.686;6.781.205
+356045;Sternstraße Kita;Echte Pavie;103;ehemaliger Sämling. zu na an der Buche und Nachbarschaftsgrundstück. Beschwerde;51.234.315;6.782.291
+110296;Gneisenaustraße Schule;Kanadische Pappel;283;Fäule im Stammfußbereich;51.240.113;6.784.179
+110430;Fischerstraße 7;Platane;168;Sturmschaden (Risse);51.236.009;6.777.387
+110904;Zietenstraße 15;Kirsche;121;abgestorben;51.241.927;677.558
+111392;Mauerstraße 49;Echte Mehlbeere;184;absterbend;51.243.736;6.777.767
+103804;Rolandstraße 44;Robinie;25;abgestorben;51.245.761;6.778.357
+103740;Römerstraße 19;Robinie;90;abgestorben;51.244.636;6.782.077
+111252;Spichernstraße 18;Bergahorn;200;Pilzbefall;51.248.239;6.785.915
+111202;Mercedesstraße;Robinie;110;abgestorben;51.249.865;6.797.768
+109278;Jülicher Straße 61;Platane;97;absterbend;51.242.899;678.951
+352410;Alter Golzheimer Friedhof;Bergahorn;90;abgestorben;51.24;6.773.933
+352412;Alter Golzheimer Friedhof;Bergahorn;90;abgestorben;51.240.028;6.774.044
+130943;Alter Golzheimer Friedhof;Sandbirke;110;Fäule im Stammfuß. Schrägstand. kaum Zuwachs;51.240.353;67.732
+352585;Alter Golzheimer Friedhof;Gemeine Esche;125;abgestorben;51.238.403;677.398
+352713;Alter Golzheimer Friedhof;Sommerlinde;323;absterbend;51.238.441;6.773.542
+111863;Klever Straße;Robinie;112;absterbend;5.123.968;677.335
+111862;Klever Straße;Robinie;109;absterbend;51.239.744;6.773.382
+356884;Rudolf-Lupp-Platz Park;Pyramiden-Pappel;390;Massive Stockfäule;51.256.228;6.781.657
+356922;Kleinschmitthauser Weg Anlagenbaum;Balsam-Pappel;145;Stockfäule;51.269.751;6.780.763
+356993;Hermann-Dornscheidt-Str Grünanlage;Sandbirke;76;abgestorben;51.258.569;6.812.456
+357003;Hermann-Dornscheidt-Str Grünanlage;Götterbaum;92;Pilzbefall;51.259.669;6.811.617
+354148;Stieglitzstraße DA Kleingärten;Silberweide;95;abgestorben;5.125.953;6.801.947
+357180;An der Piwipp Kleingärten;Bergahorn;121;absterbend;51.264.261;6.787.006
+274783;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.239.481;6.796.216
+274784;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.239.517;6.796.212
+274785;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.239.554;679.621
+274786;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.239.594;6.796.205
+274787;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.239.666;6.796.201
+274735;Maurice-Ravel-Park;Wintergrüne Eiche;25;absterbend;51.240.027;6.796.164
+274829;Maurice-Ravel-Park;Rotahorn;20;absterbend;51.240.135;6.795.851
+274831;Maurice-Ravel-Park;Rotahorn;20;absterbend;51.240.143;679.575
+274796;Maurice-Ravel-Park;Gemeine Esche;30;absterbend;51.240.755;6.796.041
+274795;Maurice-Ravel-Park;Wintergrüne Eiche;30;absterbend;51.240.708;679.605
+104334;Wrangelstraße Schule;Bergahorn;25;absterbend;51.256.505;6.809.897
+352173;Zoopark;Schwedische Mehlbeere;64;absterbend;51.239.103;6.803.047
+352247;Zoopark;Süßkirsche;35;absterbend;51.243.246;6.802.419
+352271;Zoopark;Sandbirke;178;Pilzbefall;51.242.343;6.804.521
+352552;Alter Golzheimer Friedhof;Lawsons Scheinzypresse;68;Fäule;51.237.399;6.774.393
+352625;Alter Golzheimer Friedhof;Spätblühende Traubenkirsche;50;abgestorben;51.238.967;6.774.369
+352638;Alter Golzheimer Friedhof;Stechpalme;45;abgestorben;51.238.217;6.774.689
+352825;Arag-Platz;Bruchweide;53;absterbend;51.250.065;6.801.221
+105481;Heinrich-Erhardt-Straße Mercedes-Werk;Sandbirke;90;abgestorben;5.125.372;6.790.253
+105513;Heinrich-Erhardt-Straße Mercedes-Werk;Sandbirke;70;abgestorben;51.253.801;6.789.657
+105514;Heinrich-Erhardt-Straße Mercedes-Werk;Sandbirke;87;abgestorben;51.253.818;6.789.557
+105517;Heinrich-Erhardt-Straße Mercedes-Werk;Sandbirke;90;abgestorben;51.253.879;6.789.052
+105519;Heinrich-Erhardt-Straße Mercedes-Werk;Sandbirke;95;abgestorben;51.253.892;6.788.928
+336392;Sankt-Franziskus-Straße 125;Echte Mehlbeere;150;Fäule im Stammfußbereich;51.256.924;6.812.109
+106062;Geistenstraße 28;Robinie;164;Pilzbefall;51.246.875;6.788.554
+116767;Zweibrückenstraße;Rosskastanie;168;absterbend;51.234.973;6.834.205
+112881;Am Scheidt 33;Echte Mehlbeere;25;abgestorben;51.258.144;6.905.452
+340318;Am Scheidt 33;Amberbaum;25;abgestorben;51.258.041;690.552
+112908;Dorfstraße;Echte Mehlbeere;159;absterbend;51.258.371;6.904.322
+112849;Gollenbergsweg;Sumpfeiche;301;absterbend;51.269.015;6.908.013
+115748;Unter den Eichen;Bergahorn;43;Pilzbefall (Rußrindenkrankheit);51.236.774;685.021
+117429;Benderstraße 172;Bergahorn;46;absterbend;51.240.288;6.844.252
+121096;Grafenberger Allee;Bergahorn;212;Pilzbefall (Rußrindenkrankheit);51.233.499;6.814.952
+121346;Grafenberger Allee;Spitzahorn;135;Pilzbefall (Rußrindenkrankheit);51.232.946;6.812.516
+121178;Grafenberger Allee;Bergahorn;121;Pilzbefall (Rußrindenkrankheit);51.233.153;6.813.454
+121167;Grafenberger Allee Schule;Bergahorn;199;Pilzbefall (Rußrindenkrankheit);51.233.413;6.813.701
+121099;Grafenberger Allee;Bergahorn;265;Pilzbefall (Rußrindenkrankheit);51.233.431;681.464
+117862;Hardtstraße;Rosskastanie;79;absterbend;5.124.134;6.828.603
+117995;Hardtstraße 14;Rosskastanie;65;absterbend;51.240.843;6.829.272
+354188;Pöhlenweg 61 Ecke Hardtstraße ;Robinie;412;Fäule;51.237.945;6.836.351
+117045;Hardtstraße 86;Rosskastanie;171;Komplexerkrankung;51.238.862;6.832.448
+114435;Torfbruchstraße;Rosskastanie;234;Komplexerkrankung;51.223.618;6.860.488
+114438;Torfbruchstraße;Rosskastanie;267;Komplexerkrankung;51.223.462;6.860.785
+116077;Zweibrückenstraße;Rosskastanie;300;absterbend;51.235.278;6.833.567
+121548;Sohnstraße 14;Zweigriffeliger Weißdorn;67;abgestorben;51.235.202;681.565
+115256;Heinrich-Könn-Straße 17;Säulen-Stieleiche;76;abgestorben;51.241.041;6.849.226
+120317;Schlüterstraße 5;Kanadische Pappel;367;absterbend;5.123.225;6.821.674
+120186;Schlüterstraße 20;Robinie;177;absterbend;51.230.825;6.822.612
+356055;Schlüterstraße Einfahrt Dinnendahlstraße;Bergahorn;522;absterbend;51.233.763;6.821.874
+356056;Dreherstraße KSP;Gemeine Esche;299;absterbend;51.235.772;6.856.228
+119106;Dorotheenstraße 59;Hainbuche;30;Vandalismus - Jungbaum auf 1m abgeschnitten;51.228.134;681.081
+116561;Bertastraße 13;Schwarzerle;297;absterbend;51.222.453;6.842.875
+115617;Schönaustraße 39;Trompetenbaum;277;absterbend;51.234.897;6.856.836
+115520;Sichelstraße 4;Gemeine Esche;66;abgestorben;5.122.888;686.011
+115523;Sichelstraße 10;Gemeine Esche;95;absterbend;51.228.514;6.859.422
+114309;Am Wallgraben 20a;Echte Mehlbeere;90;absterbend;51.235.252;6.860.544
+114310;Am Wallgraben 20a;Echte Mehlbeere;77;absterbend;51.235.341;6.860.464
+114311;Am Wallgraben 20b;Echte Mehlbeere;81;absterbend;51.235.405;6.860.404
+356057;Heyestraße 43;Bergahorn;350;absterbend;51.231.282;6.860.129
+118468;Quadenhofstraße 6;Zweigriffeliger Weißdorn;23;abgestorben;51.223.449;6.866.085
+356058;Quadenhofstraße Kleingartenanlage;Bergahorn;433;absterbend;51.230.663;686.539
+117672;Staufenplatz 6;Roteiche;277;absterbend;51.243.142;6.829.657
+117788;Staufenplatz 6;Sumpfeiche;323;absterbend;51.242.842;6.828.867
+117898;Staufenplatz 6;Sumpfeiche;188;absterbend;51.242.479;6.828.284
+117472;Pöhlenweg 17;Echte Mehlbeere;27;abgestorben;51.239.621;6.834.334
+334778;Ludenberger Straße 102;Spitzahorn;400;absterbend;5.124.004;683.897
+120219;Bruchstraße 125;Robinie;212;absterbend;51.229.691;6.823.155
+114924;Metzkauser Straße 68;Zweigriffeliger Weißdorn;40;abgestorben;51.240.592;6.853.662
+115373;Nachtigallstraße 15;Rosskastanie;187;abgestorben;51.223.311;6.862.842
+331268;Am Pesch 7;Eisenholzbaum;20;abgestorben;51.234.671;6.862.294
+115626;Schönaustraße 41;Robinie;144;abgestorben;51.234.811;6.856.624
+115606;Lakronstraße 9;Bergahorn;223;absterbend;51.234.348;68.533
+115664;Lakronstraße 17;Bergahorn;233;absterbend;51.234.247;6.852.761
+114797;Gymnasium Gerresheim;Bergahorn;100;absterbend;51.240.417;6.859.346
+122053;Lindemannstraße 57;Stechpalme;50;abgestorben;51.233.807;6.806.612
+122376;Rethelstraße 13;Bergahorn;324;abgestorben;5.123.108;6.800.238
+273989;Rotkäppchenweg 5;Salweide;110;abgestorben;5.123.001;6.831.669
+116070;Zweibrückenstraße;Bergahorn;95;abgestorben;51.235.339;683.369
+127923;Ostpark;Bergahorn;95;abgestorben;51.237.829;6.830.435
+119062;Ackerstraße 201;Bergahorn;125;abgestorben;51.230.751;6.809.819
+113506;Am Püttkamp 24;Sandbirke;110;abgestorben;51.268.562;687.479
+112887;Am Scheidt 25;Echte Mehlbeere;95;abgestorben;51.257.402;6.906.652
+112832;Am Scheidt 17;Echte Mehlbeere;60;abgestorben;51.257.069;6.907.425
+352882;Benderstraße Einzelbaumscheibe;Säulen-Tulpenbaum;30;abgestorben;51.237.143;6.856.789
+352869;Benderstraße Einzelbaumscheibe;Säulen-Tulpenbaum;30;abgestorben;51.239.009;6.847.805
+120568;Bruchstraße 70;Bergahorn;30;abgestorben;51.228.983;6.818.519
+120776;Bruchstraße 21;Bergahorn;30;abgestorben;51.229.956;6.814.914
+121119;Bruchstraße 5;Bergahorn;110;abgestorben;51.230.496;6.814.189
+116889;Dreherstraße 84;Holländische Linde;30;abgestorben;5.123.147;684.996
+117231;Ernst-Poensgen-Allee;Bergahorn;110;abgestorben;51.246.298;6.827.645
+120570;Flurstraße 77;Bergahorn;30;abgestorben;51.228.849;6.817.796
+115510;Heyestraße 56;Hainbuche;90;abgestorben;51.230.871;6.859.815
+115647;Lakronstraße 31;Bergahorn;110;abgestorben;51.234.207;6.851.769
+115659;Lakronstraße 44;Bergahorn;90;absterbend;51.234.451;6.850.587
+116206;Lakronstraße 72;Bergahorn;91;absterbend;51.235.391;6.847.489
+118475;Morper Straße 45;Gemeine Esche;90;abgestorben;51.223.798;6.869.577
+116224;Pfeifferstraße 54;Bergahorn;30;abgestorben;51.237.216;684.682
+115461;Schönaustraße 17;Robinie;150;absterbend;51.234.535;6.859.651
+116497;Von-Gahlen-Straße 52;Bergahorn;110;absterbend;51.234.086;6.851.448
+116502;Von-Gahlen-Straße 68;Bergahorn;60;absterbend;51.233.423;6.852.016
+116150;Nach den Mauresköthen;Schnurbaum;151;abgestorben;51.221.439;6.849.747
+112888;Am Scheidt 23;Echte Mehlbeere;40;abgestorben;51.257.299;6.906.892
+119953;Simrockstraße 64;Echte Mehlbeere;30;absterbend;51.241.636;6.821.867
+121109;Grafenberger Allee Kinderspielplatz;Rosskastanie;395;Pilzbefall (Riesenporling);51.233.739;6.814.397
+113913;Bergische Landstraße 242;Robinie;402;ausgebrochener Stamm & kritische Anbindung;51.247.605;6.862.913
+113914;Bergische Landstraße 242;Robinie;135;Dichtstand und Freistellung durch Fällung von Nachbarbäumen;5.124.761;6.862.901
+357737;Hanielpark;Bergahorn;240;abgestorben;51.233.855;6.815.633
+119752;Grafenberger Allee 384 / KSP;Platane;275;Blockiert Rettungszuweg und beschädigt bauliche Einrichtung;5.124.091;6.824.662
+340421;Am Walbert 44;Sandbirke;120;absterbend;51.278.037;6.784.512
+19980;Selbecker Straße KSP;Kirsche;150;Pilzbefall;51.259.851;6.816.916
+340516;Hamborner Straße Böschung;Hainbuche;60;abgestorben;51.277.017;6.789.524
+36606;Wanheimer Straße 92;Zitterpappel;50;absterbend;51.283.403;6.782.223
+36662;Wanheimer Straße;Bergkiefer;110;Schrägstand Richtung Parkplatz;51.280.973;6.782.753
+36677;Wanheimer Straße;Grauweide;160;mehrere Faulstellen im Kronenbereich. Baum steht direkt am Schienenverkehr Bundesbahn;51.281.465;6.781.647
+14990;Eitelstraße 108;Holländische Linde;180;starke Faulstelle direkt an der Astgablung mit Fremdbewuchs Eibe;51.273.033;6.831.629
+31624;Ahornallee 17;Bergahorn;40;Fäule im Stammbereich;5.127.521;6.781.851
+32894;Kalkumer Straße 170-192;Baumhasel;120;absterbend;5.127.458;6.772.516
+9780;Mintarder Weg 76;Götterbaum;140;absterbend;51.278.562;6.793.083
+18728;Oberhausener Straße 1;Rosskastanie;60;absterbend;51.271.077;6.819.728
+19973;Selbecker Straße KSP;Sandbirke;240;absterbend;51.259.893;6.817.604
+36211;E-Plus-Strasse 1b;Spitzahorn;50;absterbend;51.283.834;6.783.857
+356046;Hamborner Straße Bösch;Spitzahorn;80;abgestorben;5.127.696;6.790.178
+5860;Tiefenbroicher Weg 15;Bergahorn;60;absterbend;51.287.272;6.793.974
+326832;Wanheimer Straße Grünanlage;Traubenkirsche;80;abgestorben;51.285.343;6.800.593
+356047;Wanheimer Straße Kgv;Silberweide;100;absterbend;51.285.929;6.798.344
+326878;Grünanlage;Bergahorn;140;Sturmschaden;51.280.657;6.803.114
+8129;Hamborner Straße 4;Spitzahorn;110;absterbend;51.275.381;6.784.349
+34996;Hamborner Straße;Gemeine Esche;80;absterbend;51.276.156;6.785.658
+34818;Davidstraße GA;Silberweide;120;absterbend;51.273.943;6.833.641
+356048;Davidstraße Grünanlage;Silberweide;80;abgestorben;51.273.743;6.833.157
+356049;Davidstraße Grünanlage;Spitzahorn;80;abgestorben;51.273.483;6.830.792
+356050;Lichtenbroicher Weg Scharzbach Ga;Silberweide;130;absterbend;51.279.267;6.795.079
+356051;Lichtenbroicher Weg Schwarzbach Ga;Sandbirke;80;absterbend;5.127.928;6.795.241
+356052;Lichtenbroicher Weg Schwarzbach Ga;Sandbirke;80;absterbend;51.279.284;6.795.283
+356053;Lichtenbroicher Weg Schwarzbach Ga;Silberweide;120;absterbend;51.279.269;679.531
+326950;Kartäuserstraße Kartäuser Park/ Kittelbach. GA;Silberweide;180;abgestorben;51.275.598;6.778.596
+326999;Kartäuser Park/ Kittelbach. GA;Süßkirsche;130;abgestorben;51.277.761;6.777.116
+341392;Kartäuser Park - Kittelbach Ga;Spitzahorn;60;absterbend;51.277.647;6.773.734
+356515;Kartäuserstraße Park;Spitzahorn;80;abgestorben;51.278.275;6.773.824
+356516;Kartäuser Park - Kittelbach Ga;Stieleiche;120;abgestorben;51.278.065;6.771.417
+356518;A44 Deckel Park;Spitzahorn;80;abgestorben;51.271.191;6.762.285
+356519;A44 Deckel;Stieleiche;120;abgestorben;51.271.569;6.763.363
+356520;A44 Deckel Park;Hainbuche;100;abgestorben;51.271.579;6.763.504
+356521;A44 Deckel Park;Stieleiche;80;abgestorben;51.271.625;6.763.821
+356522;A44 Deckel Park;Schwarzkiefer;90;abgestorben;51.271.723;676.471
+356523;A44 Deckel Park;Stieleiche;100;abgestorben;51.271.754;6.764.873
+356524;A44 Deckel Park;Hainbuche;100;abgestorben;51.271.764;6.764.912
+356525;A44 Deckel Park;Hainbuche;80;abgestorben;51.271.872;6.765.495
+356526;A44 Deckel Park;Hainbuche;80;abgestorben;51.271.885;6.765.554
+356527;A44 Deckel Park;Stieleiche;100;abgestorben;51.271.973;6.766.385
+356528;A44 Deckel Park;Stieleiche;110;abgestorben;51.271.991;6.766.415
+356529;A44 Deckel Park;Stieleiche;60;abgestorben;51.272.017;6.766.423
+356530;A44 Deckel Park;Hainbuche;120;abgestorben;51.271.318;6.764.273
+34957;Eckenerstraße;Bergahorn;70;absterbend;51.271.011;6.762.664
+312445;A44 Deckel Grünanlage;Hainbuche;100;abgestorben;5.127.192;6.766.764
+312447;A44 Deckel Grünanlage;Hainbuche;80;absterbend;51.271.955;676.677
+312452;A44 Deckel Park;Stieleiche;80;absterbend;51.272.483;6.769.136
+312455;Grünanlage;Stieleiche;110;abgestorben;51.272.476;6.769.038
+312476;A44 Deckel Grünanlage;Stieleiche;140;abgestorben;51.273.376;6.771.079
+356531;A44 Deckel Park;Hainbuche;80;abgestorben;5.127.272;6.767.981
+356532;A44 Deckel Park;Robinie;150;abgestorben;5.127.275;6.767.998
+356533;Deckel A44 Park;Hainbuche;80;abgestorben;51.271.756;6.766.926
+356534;A44 Deckel Park;Grannenkiefer;110;abgestorben;51.271.797;6.767.075
+356535;A44 Deckel;Grannenkiefer;140;absterbend;51.271.818;6.767.156
+356536;A44 Deckel Park;Europäische Lärche;90;abgestorben;5.127.308;6.768.796
+356537;A44 Deckel Park;Europäische Lärche;100;abgestorben;51.273.122;6.768.862
+356538;A44 Deckel Park;Europäische Lärche;60;abgestorben;51.273.122;6.768.904
+356539;A 44 Deckel;Silberweide;60;abgestorben;51.273.306;6.769.403
+356540;A44 Deckel Park;Feldahorn;50-60;abgestorben;51.273.883;6.771.979
+356541;A44 Park;Feldahorn;50;absterbend;51.273.937;6.772.025
+356542;A44 Deckel Park;Lawsons Scheinzypresse;60;abgestorben;51.273.959;6.772.048
+Lantz-1;Lantz'sche Park;Ahorn. Kirsche. Rotbuche;60-450;59 Bäume(55 Ahorne): abgestorben;51.271.977;6.730.828
+50963;Siegburger Straße VG;Holländische Linde;45;abgestorben;51.202.926;6.810.589
+51838;Ellerstraße 184;Robinie;126;Pilzbefall (Lackporling);51.213.785;6.804.159
+52168;Flügelstraße 2;Gemeine Esche;75;absterbend;51.214.194;6.800.907
+52400;Höhenstraße 31;Robinie;130;Riss im Stammfußbereich;51.214.506;6.797.346
+52977;Werstener Straße;Echte Mehlbeere;25;abgestorben;51.192.257;6.814.258
+52978;Werstener Straße;Echte Mehlbeere;25;abgestorben;51.192.269;6.814.127
+53073;Kruppstraße 29;Holländische Linde;37;Stammschäden;51.214.262;6.800.016
+53390;Mettmanner Straße 1;Echte Mehlbeere;22;abgestorben;51.225.554;6.801.764
+54307;Ruhrtalstraße 31;Echte Mehlbeere;25;abgestorben;51.221.833;6.811.731
+54480;Siegburger Straße KITA;Spitzahorn;65;massiver Rindenschaden;51.206.644;6.810.354
+54512;Siegburger Straße 12;Gemeine Esche;277;Stammschäden;51.206.371;6.810.364
+54656;Siemensstraße 42;Spitzahorn;52;massiver Rindenschaden;51.214.038;6.795.148
+54694;Solinger Straße 25;Zweigriffeliger Weißdorn;45;abgestorben;51.212.901;6.801.645
+54696;Solinger Straße 27;Zweigriffeliger Weißdorn;45;abgestorben;51.212.821;6.801.599
+77912;Ruhrtalstraße 41;Echte Mehlbeere;45;abgestorben;51.222.337;6.812.198
+81623;Adolf-Reichwein-Hauptschule;Salweide;145;Fäule;5.121.153;6.804.115
+81624;Adolf-Reichwein-Hauptschule;Salweide;125;Fäule;51.211.503;6.804.132
+283674;Volksgarten Ballonwiese;Hainbuche;230;absterbend;51.207.355;6.802.401
+284029;Volksgarten;Bergahorn;230;absterbend;51.207.118;6.793.952
+284145;Volksgarten. restl. GA;Scharlach-Eiche;100;absterbend;51.206.764;6.804.996
+284760;Volksgarten;Bergahorn;260;absterbend;51.206.035;6.798.141
+284761;Volksgarten;Rosskastanie;330;absterbend;51.206.006;6.798.315
+284762;Volksgarten;Rosskastanie;280;absterbend;51.206.038;6.798.311
+284770;Volksgarten;Bergahorn;240;abgestorben;51.205.912;6.798.653
+284911;Volksgarten;Bergahorn;230;abgestorben;51.206.352;6.796.304
+284919;Volksgarten;Bergahorn;140;abgestorben;51.206.436;6.796.923
+285070;Brinckmannstraße Kita;Bergahorn;110;Pilzbefall;51.203.302;6.793.649
+285141;Volksgarten;Stechpalme;100;abgestorben;51.206.118;6.793.584
+285142;Volksgarten;Säulen-Stieleiche;25;abgestorben;5.120.607;6.793.632
+292726;Volksgarten;Magnolie;60;abgestorben;51.205.985;6.794.097
+294955;Volksgarten. restl. GA;Kanadische Pappel;430;Pilzbefall;51.206.257;6.799.545
+356791;Siegburger Straße KGV Böschung;Robinie;156;Fäule. Baum steht in der Böschung zum KGV Siegburgerstraße;51.203.811;6.810.367
+356792;Siegburger Straße KGV Siegburgerstraße;Robinie;160;Fäule. Baum steht in der Böschung zum KGV Siegburgerstraße;51.204.013;6.810.367
+52724;Kaiserslauterner Straße;Rosskastanie;180;Stammschäden;51.205.405;6.810.434
+53585;Nixenstraße 68;Holländische Linde;195;Stammschäden;51.191.491;6.822.925
+53588;Nixenstraße 68;Holländische Linde;254;Stammschäden;5.119.145;6.823.043
+53592;Nixenstraße 69;Holländische Linde;233;Stammschäden;51.191.403;6.823.151
+70581;Nosthoffenstraße 38;Echte Mehlbeere;25;abgestorben;51.179.813;6.832.581
+70886;Quadestraße;Schwedische Mehlbeere;70;abgestorben;51.180.399;6.834.998
+72367;Pfeillstraße 5;Echte Mehlbeere;30;abgestorben;51.176.211;6.835.532
+68299;Kamper Acker;Silberahorn;240;absterbend;51.173.885;6.835.035
+68274;Kamper Acker;Silberahorn;220;absterbend;51.173.958;6.834.933
+68322;Kamper Acker;Silberahorn;25;abgestorben;51.174.229;6.834.574
+334195;Bonner Straße;Holländische Linde;25;abgestorben;5.117.464;6.834.016
+67801;Am Trippelsberg 3;Bergahorn;30;abgestorben;51.165.628;6.846.944
+67803;Am Trippelsberg 3;Bergahorn;160;absterbend;51.165.602;6.846.642
+67910;Am Trippelsberg 3;Rosskastanie;25;abgestorben;51.165.556;684.491
+67834;Am Trippelsberg 3;Bergahorn;110;abgestorben;51.165.441;6.844.872
+67847;Am Trippelsberg 43;Bergahorn;100;abgestorben;51.165.119;6.841.432
+67867;Am Trippelsberg 43;Bergahorn;30;abgestorben;51.164.997;6.840.108
+67868;Am Trippelsberg 43;Bergahorn;80;abgestorben;51.164.988;6.840.012
+71029;Reisholzer Werftstraße 76;Bergahorn;60;abgestorben;51.165.477;6.839.355
+72346;In der Donk 60;Feuerahorn;100;absterbend;51.184.309;6.863.651
+69236;Henkelstraße 164;Holländische Linde;170;absterbend;51.174.916;684.699
+71468;Werstener Dorfstraße 55;Säulen-Hainbuche;40;abgestorben;51.191.036;6.820.287
+71478;Werstener Dorfstraße 45;Säulen-Hainbuche;40;abgestorben;51.191.466;6.819.461
+71480;Werstener Dorfstraße 43;Säulen-Hainbuche;50;abgestorben;51.191.553;6.819.193
+71483;Werstener Dorfstraße 37;Säulen-Hainbuche;80;abgestorben;51.191.641;6.818.759
+356060;Werstener Dorfstraße 23-27;Linde;70;abgestorben;51.191.968;6.817.854
+71487;Werstener Dorfstraße 23;Säulen-Hainbuche;80;abgestorben;51.191.948;6.817.494
+52972;Kölner Landstraße 115;Gleditschie;80;abgestorben;51.192.091;681.476
+55748;Dechenweg 50;Spitzahorn;150;abgestorben;51.185.175;6.813.012
+55652;Auf'm Rott 76;Eberesche;30;absterbend;51.183.073;6.809.409
+55638;Auf'm Rott 70;Spitzahorn;30;absterbend;51.183.532;6.809.187
+72289;Geißlerweg Kirchhoffweg. GA;Rosskastanie;210;Pilzbefall & Pseudomonas;51.188.086;6.809.523
+336795;Burscheider Strasse 29. GA;Bergahorn;104;Fäule;51.188.531;6.820.296
+336857;Am Scheitenweg. GW;Hainbuche;18;abgestorben;51.173.972;6.809.337
+338803;Hügelstr. .DA Grünanlage;Pyramiden-Pappel;330;Pilzbefall;51.181.071;6.825.876
+338814;Hügelstr. . DA Daueranlage;Eberesche;110;Pilzbefall;51.182.196;6.830.663
+338820;Hügelstr. .DA Daueranlage;Feldahorn;150;Fäule;5.118.131;6.827.426
+338910;Am Scheitenweg. GW;Eberesche;23;absterbend;51.173.159;6.809.315
+338976;Werstener Friedhofstr.. DA Daueranlage;Süßkirsche;160;Pilzbefall;51.184.737;6.833.647
+339029;Werstener Friedhofstr.. DA Daueranlage;Winterlinde;75;Sturmschaden;51.185.978;6.833.825
+61718;Carlo-Schmid-Straße 42a;Robinie;65;absterbend;5.112.975;690.942
+62480;Franz-Lieder-Straße 29;Japanische Blütenkirsche;36;absterbend;51.150.504;6.880.024
+355781;Emil-Barth-Straße Grünstreifen;Spitzahorn;130;abgestorben;51.142.027;6.896.077
+355783;Emil-Barth-Straße Grünstreifen;Spitzahorn;130/110;abgestorben;51.142.066;689.628
+62905;Elsa-Brändström-Straße Rückseite Wiedenhofenstr.5;Echte Mehlbeere;100;abgestorben;51.129.015;6.905.019
+76146;Elsa-Brändström-Straße 16;Echte Mehlbeere;100;absterbend;51.128.519;6.903.491
+356545;Frankfurter Straße Radweg Rückseite Otto-Braub-Str.14;Robinie;140;absterbend;51.139.813;6.904.327
+356546;Frankfurter Straße Radweg Rückseite Otto-Braun-Str.16;Spitzahorn;120;abgestorben;51.140.252;6.903.874
+356547;Corellistraße 8;Echte Mehlbeere;30;abgestorben;511.537;6.880.767
+61880;Corellistraße Rückseite Südallee 92;Echte Mehlbeere;70;abgestorben;51.153.672;6.880.314
+65047;Urdenbacher Acker KSP;Scharlach-Weißdorn;100;abgestorben;5.114.811;6.879.445
+65050;Urdenbacher Acker KSP;Holländische Linde;110;abgestorben;5.114.837;6.879.334
+356551;Graf-von-Stauffenberg-Straße Kleingartnverein Hellerhof;Bergahorn;120;abgestorben;51.126.513;6.902.443
+61525;Karl-Jaspers-Straße 29;Japanische Blütenkirsche;50;absterbend;51.129.231;6.901.908
+73875;Stettiner Straße 3;Bergahorn;120;abgestorben;51.152.033;6.895.677
+356552;Bertha-von-Suttner-Straße 17;Silber-Pappel;150;Sachbeschädigung - Stammschäden;5.113.421;6.905.595
+356553;Bertha-von-Suttner-Straße 17;Silber-Pappel;120;Sachbeschädigung - Stammschäden;51.134.234;6.905.612
+356554;Bertha-von-Suttner-Straße 17;Silber-Pappel;120;Sachbeschädigung - Stammschäden;51.134.258;6.905.645
+356555;Bertha-von-Suttner-Straße 29;Silber-Pappel;150;absterbend;51.134.003;6.905.443
+356556;Bertha-von-Suttner-Straße 29;Silber-Pappel;150;absterbend;51.133.984;6.905.475
+356557;Bertha-von-Suttner-Straße 29;Silber-Pappel;150;absterbend;51.134.006;6.905.502
+356558;Bertha-von-Suttner-Straße 29;Silber-Pappel;150;große Ausbrüche in der Krone & Stammschäden;51.134.001;6.905.539
+356559;Ingeborg-Bachmann-Straße 68;Amberbaum;35;abgestorben;51.130.296;6.905
+356560;Ingeborg-Bachmann-Straße 66;Amberbaum;35;abgestorben;51.130.184;6.905.113
+61146;Am Kapeller Feld geg46;Rosskastanie;105;abgestorben;51.142.502;690.722
+356561;Matthias-Erzberger-Straße geg 5;Moorbirke;120;abgestorben;51.141.459;6.905.752
+356562;Matthias-Erzberger-Straße geg 5;Moorbirke;120;abgestorben;51.141.423;6.905.942
+356563;Matthias-Erzberger-Straße geg 5;Pyramiden-Pappel;180;absterbend;51.141.406;6.905.427
+356564;Clausthal-Zellerfelder-Straße 76;Feldahorn;80;abgestorben;51.136.569;6.914.481
+61769;Clausthal-Zellerfelder-Straße 67;Japanische Blütenkirsche;60;abgestorben;51.135.697;6.913.279
+61778;Clausthal-Zellerfelder-Straße g.71;Japanische Blütenkirsche;45;abgestorben;51.135.419;6.913.505
+65068;Wernigeroder Straße 75;Amberbaum;40;abgestorben;51.134.546;6.915.374
+65074;Wernigeroder Straße 51;Amberbaum;40;abgestorben;51.134.295;6.914.156
+356567;Frankfurter Straße 296;Bergahorn;160;abgestorben;51.132.429;6.910.289
+62924;Elsa-Brändström-Straße 22;Echte Mehlbeere;60;50% trocken;51.129.482;690.498
+356574;Schwarzer Weg;Sandbirke;100;abgestorben;51.158.694;6.890.271
+87002;Am Buchholzer Busch;Bergahorn;120;absterbend;5.115.767;6.891.332
+356575;Frankfurter Straße Mittelstreifen Auffahrt Südallee;Zweigriffeliger Weißdorn;50;abgestorben;51.158.049;6.882.712
+356576;Frankfurter Straße Mittelstreifen;Eingriffeliger Weißdorn;50;abgestorben;51.158.765;6.882.013
+356577;Frankfurter Straße Auffahrt Südallee;Sandbirke;120;abgestorben;51.157.465;6.883.421
+64213;Reinhold-Schneider-Straße 95;Spitzahorn;110;abgestorben;51.135.622;6.900.925
+356578;Emil-Barth-Straße 155;Sandbirke;100;abgestorben;511.346;6.898.471
+356579;Koblenzer Straße Rene-Schikele-St.41;Silberahorn;90/110;absterbend;51.139.915;6.899.658
+356580;Koblenzer Straße Paul-Bonatz-Str.31;Sumpfzypresse;80;abgestorben;51.145.229;6.894.683
+76133;Hans-Christoph-Seebohm-Straße 26;Japanische Blütenkirsche;40;abgestorben;51.129.387;6.904.478
+76134;Hans-Christoph-Seebohm-Straße 22;Japanische Blütenkirsche;40;abgestorben;51.129.449;690.448
+75826;Wernigeroder Straße 11;Robinie;90;abgestorben;51.135.305;6.914.567
+356795;Paul-Löbe-Straße 22;Spitzahorn;120;Stammschäden;51.130.038;690.044
+356796;Paul-Löbe-Straße 16;Spitzahorn;110;Fäule am Wurzelhals;51.130.105;6.900.937
+68577;Buchenstraße 11;Schwedische Mehlbeere;95;absterbend;5.117.779;6.860.805
+72768;Karl-Hohmann-Straße 6;Eingriffeliger Weißdorn;30;abgestorben;51.174.189;6.864.848
+66649;Silcherstraße 18;Zweigriffeliger Weißdorn;100;abgestorben;51.156.014;6.878.007
+356158;Urdenbacher Allee 95;Süßkirsche;100;abgestorben;51.151.221;6.868.581
+356159;Urdenbacher Allee 97;Hainbuche;130;abgestorben;51.151.064;6.868.499
+66362;Bücherstraße 16;Zweigriffeliger Weißdorn;80;abgestorben;51.146.868;6.868.303
+66361;Bücherstraße 15;Zweigriffeliger Weißdorn;60;abgestorben;51.146.704;6.868.256
+70809;Paulsmühlenstraße 63;Robinie;190;absterbend;51.164.665;6.884.183
+282095;Capitostraße Einzelbaumscheibe;Magnolie;30;abgestorben;51.165.586;6.884.218
+71141;Schimmelpfennigstraße 55;Gemeine Esche;100;abgestorben;51.163.667;6.886.614
+71121;Schimmelpfennigstraße 1;Gemeine Esche;45;abgestorben;51.161.387;6.888.767
+66124;Tönisstraße 36;Robinie;210;absterbend;51.179.439;6.870.481
+65758;Graudenzer Straße 44;Rosskastanie;30;abgestorben;5.117.993;6.870.408
+65729;Graudenzer Straße 29;Rosskastanie;30;abgestorben;51.180.981;6.872.183
+65876;Hasselsstraße 57;Holländische Linde;100;abgestorben;51.174.569;6.872.087
+295500;Meliesallee 3;Bergahorn;220;abgestorben;51.161.259;6.866.055
+296151;Meliesallee 1;Zweigriffeliger Weißdorn;170;abgestorben;51.161.346;6.866.628
+295497;Meliesallee 7;Bergahorn;55;abgestorben;51.161.257;6.865.049
+295544;Meliesallee 7;Bergahorn;180;abgestorben;51.161.253;6.864.827
+296179;Meliesallee Einzelbaumscheibe;Bergahorn;25;abgestorben;51.161.299;6.862.593
+295564;Meliesallee 40;Bergahorn;30;abgestorben;51.161.298;686.126
+72858;Benrodestraße 66;Apfeldorn;30;abgestorben;51.163.651;6.862.732
+68153;Benrodestraße 62;Eingriffeliger Weißdorn;70;abgestorben;51.163.637;6.863.133
+68157;Benrodestraße 1;Eingriffeliger Weißdorn;70;abgestorben;51.163.629;6.864.404
+72868;Benrodestraße 25;Echte Mehlbeere;40;abgestorben;51.163.856;6.868.161
+70389;Marbacher Straße 91;Eingriffeliger Weißdorn;30;abgestorben;51.164.547;6.862.087
+72960;Bonner Straße 317;Spitzahorn;320;abgestorben;51.163.482;6.851.532
+72970;Bonner Straße 211;Spitzahorn;180;abgestorben;51.163.845;6.850.889
+356166;Telleringstraße 50;Rotfichte;75;abgestorben;5.116.446;6.881.557
+356165;Telleringstraße 50;Rotfichte;55;abgestorben;51.164.432;6.881.562
+356163;Telleringstraße 50;Rotfichte;40;abgestorben;51.164.329;6.881.563
+356164;Telleringstraße 50;Zapfen-Fichte;35;abgestorben;51.164.289;6.881.568
+70054;Karl-Hohmann-Straße 6;Zweigriffeliger Weißdorn;20;abgestorben;51.173.935;6.864.906
+50363;Volmerswerther Straße 175;Bergahorn;45;Stammschäden;51.201.512;6.761.912
+49601;Südring 115;Holländische Linde;150;50% trocken;51.200.765;6.762.839
+47339;Helmholtzstraße 47;Bergahorn;67;50% trocken;51.214.406;6.786.713
+47288;Hammer Straße 29;Purpur-Kastanie;220;Verdacht auf Pseudomonas;51.213.053;675.243
+47312;Hammer Straße 54;Purpur-Kastanie;75;abgestorben;51.213.574;6.753.706
+46661;Morsestraße 14;Bergahorn;50;50% trocken;51.212.977;6.784.971
+46692;Morsestraße 7;Purpur-Kastanie;150;Verdacht auf Pseudomonas;51.212.602;6.784.851
+44353;Aachener Straße 249;Bergahorn;107;50% trocken;51.194.599;6.767.602
+45789;Dianastraße 10;Schwedische Mehlbeere;90;Pilzbefall (Lackporling);51.208.222;6.761.841
+46563;Friedenstraße 43;Schwedische Mehlbeere;30;50% trocken;51.212.197;6.767.585
+308059;Konkordiastraße 111;Amberbaum;47;70% trocken;51.211.418;676.551
+49609;Südring 115;Holländische Linde;170;absterbend;51.200.759;6.762.985
+45445;Bilker Allee 30;Gemeine Esche;150;Pilzbefall;51.211.256;6.765.687
+46572;Friedenstraße 53;Schwedische Mehlbeere;55;50% trocken;51.211.758;676.716
+45459;Bilker Allee 3;Schwedische Mehlbeere;90;Pilzbefall;51.211.352;6.763.663
+48797;Planetenstraße 1;Mehlbeere;60;50% trocken;51.206.274;6.769.241
+206176;Konkordiastraße 108;Thüringische Säulen-Eberesche;35;50% trocken;5.121.175;6.765.919
+47243;Hammer Straße 60;Purpur-Kastanie;227;Verdacht auf Pseudomonas & Stammschäden;51.213.089;6.752.531
+47259;Hammer Straße 60;Purpur-Kastanie;75;abgestorben;51.213.283;6.752.915
+47386;Heresbachstraße 10;Purpur-Kastanie;161;Verdacht auf Pseudomonas;51.207.997;6.781.871
+27213;Kaiserswerther Markt;Rosskastanie;120;Pseudomonas & abgestorbene Krone;51.301.473;6.735.508
+27214;Kaiserswerther Markt;Rosskastanie;130;Pseudomonas & abgestorbene Krone;51.301.515;6.735.639
+27199;Kaiserswerther Markt;Rosskastanie;270;Pseudomonas & abgestorbene Krone;51.301.552;6.734.604
+27202;Kaiserswerther Markt;Rosskastanie;110;Pseudomonas & abgestorbene Krone;51.301.497;673.473
+27203;Kaiserswerther Markt;Rosskastanie;110;Pseudomonas & abgestorbene Krone;51.301.493;6.734.861
+27205;Kaiserswerther Markt;Rosskastanie;110;Pseudomonas & abgestorbene Krone;51.301.537;6.734.992
+309006;Südpark;Baumhasel;100;Pilzbefall (Hallimasch);51.203.181;6.807.027
+309923;Südpark;Spitzahorn;180;absterbend;51.199.044;680.901
+305565;Südpark;Salweide;75;absterbend;51.197.675;6.810.415
+309115;Südpark;Hainbuche;155;abgestorben;51.202.139;6.807.682
+WfaA-01;Südpark;Kirsche. Hainbuche. Stieleiche. Silberweide. Bergahorn;80-140;9 Bäume: absterbend - abgestorben;5.119.944;6.805.781
+WfaA-10;Südpark;Spitzahorn. Bergahorn;130. 100;Pilzbefall (Rußrindenkrankheit). absterbend;51.194.638;680.668
+1023;Ernst-Reuter-Platz;Robinie;182;Krone zum großen Teil abgestorben;51.218.015;6.783.012

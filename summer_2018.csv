@@ -1,0 +1,510 @@
+Latitude;Longitude;Altitude;Geometry;Grund der Fällung;Baum_ID;Gattung;Art;Sorte;Deutsch;Straße;Hausnummer;Pflegebezirk;Politischer Bezirk;Stammumfang;X_Koord;Y_Koord
+51.22518652;6.77267516;0;point;abgestorben;1032;Robinia;pseudoacacia;Monophylla;Robinie;Flinger Straße;li. Von. Nr. 6;3201;1;;32344475.67;5677224.22
+51.22525221;6.79015186;0;point;;1591;Robinia;pseudoacacia;Monophylla;Robinie;Hohenzollernstraße;24;;;;32345696.08;5677194.67
+51.2198795;6.77896267;0;point;;2190;Aesculus;Hippocastanum;;Kastanie;Königsallee;;;;;32344896.81;5676620.84
+51.21557705;6.77008506;0;point;;2326;Platanus;acerifolia;;Platane;Konkordiastraße;Schule;;;;32344262.4;5676161.23
+51.22634978;6.7869735;0;point;;2412;Robinia;pseudoacacia;Umbraculifera;Robinie;Liesegangstraße;ggü 11;;;;32345477.85;5677323.39
+51.21814927;6.78904885;0;point;;2559;Corylus;colurna;;Baumhasel;Mintropstraße;23;;;;32345595.3;5676407.21
+51.22210452;6.77157095;0;point;;2661;Acer;platanoides;Globosum;Spitzahorn;Poststraße;7;;;;32344388.18;5676883.87
+51.2160742;6.77255774;0;point;;2714;Sorbus;intermedia;;Mehlbeere;Reichsstraße;41;;;;32344436.75;5676211.27
+51.29877408;6.73519764;0;point;nur noch Stamm;3891;Tilia;pallida;;Linde;Barbarossawall;57;3111;5;380;32342111.48;5685486.43
+51.29884191;6.73528668;0;point;nur noch Stamm;3893;Tilia;pallida;;Linde;Barbarossawall;Grünanlage;3111;5;280;32342117.92;5685493.78
+51.29911155;6.73562675;0;point;Morschungen im Stammfußbereich;3901;Tilia;pallida;;Linde;Barbarossawall;47;3111;5;340;32342142.55;5685523.03
+51.299384;6.73597745;0;point;Morschungen im Stammfußbereich;3908;Tilia;pallida;;Linde;Barbarossawall;43;3111;5;240;32342167.93;5685552.57
+51.29945092;6.73606611;0;point;Morschungen im Stammfußbereich;3910;Tilia;pallida;;Linde;Barbarossawall;43;3111;5;350;32342174.34;5685559.82
+51.29818847;6.73244554;0;point;abgestorben;3957;Tilia;pallida;;Linde;Burgallee;3;3111;5;180;32341917.63;5685427.24
+51.29823903;6.73241852;0;point;Morschungen im Stammfußbereich;3960;Tilia;pallida;;Linde;Burgallee;2;3111;5;350;32341915.92;5685432.92
+51.30458925;6.75193861;0;point;Sturmschaden;4892;Tilia;pallida;;Linde;Kalkumer Schloßallee;23;3111;5;170;32343298.24;5686097.14
+51.30459662;6.75183523;0;point;Pilzbefall (Lackporling) ;4893;Tilia;pallida;;Linde;Kalkumer Schloßallee;23;3111;5;240;32343291.06;5686098.18
+51.2921489;6.73634709;0;point;Sturmschaden;5169;Acer;pseudoplatanus;;Bergahorn;Niederrheinstraße;geg 333;3111;5;240;32342168.88;5684747.3
+51.30557009;6.75826018;0;point;;5629;Quercus;palustris;;Sumpfeiche;Oberdorfstraße;Grünanlage;;;;32343742.17;5686192.72
+51.33036914;6.7316303;0;point;Morschungen am Kronenansatz;5668;Prunus;;;Kirsche;Sonnenacker;73;3111;5;50;32341971.44;5689007.19
+51.33126391;6.72815172;0;point;abgestorben;5732;Prunus;;;Kirsche;Sonnenacker;15;3111;5;30;32341732.21;5689114.18
+51.23287277;6.75933002;0;point;Morschungen am Stammfuß;22249;Fraxinus;excelsior;;Gemeine Esche;Feldmühleplatz;;3102;4;125;32343570.01;5678107.19
+51.2360227;6.72753041;0;point;Pilzbefall (Schwefelporling);22860;Robinia;pseudoacaccia;;Scheinakazie;Heerdter Lohweg;212;3102;4;250;32341361.04;5678525.63
+51.23789084;6.71030079;0;point;Komplexerkrankung;23438;Aesculus;hippocastanum;;Ross-Kastanie;Krefelder Straße;geg 165;3102;4;230;32340164.87;5678770.7
+51.23018902;6.75768418;0;point;Zwiesel am Stammfuß;26103;Acer;pseudoplatanus;;Bergahorn;Salierplatz;Bolzplatz;3102;4;250;32343446.01;5677812.29
+51.24435456;6.73293377;0;point;Sturmschaden;26462;Quercus;palustris;;Sumpfeiche;Wickrather Straße;;3102;4;190;32341766.8;5679440.39
+51.32848234;6.73409406;0;point;Komplexerkrankung;26889;Aesculus;hippocastanum;;Kastanie;Fritz-Köhler-Weg;7;3111;5;280;32342136.58;5688792.09
+51.30478543;6.74954829;0;point;Morschungen im Stammfußbereich;35180;Tilia;pallida;;Linde;Kalkumer Schloßallee;zw. 43 und 47;3111;5;280;32343132.31;5686124.06
+51.30474897;6.75112833;0;point;Pilzbefall (Lackporling) ;35298;Tilia;pallida;;Linde;Kalkumer Schloßallee;ggü 27;3111;5;270;32343242.31;5686116.63
+51.30683091;6.7427238;0;point;abgestorben;35479;Fraxinus;excelsior;;Gemeine Esche;Arnheimer Straße;87;3111;5;250;32342663.66;5686366.11
+51.30910295;6.74339086;0;point;;35503;Tilia;pallida;;Linde;Arnheimer Straße;;;;;32342717.92;5686617.31
+51.30588086;6.74439048;0;point;;35707;Acer;pseudoplatanus;;Bergahorn;Kalkumer Schloßallee;;;;;32342776.57;5686256.9
+51.31311142;6.74360312;0;point;Rußrindenkrankheit;35752;Acer;pseudoplatanus;;Bergahorn;Arnheimer Straße;;3111;5;140;32342746.42;5687062.56
+51.31307263;6.74360631;0;point;abgestorben;35754;Acer;pseudoplatanus;;Bergahorn;Arnheimer Straße;;3111;5;230;32342746.51;5687058.24
+51.31298849;6.74385124;0;point;abgestorben;35757;Acer;pseudoplatanus;;Bergahorn;Arnheimer Straße;;3111;5;90;32342763.29;5687048.36
+51.33051861;6.78453799;0;point;abgestorben;35837;Tilia;pallida;;Linde;Bahnhofstraße;20;3111;5;150;32345657.41;5688911.16
+51.33785174;6.79317018;0;point;;36547;Fagus;sylvatica;;Rotbuche;Kalkstraße;Grünanlage;;;;32346283.25;5689708.42
+51.33786407;6.79266491;0;point;;36557;Quercus;robur;;Stiel-Eiche;Kalkstraße;2;;;;32346248.1;5689710.85
+51.29737;6.7334598;0;point;Morschungen im Stammfußbereich;37178;Tilia;pallida;;Linde;An Sankt Swidbert;4;3111;5;350;32341985.52;5685334.05
+51.23650305;6.74464743;0;point;Morschungen am Stammfuß;37458;Salix;alba;;Silberweide;Hansaallee;34 Schule;3102;4;190;32342557.47;5678542.21
+51.27603208;6.73324547;0;point;;38115;Fraxinus;excelsior;;Gemeine Esche;Nagelsweg;9;;;;32341897.3;5682961.94
+51.21563772;6.77142835;0;point;abgestorben;38403;Tilia;intermedia;;Winterlinde;Kronprinzenstraße;11;3101;3;90;32344356.41;5676165.13
+51.32673715;6.73693994;0;point;Pilzbefall (Schillerporling) ;38462;Prunus;padus;;Traubenkirsche;Grenzweg;12;3111;5;220;32342328.84;5688591.92
+51.33365056;6.72856175;0;point;;38523;Carpinus;betulus;;Hainbuche;Zur Bockumer Linde;;;;;32341768.99;5689378.67
+51.33037952;6.7320642;0;point;;38572;Prunus;;;Kirsche;Fritz-Köhler-Weg;;;;;32342001.7;5689007.41
+51.30016363;6.76210465;0;point;Morschungen am STammbereich;39904;Populus;nigra;Italica;Italienische Pyramiden-Pappel;Zeppenheimer Straße;;3111;5;420;32343991.78;5685583.39
+51.30014996;6.76209986;0;point;Morschungen am STammbereich;39905;Populus;nigra;Italica;Italienische Pyramiden-Pappel;Zeppenheimer Straße;;3111;5;480;32343991.4;5685581.88
+51.30005108;6.76214499;0;point;Morschungen am STammbereich;40148;Tilia;pallida;;Linde;Zeppenheimer Straße;;3111;5;420;32343994.21;5685570.79
+51.23355371;6.70664982;0;point;Pilzbefall (Lackporling) ;41811;Acer;saccharinum;;Silberahorn;Aldekerkstraße;25;3102;4;230;32339894.98;5678296.41
+51.24432701;6.73299273;0;point;Sturmschaden;42349;Quercus;palustris;;Sumpfeiche;Wickrather Straße;;3102;4;210;32341770.82;5679437.2
+51.32828853;6.78604211;0;point;Morschungen im Stammfußbereich;42813;Fagus;sylvatica;;Rotbuche;Am Litzgraben Schule;28 a;3111;5;180;32345754.7;5688660.03
+51.3056794;6.75867553;0;point;;43347;Quercus;palustris;;Sumpfeiche;Oberdorfstraße;Grünanlage;;;;32343771.49;5686203.99
+51.29729845;6.73547815;0;point;;43418;Populus;alba;;Schwarzpappel;An Sankt Swidbert;;;;;32342125.97;5685321.75
+51.29730908;6.73550675;0;point;;43419;Populus;alba;;Schwarzpappel;An Sankt Swidbert;;;;;32342128;5685322.87
+51.21142458;6.78284877;0;point;Stammschäden;44142;Robinia;pseudoacacia;Monophylla;Robinie;Corneliusstraße;104;3205;3;160;32345139.79;5675672.54
+51.21068475;6.78248755;0;point;abgestorben;44143;Robinia;pseudoacacia;Monophylla;Robinie;Corneliusstraße;113;3205;3;95;32345112.08;5675591.04
+51.20713357;6.77306943;0;point;abgestorben;45487;Ulmus;glabra;;Bergulme;Binterimstraße;4;3205;3;118;32344442.35;5675216.08
+51.19605529;6.78288735;0;point;Pilzbefall (Schwefelporling);45705;Robinia;pseudoacacia;Bessoniana;Robinie;Chlodwigstraße;155;3205;3;240;32345090.92;5673963.55
+51.19650259;6.78180821;0;point;abgestorben;45729;Robinia;pseudoacacia;Bessoniana;Robinie;Chlodwigstraße;92;3205;3;200;32345017.03;5674015.56
+51.21058677;6.78249011;0;point;Stammschäden;45743;Robinia;pseudoacacia;Monophylla;Robinie;Corneliusstraße;113;3205;3;90;32345111.93;5675580.14
+51.20974407;6.78247605;0;point;abgestorben;45752;Robinia;pseudoacacia;Monophylla;Robinie;Corneliusstraße;127;3205;3;95;32345108.12;5675486.47
+51.21261115;6.7825091;0;point;Stammschäden;45756;Robinia;pseudoacacia;Monophylla;Robinie;Corneliusstraße;81;3205;3;155;32345120.05;5675805.19
+51.20591946;6.78063682;0;point;abgestorben;46314;Tilia;intermedia;;Winterlinde;Feuerbachstraße;2;3205;3;200;32344966.82;5675065.09
+51.20589294;6.78054261;0;point;abgestorben;46315;Tilia;intermedia;;Winterlinde;Feuerbachstraße;2;3205;3;200;32344960.15;5675062.34
+51.21217367;6.77216611;0;point;Morschungen am Stammfuß;46472;Robinia;pseudoacacia;Monophylla;Robinie;Florastraße;51;3205;3;175;32344396.25;5675778.4
+51.21226397;6.7546219;0;point;abgestorben;46877;Robinia;pseudoacacia;Monophylla;Robinie;Gladbacher Straße;86;3205;3;145;32343171.31;5675825.74
+51.2123707;6.75411039;0;point;abgestorben;46882;Robinia;pseudoacacia;Monophylla;Robinie;Gladbacher Straße;92;3205;3;130;32343135.95;5675838.7
+51.2124313;6.75381418;0;point;abgestorben;46883;Robinia;pseudoacacia;Monophylla;Robinie;Gladbacher Straße;92;3205;3;140;32343115.47;5675846.07
+51.20101079;6.77173757;0;point;Pilzbefall (Lackporling) ;47720;Sorbus;intermedia;;Mehlbeere;Karl-Schurz-Straße;6;3205;3;150;32344328.68;5674538.11
+51.21266986;6.78715767;0;point;Morschungen;47969;Sorbus;intermedia;;Mehlbeere;Kirchfeldstraße;128;3205;3;70;32345444.89;5675801.93
+51.21260439;6.78699629;0;point;Pilzbefall (Lackporling) ;47985;Sorbus;intermedia;;Mehlbeere;Kirchfeldstraße;126;3205;3;180;32345433.4;5675794.99
+51.21148694;6.76990169;0;point;Pilzbefall (Lackporling) ;48195;Sorbus;intermedia;;Mehlbeere;Kronprinzenstraße;94;3205;3;95;32344235.79;5675706.84
+51.2107783;6.78822661;0;point;Morschungen am Stammfuß;49016;Aesculus;hippocastanum; Baumannii;Rotblühende Kastanie;Ringelsweide;3;3205;3;210;32345513.21;5675589.36
+51.21321928;6.77084967;0;point;Pilzbefall (Lackporling) ;49053;Sorbus;intermedia;;Mehlbeere;Sedanstraße;6;3205;3;55;32344307.84;5675897.45
+51.21314223;6.77120936;0;point;Pilzbefall (Lackporling) ;49056;Sorbus;intermedia;;Mehlbeere;Sedanstraße;7a;3205;3;90;32344332.7;5675888.12
+51.18500717;6.76481251;0;point;abgestorben;50154;Robinia;pseudoac.;Monophylla;Straßenakazie 'Monophylla';Volmarweg;3;3205;3;170;32343790.81;5672773.37
+51.21358892;6.75805479;0;point;abgestorben;50638;Fraxinus;excelsior;;Hängeesche;Wupperstraße;28;3205;3;47;32343415.55;5675965.74
+51.21302531;6.75787268;0;point;Pilzbefall (Lackporling) ;50662;Sorbus;intermedia;;Mehlbeere;Wupperstraße;37;3205;3;120;32343400.92;5675903.46
+51.21324447;6.75788595;0;point;Pilzbefall (Lackporling) ;50663;Sorbus;intermedia;;Mehlbeere;Wupperstraße;29;3205;3;115;32343402.59;5675927.8
+51.21367478;6.75791215;0;point;abgestorben;50665;Sorbus;intermedia;;Mehlbeere;Wupperstraße;23;3205;3;55;32343405.88;5675975.59
+51.20184322;6.79314886;0;point;Pilzbefall (Lackporling) ;51010;Robinia;pseudoacaccia;;Scheinakazie;Schloßmannstraße;32;3207;3;233;32345827.14;5674585.53
+51.21346082;6.79070114;0;point;Pilzbefall (Schwefelporling);51211;Robinia;pseudoacaccia;;Scheinakazie;Arminstraße;20;3207;3;115;32345695;5675882.43
+51.21642536;6.79500374;0;point;Pilzbefall (Lackporling) ;51797;Robinia;pseudoacaccia;;Scheinakazie;Ellerstraße;70;3207;3;97;32346005.37;5676203.03
+51.21521532;6.79933817;0;point;Pilzbefall (Schwefelporling);51805;Robinia;pseudoacaccia;;Scheinakazie;Ellerstraße;124;3207;3;115;32346304.02;5676059.41
+51.21626543;6.79561326;0;point;Morschungen am Stammfuß;51806;Robinia;pseudoacaccia;;Scheinakazie;Ellerstraße;78;3207;3;124;32346047.4;5676183.97
+51.21512741;6.79959869;0;point;Morschungen am Stammfuß;51811;Robinia;pseudoacaccia;;Scheinakazie;Ellerstraße;130;3207;3;109;32346321.92;5676049.09
+51.21603579;6.79643288;0;point;Morschungen am Stammfuß;51818;Robinia;pseudoacaccia;;Scheinakazie;Ellerstraße;82;3207;3;118;32346103.87;5676156.72
+51.21247808;6.80813052;0;point;Pilzbefall (Lackporling) ;52589;Sorbus;aria Magnifica;;Mehlbeere;Heerstraße;16a;3207;3;90;32346908.94;5675736.7
+51.21356323;6.79304374;0;point;Stammschäden;53176;Acer;platanoides;;Spitzahorn;Lessingstraße;ggü 55;3207;3;182;32345858.94;5675888.9
+51.20032959;6.7902385;0;point;Morschungen am Stammfuß;53438;Acer;platanoides;;Spitzahorn;Moorenplatz;Grünanlage;3207;3;117;32345618.78;5674423.34
+51.1983557;6.78512405;0;point;Stammschäden;53517;Tilia;pallida;;Linde;Moorenstraße;20;3207;3;190;32345254.89;5674214.62
+51.21153201;6.79770467;0;point;;53676;Crataegus;laevigata;Paul`s Scarlet;Rotdorn;Oberbilker Allee;;;;;32346177.67;5675653.28
+51.2058043;6.79024456;0;point;Komplexerkrankung;53861;Aesculus;hippocastanum;;Ross-Kastanie;Redinghovenstraße;16;3207;3;205;32345637.51;5675032.06
+51.21269771;6.81544783;0;point;Komplexerkrankung;54286;Aesculus;hippocastanum;;Ross-Kastanie;Ronsdorfer Straße;145;3207;3;132;32347420.69;5675745.9
+51.21258759;6.81533505;0;point;Komplexerkrankung;54289;Aesculus;hippocastanum;;Ross-Kastanie;Ronsdorfer Straße;145;3207;3;149;32347412.45;5675733.89
+51.22165426;6.8113602;0;point;Pilzbefall (Lackporling) ;54310;Sorbus;aria Magnifica;;Mehlbeere;Ruhrtalstraße;22;3207;3;114;32347164.89;5676750.28
+51.21222521;6.80217916;0;point;Morschungen am Stammfuß;54782;Robinia;pseudoacaccia;Monophylla;Scheinakazie;Sonnenstraße;82a;3207;3;186;32346492.47;5675721
+51.21218819;6.80185059;0;point;Morschungen am Stammfuß;54784;Robinia;pseudoacaccia;Monophylla;Scheinakazie;Sonnenstraße;93;3207;3;155;32346469.4;5675717.57
+51.21220777;6.80176775;0;point;Morschungen am Stammfuß;54785;Robinia;pseudoacaccia;Monophylla;Scheinakazie;Sonnenstraße;91;3207;3;130;32346463.68;5675719.92
+51.21262724;6.79205066;0;point;Morschungen am Stammfuß;54824;Robinia;pseudoacaccia;Monophylla;Scheinakazie;Sonnenstraße;7;3207;3;156;32345786.46;5675786.91
+51.21959357;6.80770053;0;point;Pilzbefall (Lackporling) ;55230;Acer;platanoides;;Spitzahorn;Werdener Straße;;3207;3;110;32346902.52;5676528.77
+51.20039369;6.78921376;0;point;Pilzbefall (Lackporling) ;55573;Robinia;pseudoacaccia;;Scheinakazie;Witzelstraße;82;3207;3;207;32345547.41;5674432.62
+51.19903434;6.79225361;0;point;Morschungen am Stammfuß;55581;Robinia;pseudoacaccia;;Scheinakazie;Witzelstraße;98;3207;3;209;32345755.22;5674275.09
+51.19861785;6.79315888;0;point;Morschungen am Stammfuß;55587;Robinia;pseudoacaccia;;Scheinakazie;Witzelstraße;106;3207;3;204;32345817.07;5674226.88
+51.17920675;6.81006837;0;point;;55805;Ginkgo;biloba;;Fächerblattbaum;Lise-Meitner-Straße;5;;;;32346934.03;5672033.22
+51.13678308;6.91368537;0;point;abgestorben;61239;Robinia;pseudoacaccia;;Scheinakazie;Bad Harzburger Straße;70;3210;10;100;32354041.83;5667105.44
+51.14587625;6.885405;0;point;abgestorben;63213;Carpinus;betulus;;Hainbuche;Josef-Maria-Olbrich-Straße;45;3210;10;125;32352092.6;5668173.01
+51.14585432;6.88546048;0;point;abgestorben;63242;Carpinus;betulus;;Hainbuche;Josef-Maria-Olbrich-Straße;45;3210;10;160;32352096.41;5668170.46
+51.13463455;6.91557778;0;point;Stammschäden;63844;Prunus;serrulata Amanogawa;;Vogelkirsche;Nordhausener Straße;Wernigeroder straße 129;3210;10;60;32354167.44;5666862.79
+51.1483981;6.88523895;0;point;Pilzbefall (Lackporling) ;64102;Sorbus;intermedia;;Mehlbeere;Petersstraße;19;3210;10;40;32352089.05;5668453.75
+51.13826462;6.90001418;0;point;;64277;Acer;;;Spitzahorn;Ricarda-Huch-Straße;Parkplatz;;;;32353090.19;5667297.39
+51.18432302;6.8262692;0;point;Pilzbefall (Schwefelporling);68669;Robinia;pseudoacacia Bessoniana;;Robinie;Dabringhauser Straße;24;3209;9;190;32348083.1;5672568.49
+51.18456051;6.82593862;0;point;Pilzbefall (Schwefelporling);68670;Robinia;pseudoacacia Bessoniana;;Robinie;Dabringhauser Straße;29;3209;9;180;32348060.78;5672595.58
+51.1844559;6.82589904;0;point;Pilzbefall (Schwefelporling);68673;Robinia;pseudoacacia Bessoniana;;Robinie;Dabringhauser Straße;30;3209;9;160;32348057.67;5672584.03
+51.18358108;6.8272437;0;point;Pilzbefall (Schwefelporling);68686;Robinia;pseudoacacia Bessoniana;;Robinie;Dabringhauser Straße;ggü. 43;3209;9;200;32348148.76;5672483.98
+51.21359056;6.77226724;0;point;Morschungen am Stammfuß;77447;Robinia;pseudoacacia;Monophylla;Robinie;Florastraße;31;3205;3;150;32344408.09;5675935.73
+51.21367981;6.77216485;0;point;abgestorben;77449;Robinia;pseudoacacia;Monophylla;Robinie;Florastraße;29;3205;3;130;32344401.24;5675945.87
+51.21425179;6.79070937;0;point;Pilzbefall (Schwefelporling);78367;Robinia;pseudoacaccia;;Scheinakazie;Arminstraße;15;3207;3;206;32345698.22;5675970.36
+51.20040634;6.78976915;0;point;Stammschäden;82778;Betula;pendula (früher verrucosa);;Sandbirke;Moorenplatz;Grünanlage;3207;3;133;32345586.25;5674432.86
+51.23454237;6.78517552;0;point;;103590;Robinia;pseudoacaccia;;Scheinakazie;Rochusstraße;23;;;;32345379.79;5678238.11
+51.25572644;6.80983882;0;point;abgestorben;104339;Acer;pseudoplatanus;;Bergahorn;Wrangelstraße;Schule;3104;6;112;32347171.64;5680541.96
+51.25616857;6.80860986;0;point;Pilzbefall (Schillerporling) ;104434;Betula;pendula;;Sandbirke;Wrangelstraße;Schule;3104;6;125;32347087.36;5680593.68
+51.24195072;6.81161887;0;point;Morschung;104608;Robinia;pseudoacaccia;;Scheinakazie;Graf-Recke-Straße;170 Schule;3104;6;76;32347250.19;5679006.52
+51.2506772;6.80428687;0;point;;104925;Aesculus;hippocastanum;;Ross-Kastanie;Mörsenbroicher Weg;15;;;;32346767.48;5679992.1
+51.2437913;6.79720111;0;point;Sturmschaden;105323;Aesculus;hippocastanum;;Ross-Kastanie;Grunerstraße;3;3104;2;50;32346250.07;5679241.26
+51.25309434;6.79427532;0;point;Riss im Zwiesel;105451;Robinia;pseudoacaccia;;Scheinakazie;Grashofstraße;;3104;6;174;32346076.95;5680281.8
+51.25294769;6.79501224;0;point;;105479;Robinia;pseudoacaccia;;Scheinakazie;Grashofstraße;;;;;32346127.88;5680263.95
+51.24461848;6.77189704;0;point;Pilzbefall am Wurzelhals (Lackporling);106760;Robinia;pseudoacaccia;;Scheinakazie;Kennedydamm;;3104;1;184;32344486.89;5679386.51
+51.24432501;6.77088642;0;point;Pilzbefall (Riesenporling);106845;Platanus;acerifolia;;Platane;Kaiserswerther Straße;117;3104;1;451;32344415.37;5679356.02
+51.25852589;6.81282651;0;point;abgestorben;107106;Acer;pseudoplatanus;;Bergahorn;Rückertstraße;Grünanlage;3104;6;98;32347389.37;5680847.02
+51.26428546;6.81249168;0;point;Pilzbefall (Schillerporling) ;107206;Sorbus;aria;;Eberesche;In den Diken;;3104;6;148;32347385.09;5681488.13
+51.26321985;6.81274369;0;point;Pilzbefall (Schillerporling) ;107215;Sorbus;aria;;Eberesche;In den Diken;;3104;6;80;32347399.14;5681369.12
+51.25761282;6.80602172;0;point;abgestorben;107556;Acer;pseudoplatanus;;Bergahorn;Münsterstraße;437;3104;6;93;32346911.58;5680759.66
+51.2575105;6.80591293;0;point;abgestorben;107557;Acer;pseudoplatanus;;Bergahorn;Münsterstraße;435;3104;6;150;32346903.65;5680748.51
+51.25707875;6.8054489;0;point;abgestorben;107559;Acer;pseudoplatanus;;Bergahorn;Münsterstraße;425;3104;6;121;32346869.84;5680701.47
+51.26140392;6.80496993;0;point;abgestorben;107579;Tilia;pallida;;Linde;Hördtweg;1;3104;6;163;32346850.8;5681183.39
+51.26121084;6.80383427;0;point;Morschung im Stammbereich;107626;Acer;pseudoplatanus;;Bergahorn;Scheffelstraße;KSP;3104;6;80;32346770.93;5681164.29
+51.26458189;6.80374378;0;point;Wurzelfäule;107638;Robinia;pseudoacaccia;;Scheinakazie;Rather Kreuzweg;78;3104;6;118;32346775.83;5681539.31
+51.26851353;6.79787822;0;point;Komplexerkrankung;107801;Aesculus;hippocastanum;;Ross-Kastanie;Kürtenstraße;55;3104;6;98;32346379.77;5681988.73
+51.26835126;6.79793889;0;point;Komplexerkrankung;107802;Aesculus;hippocastanum;;Ross-Kastanie;Kürtenstraße;47;3104;6;101;32346383.46;5681970.56
+51.26812342;6.79803293;0;point;Sturmschaden;107803;Aesculus;hippocastanum;;Ross-Kastanie;Kürtenstraße;41;3104;6;55;32346389.26;5681945.03
+51.26772515;6.79818401;0;point;Komplexerkrankung;107805;Aesculus;hippocastanum;;Ross-Kastanie;Kürtenstraße;23;3104;6;99;32346398.47;5681900.43
+51.27022149;6.79720945;0;point;Komplexerkrankung;107856;Aesculus;hippocastanum;;Ross-Kastanie;Dorstener Straße;;3104;6;121;32346338.82;5682180.04
+51.27015359;6.79684138;0;point;Komplexerkrankung;107862;Aesculus;hippocastanum;;Ross-Kastanie;Dorstener Straße;;3104;6;157;32346312.92;5682173.26
+51.26964847;6.79742668;0;point;Komplexerkrankung;107892;Aesculus;hippocastanum;;Ross-Kastanie;Dorstener Straße;;3104;6;149;32346352.06;5682115.87
+51.26867829;6.79781157;0;point;Komplexerkrankung;107956;Aesculus;hippocastanum;;Ross-Kastanie;Kürtenstraße;63;3104;6;60;32346375.67;5682007.19
+51.27498008;6.7867145;0;point;Pilzbefall am Wurzelhals (Schillerporling);108230;Sorbus;aria;;Eberesche;Unterrather Straße;ggü 38;3104;6;124;32345622.75;5682731.17
+51.26596869;6.7768106;0;point;;108385;Tilia;intermedia;;Linde;Wilseder Weg;;;;;32344901.68;5681750.06
+51.26277964;6.77744846;0;point;Pilzbefall (Lackporling) ;108392;Robinia;pseudoacaccia;;Scheinakazie;An der Piwipp;103;3104;6;116;32344935.44;5681394.12
+51.27125003;6.77544119;0;point;;108490;Sorbus;aria;;Mehlbeere;Auf den Geisten;18;;;;32344823.95;5682340.19
+51.24488068;6.81000173;0;point;Sturmschaden;109776;Robinia;pseudoacaccia;;Scheinakazie;Grunerstraße;100;3104;2;243;32347147.04;5679335.67
+51.24059894;6.78674987;0;point;abgestorben;110151;Acer;pseudoplatanus;;Bergahorn;Eulerstraße;51;3104;1;274;32345509.98;5678908.23
+51.24749221;6.7862254;0;point;;110167;Robinia;pseudoacaccia;;Scheinakazie;Geistenstraße;10;;;;32345496.48;5679675.8
+51.24737002;6.7866881;0;point;;110168;Robinia;pseudoacaccia;;Scheinakazie;Geistenstraße;14;;;;32345528.36;5679661.24
+51.24353033;6.77254356;0;point;Sturmschaden;111447;Aesculus;hippocastanum;;Ross-Kastanie;Kennedydamm;3;3104;1;151;32344528.34;5679264.15
+51.23069614;6.79334079;0;point;;111473;Acer;platanoides;;Spitzahorn;Adlerstraße;;;;;32345936.91;5677793.29
+51.24980602;6.77478678;0;point;;112098;Sorbus;aria;;Eberesche;Schwannstraße;;;;;32344706.04;5679957.2
+51.23492671;6.8636575;0;point;Morschungen am Stammfuß;114290;Robinia;pseudoacaccia;;Scheinakazie;Am Pesch;29;3106;7;155;32350859.42;5678118.57
+51.2347943;6.86341006;0;point;;114294;Robinia;pseudoacaccia;;Scheinakazie;Am Pesch;29;3106;7;;32350841.72;5678104.35
+51.2352282;6.86388091;0;point;;114415;Robinia;pseudoacaccia;;Scheinakazie;Steinweg;15;;;;32350875.99;5678151.64
+51.23521455;6.86377381;0;point;;114425;Robinia;pseudoacaccia;;Scheinakazie;Steinweg;12;;;;32350868.47;5678150.34
+51.23482793;6.8572576;0;point;;114515;Robinia;pseudoacaccia;;Scheinakazie;Schönaustraße;40;;;;32350412.36;5678120.6
+51.24198897;6.85103365;0;point;Morschungen im Kronenansatz;115126;Malus;domestica;;Apfel;Heinrich-Könn-Straße;35;3106;7;167;32350001.2;5678929.54
+51.23796196;6.85346923;0;point;Pilzbefall (Lackporling) ;115211;Sorbus;aria;;Eberesche;Gräfrather Straße;5;3106;7;152;32350158.1;5678476.8
+51.23451529;6.86145393;0;point;;115435;Robinia;pseudoacaccia;;Scheinakazie;Heyestraße;1;;;;32350704.27;5678077.3
+51.23481669;6.85898251;0;point;Sturmschaden;115447;Acer;pseudoplatanus;;Bergahorn;Märkische Straße;54;3106;7;123;32350532.73;5678115.84
+51.23124212;6.8439861;0;point;;116880;Gleditsia;triacanthos;;Lederhülsenbaum;Diepenstraße;;;;;32349474.25;5677749
+51.23827185;6.83361338;0;point;Morschungen. Krone ausgebrochen;117024;Aesculus;hippocastanum;;Ross-Kastanie;Hardtstraße;79;3106;7;211;32348773.19;5678551.95
+51.23581752;6.85065069;0;point;Pilzbefall (Lackporling) ;117378;Robinia;pseudoacaccia;;Scheinakazie;Akazienallee;3;3106;7;277;32349954.39;5678244.11
+51.2395792;6.83103378;0;point;Sturmschaden;117604;Aesculus;hippocastanum;;Ross-Kastanie;Hardtstraße;66;3106;7;198;32348597.43;5678702.63
+51.23968498;6.83086017;0;point;Morschungen. Krone ausgebrochen;117606;Aesculus;hippocastanum;;Ross-Kastanie;Hardtstraße;64;3106;7;233;32348585.66;5678714.75
+51.24262645;6.82882599;0;point;Morschungen im Stammbereich;117796;Quercus;rubra;;Roteiche;Staufenplatz;;3106;7;312;32348453.35;5679046.01
+51.24075978;6.82928284;0;point;Sturmschaden;117807;Aesculus;hippocastanum;;Ross-Kastanie;Hardtstraße;16;3106;7;168;32348479.1;5678837.51
+51.23672906;6.83031057;0;point;Pilzbefall (Lackporling) ;118086;Aesculus;hippocastanum;;Kastanie;Altenbergstraße ;;3106;2;389;32348537.59;5678387.21
+51.24557821;6.81911606;0;point;Riss im Zwiesel;118685;Acer;Saccharinum;;Silber-Ahorn;Graf-Recke-Straße;93;3104;2;132;32347785.42;5679394.3
+51.23703362;6.82967275;0;point;Pilzbefall (Lackporling) ;118812;Aesculus;hippocastanum;;Kastanie;Altenbergstraße ;;3106;2;301;32348494.07;5678422.39
+51.2331833;6.82268788;0;point;Pilzbefall (Zunderschwamm);119414;Acer;pseudoplatanus;;Bergahorn;Neumannstraße;;3106;2;245;32347993.83;5678008.7
+51.24082436;6.82607685;0;point;Morschungen am Stammfuß;119722;Tilia;pallida;;Linde;Grafenberger Allee;397;3106;7;272;32348255.55;5678851.31
+51.23939062;6.82347973;0;point;Morschungen am Stammfuß;119785;Tilia;pallida;;Linde;Grafenberger Allee;358;3106;7;227;32348069.56;5678697.26
+51.22993626;6.82306865;0;point;Morschungen im Stammbereich;120227;Aesculus;hippocastanum;;Ross-Kastanie;Hellweg;27;3106;2;230;32348009.71;5677646.87
+51.23154187;6.82092822;0;point;abgestorben;120417;Phellodendron;Sachalinense;;Korkbaum;Schlüterstraße;Park;3106;2;166;32347865.58;5677829.83
+51.25151791;6.82829917;0;point;Pilzbefall (Lackporling) ;120942;Fagus;sylvatica;;Rotbuche;Rolander Weg;26;3106;7;312;32348445.82;5680035.75
+51.23195992;6.81437786;0;point;;121220;Tilia;pallida;;Linde;Lindenstraße;240;;;;32347409.69;5677889.9
+51.23192779;6.81455014;0;point;;121226;Tilia;pallida;;Linde;Lindenstraße;245;;;;32347421.61;5677885.97
+51.23420035;6.81393774;0;point;Riss im Zwiesel;121241;Ginkgo;biloba;;Fächerblattbaum;Karl-Müller-Straße;Schul;3106;2;242;32347386.38;5678139.93
+51.22983486;6.81340741;0;point;Pilzbefall (Hallimasch);121265;Robinia;pseudoacaccia;;Scheinakazie;Hoffeldstraße;39;3106;2;178;32347334.91;5677655.63
+51.23538874;6.81065646;0;point;Pilzbefall (Zunderschwamm);121664;Tilia;pallida;;Linde;Hans-Sachs-Straße;39;3106;2;220;32347161.27;5678278.89
+51.26708126;6.77294022;0;point;Morschungen am Stammfuß;122667;Betula;pendula;;Sandbirke;Kalkumer Straße;85;3103;6;175;32344635.45;5681881.95
+51.26770244;6.76965315;0;point;Pilzbefall (Hallimasch);122683;Tilia;pallida;;Linde;An der Golzheimer Heide Elsa-Bränström;120;3103;6;185;32344408.26;5681957.98
+51.26842389;6.76838384;0;point;Morschungen am Stammfuß;122744;Salix;caprea;;Salweide;An der Golzheimer Heide st. Bruno;120;3103;6;280;32344322.16;5682040.89
+51.27122899;6.77368646;0;point;;122811;Robinia;pseudoacaccia;;Scheinakazie;Kalkumer Straße;145;;;;32344701.49;5682341.56
+51.27179794;6.77402312;0;point;Morschungen am Stammfuß;122833;Robinia;pseudoacaccia;;Scheinakazie;Kalkumer Straße;142;3103;6;170;32344726.89;5682404.11
+51.259774;6.76155778;0;point;Pilzbefall (Hallimasch);123130;Populus;*hybrid;;Pappel;Danziger Straße;;3103;5;210;32343816.7;5681093.6
+51.26037208;6.76140301;0;point;Hohlstellen am Stammfuß;123131;Populus;*hybrid;;Pappel;Danziger Straße;;3103;5;190;32343807.93;5681160.43
+51.26076372;6.76135445;0;point;Hohlstellen am Stammfuß;123142;Populus;*hybrid;;Pappel;Danziger Straße;;3103;5;189;32343805.87;5681204.08
+51.25890327;6.76015872;0;point;;123166;Acer;saccharinum;;Silberahorn;Koetschaustraße;36 Schule;;;;32343716.14;5680999.76
+51.25887242;6.76021984;0;point;;123167;Acer;saccharinum;;Silberahorn;Koetschaustraße;36 Schule;;;;32343720.3;5680996.2
+51.261057;6.76111974;0;point;Pilzbefall (Hallimasch);123214;Populus;*hybrid;;Pappel;Danziger Straße;;3103;5;180;32343790.49;5681237.19
+51.26158476;6.7606083;0;point;Pilzbefall (Lackporling) ;123222;Robinia;pseudoacaccia;;Scheinakazie;Danziger Straße;;3103;5;170;32343756.6;5681296.96
+51.25439449;6.76642904;0;point;Pilzbefall (zottiger Schillerporling);123379;Sorbus;aria;;Eberesche;Meineckestraße;22;3103;1;110;32344138.35;5680485.1
+51.25482879;6.76542566;0;point;Pilzbefall (zottiger Schillerporling);123436;Sorbus;aria;;Eberesche;Meineckestraße;41;3103;1;110;32344069.81;5680535.52
+51.27014188;6.74833336;0;point;;124306;Aesculus;hippocastanum;;Ross-Kastanie;Am Vogelsang;;;;;32342929.45;5682274.62
+51.26133284;6.76668764;0;point;Pilzbefall (Schwefelporling);124999;Robinia;pseudoaccacia;;Scheinakazie;Heinefeldplatz;;3103;6;165;32344179.86;5681256.03
+51.26243996;6.76143525;0;point;Pilzbefall (Hallimasch);125160;Robinia;pseudoacaccia;;Scheinakazie;Am Hain;;3103;5;170;32343817.19;5681390.29
+51.26250552;6.76182067;0;point;abgestorben;125164;Betula;pendula;;Sandbirke;Am Hain;;3103;5;100;32343844.3;5681396.76
+51.25925727;6.76057309;0;point;Morschungen am Stammfuß;125323;Paulownia;tomentosa;;Blauglockenbaum;Koetschaustraße;36 Schule;3103;5;140;32343746.25;5681038.24
+51.26024638;6.75988213;0;point;Stammschäden;125367;Prunus;serrula;;Kirsche;Koetschaustraße;hinter 28;3103;5;140;32343701.4;5681149.69
+51.26042487;6.76047734;0;point;abgestorben;125384;Sorbus;aucuparia;;Eberesche;Koetschaustraße;hinter 22;3103;5;320;32343743.53;5681168.27
+51.25808442;6.75869411;0;point;abgestorben;125468;Sorbus;aucuparia;;Eberesche;Gottfried-Keller-Straße;;3103;5;100;32343611.18;5680911.83
+51.25780388;6.75855655;0;point;Morschungen am Stammfuß;125476;Populus;nigra;Italica;Italienische Pyramiden-Pappel;Gottfried-Keller-Straße;;3103;5;285;32343600.63;5680880.93
+51.26949141;6.76010727;0;point;;125745;Acer;platanoides;;Spitzahorn;Am Roten Haus;;;;;32343748.47;5682177.17
+51.27003793;6.75994663;0;point;;125777;Acer;pseudoplatanus;;Bergahorn;Am Roten Haus;ggü 65a;;;;32343739.12;5682238.28
+51.27071438;6.75983616;0;point;Morschungen am Stammfuß;125808;Robinia;pseudoacaccia;;Scheinakazie;Am Roten Haus;;3103;5;160;32343733.71;5682313.73
+51.27029518;6.74834493;0;point;Stammschäden;126297;Aesculus;hippocastanum;;Ross-Kastanie;Am Vogelsang;;3103;5;165;32342930.78;5682291.64
+51.25855166;6.73238268;0;point;;126442;Fraxinus;excelsior;;Gemeine Esche;Am Staad;;;;;32341777.09;5681020.15
+51.23613345;6.83552698;0;point;;127982;Carpinus;betulus;;Hainbuche;Stadtwald;;;;;32348899.75;5678310.24
+51.23623386;6.83474192;0;point;Pilzbefall (Hallimasch);128012;Quercus;palustris;;Sumpfeiche;Ostpark;;3106;7;354;32348845.28;5678323.02
+51.23652733;6.83337286;0;point;;128075;Tilia;intermedia;;Linde;Dreherstraße;;;;;32348750.68;5678358.47
+51.24163327;6.7723193;0;point;;131076;Carpinus;betulus;;Fraxinus;Klever Straße;Grünanlage;;;;32344506.29;5679053.69
+51.2414559;6.77030246;0;point;;131497;Populus;;;Pappel;Cecilienallee;ggü. 69 Rheinpark;;;;32344364.93;5679038.24
+51.2465696;6.76771462;0;point;;132009;Acer;pseudoplatanus;;Bergahorn;Golzheimer Platz;;;;;32344201.6;5679612.32
+51.23243739;6.70888408;0;point;;133170;Acer;pseudoplatanus;;Bergahorn;Heerdter Landstraße;Freizeitpark;;;;32340047.07;5678167.42
+51.23238588;6.70890798;0;point;;133171;Acer;pseudoplatanus;;Bergahorn;Heerdter Landstraße;Freizeitpark;;;;32340048.56;5678161.64
+51.24713249;6.7202178;0;point;abgestorben;133315;Acer;pseudoplatanus;;Bergahorn;Büdericher Straße;Daueranlage;3102;4;150;32340888.96;5679776.74
+51.24589294;6.71748028;0;point;;133376;Tilia;intermedia;;Linde;Büdericher Straße;Daueranlage;;;;32340693.64;5679644.85
+51.22702655;6.74935481;0;point;Pilzbefall (Zunderschwamm);133864;Populus;Alba;;Silber-Pappel;Rheinallee;Grünstreifen;3102;4;250;32342853.76;5677478.44
+51.21409946;6.78814074;0;point;abgestorben;205998;Acer;;;Spitzahorn;Hüttenstraße;88;3205;3;200;32345518.33;5675958.82
+51.21264346;6.79147125;0;point;Morschungen am Stammfuß;275461;Robinia;;pseudoac.Monophylla;Strassenakazie 'Monophylla';Sonnenstraße;3;3207;3;180;32345746.05;5675789.93
+51.21203773;6.79191878;0;point;Morschungen am Stammfuß;275463;Robinia;;pseudoac.Monophylla;Strassenakazie 'Monophylla';Hüttenstraße;142;3207;3;181;32345775.28;5675721.64
+51.18696218;6.82742053;0;point;Pilzbefall (Schwefelporling);275743;Robinia;pseudoacacia; Bessoniana;Robinie;Werstener Feld;geg 76;3209;9;180;32348172.23;5672859.56
+51.18517026;6.82441906;0;point;Morschungen am Stammfuß;275759;Robinia;pseudoacacia; Bessoniana;Robinie;Werstener Feld;30;3209;9;160;32347956.6;5672666.52
+51.18505652;6.82426128;0;point;Morschungen am Stammfuß;275761;Robinia;pseudoacacia; Bessoniana;Robinie;Werstener Feld;30;3209;9;150;32347945.2;5672654.2
+51.18492958;6.82408051;0;point;Morschungen am Stammfuß;275763;Robinia;pseudoacacia; Bessoniana;Robinie;Werstener Feld;30;3209;9;150;32347932.15;5672640.46
+51.18546227;6.82479556;0;point;Pilzbefall (Schwefelporling);275767;Robinia;pseudoacacia; Bessoniana;Robinie;Werstener Feld;42;3209;9;150;32347983.87;5672698.21
+51.25612732;6.7812036;0;point;abgestorben;276976;Chamaecyparis;Lawsoniana;;Lawsons Scheinzypresse;Ulmenstraße;4;3205;3;170;32345175.05;5680646.52
+51.22942791;6.78777148;0;point;;279035;Prunus;avium;;Vogelkirsche;Louise-Dumont-Straße;Park;;;;32345543.87;5677663.97
+51.30335264;6.7471155;0;point;Morschungen am Stammbereich;281232;Salix;alba;;Silberweide;Kesselsbergweg;23 KITA;3111;5;80;32342957.86;5685969.95
+51.20770711;6.79915184;0;point;;283768;Tilia;Europaea;Pallida' syn. t.intermedia 'pallida;Kaiser Linde;Volksgarten;;;;;32346266;5675224.96
+51.20781821;6.79891904;0;point;;283770;Tilia;Europaea;;Hollaendische Linde;Volksgarten;;;;;32346250.11;5675237.8
+51.20808759;6.79792186;0;point;;283785;Tilia;Euchlora;;Krim-Linde;Volksgarten;;;;;32346181.36;5675269.84
+51.20822676;6.79830122;0;point;;283787;Tilia;Euchlora;;Krim-Linde;Volksgarten;;;;;32346208.32;5675284.52
+51.20782345;6.7977114;0;point;;284121;Tilia;Europaea;;Hollaendische Linde;Volksgarten;;;;;32346165.78;5675240.91
+51.20575977;6.80036843;0;point;;284464;Quercus;Rubra;;Amerikanische rot-Eiche;Volksgarten;;;;;32346344.49;5675005.89
+51.20544999;6.7996015;0;point;;284673;Quercus;Robur;;Sommer-Eiche;Volksgarten;;;;;32346289.89;5674973.05
+51.20551828;6.79966052;0;point;;284677;Quercus;Rubra;;Amerikanische rot-Eiche;Volksgarten;;;;;32346294.24;5674980.52
+51.29994021;6.73191015;0;point;Morschungen im Stammfußbereich;300532;Robinia;Pseudoacacia;;Schein-Akazie - silberregen;Burgallee;3;3111;5;120;32341886.33;5685623.17
+51.20263802;6.81040201;0;point;;307850;Robinia;Pseudoacaci;Monophylla;Einblaettrige Robinie;Volksgarten;;;;;32347034.97;5674637.85
+51.20263802;6.81040201;0;point;;307850;Robinia;Pseudoacaci;Monophylla;Scheinakazie;Volksgarten;;;;;32347034.97;5674637.85
+51.20268733;6.81039352;0;point;Stammschäden;307851;Robinia;Pseudoacaci;Monophylla;Scheinakazie;Siegburger Straße;;3207;3;176;32347034.54;5674643.35
+51.20719371;6.80641243;0;point;;308381;Tilia;Europaea;;Hollaendische Linde;Volksgarten;;;;;32346771.41;5675152.71
+51.20733361;6.80634336;0;point;;308382;Tilia;Europaea;;Hollaendische Linde;Volksgarten;;;;;32346767.05;5675168.41
+51.30747423;6.74304133;0;point;abgestorben;310484;Tilia;Europaea;Pallida' syn. t.intermedia 'pallida;Kaiser Linde;Arnheimer Straße;99;3111;5;360;32342687.99;5686436.96
+51.25756777;6.75701104;0;point;;310915;Betula;Pendula;;Sandbirke;Edith-Stein-Weg;Park;;;;32343492;5680857.97
+51.25763138;6.75854731;0;point;;310932;Betula;Pendula;Tristis;Trauerweissbirke-Haengebirke;Edith-Stein-Weg;Park;;;;32343599.4;5680861.77
+51.25833323;6.75846199;0;point;Morschungen am Stammfuß;310937;Populus;Nigra;Italica;Italienische pyramiden-Pappel;Gottfried-Keller-Straße;;3103;5;300;32343595.83;5680939.99
+51.25753935;6.75987974;0;point;;310953;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;Park;;;;32343692.05;5680848.7
+51.25762553;6.76106491;0;point;;310960;Prunus;Avium;;Suess-Kirsche;Edith-Stein-Weg;Park;;;;32343775.03;5680855.76
+51.26392906;6.76017766;0;point;abgestorben;311176;Betula;Pendula;;Sandbirke. weiss-Birke;Carl-Sonnenschein-Straße;Verbindungsweg;3103;5;93;32343734.51;5681558.54
+51.26806562;6.7326874;0;point;Pilzbefall (Lackporling) ;311237;Sorbus;Aucuparia;;Gemeine eberesche-Vogelbeerbau;Stockumer Höfe;KGV;3103;5;120;32341831.02;5682077.35
+51.26419541;6.74776813;0;point;Stammschäden;311403;Carpinus;Betulus;;Gemeine hainbuche-Gemeine weis;Weißdornstraße;KGV;3103;5;98;32342869.74;5681614.64
+51.26035074;6.74829152;0;point;Morschungen am Stammfuß;311452;Fraxinus;Excelsior;;Gemeine Esche;Weißdornstraße;KGV;3103;5;180;32342893.14;5681186.03
+51.20594676;6.80795793;0;point;Sturmschaden;318577;;Pseudoplatanus;;Bergahorn;Siegburger Straße;;3207;3;174;32346875.22;5675010.84
+51.20370936;6.81036937;0;point;Stammschäden;318702;Acer;Platanoides;;Spitzahorn;Siegburger Straße;;3207;3;186;32347036.24;5674757.04
+51.20367966;6.81036821;0;point;Stammschäden;318703;Acer;Pseudoplatanus;;Bergahorn;Siegburger Straße;KGV;3207;3;142;32347036.06;5674753.74
+51.32707669;6.78332961;0;point;;319039;Prunus;Avium;;Suess-Kirsche;Zur Lindung;Hinter 29;;;;32345561.67;5688530.99
+51.26394612;6.74789915;0;point;Sturmschaden;326558;Acer;Saccharinum;;Silber-Ahorn;Weißdornstraße;KGV;3103;5;230;32342878.03;5681586.64
+51.31866465;6.75247672;0;point;;327145;Sorbus;aria;;Eberesche;Heinrich-Holtschneider-Weg;Grünanlage;;;;32343383.69;5687661.05
+51.31874189;6.75252289;0;point;;327147;Sorbus;aria;;Eberesche;Heinrich-Holtschneider-Weg;Grünanlage;;;;32343387.17;5687669.54
+51.25623018;6.74886355;0;point;Stammschäden;327641;Populus;Nigra;Italica;Italienische pyramiden-Pappel;Nordpark;;3103;5;320;32342919;5680726.64
+51.25768059;6.74376506;0;point;Pilzbefall (schuppiger Porling);327857;Prunus;Serrula;Kanzan;Japanische Zierkirsche 'kanzan;Nordpark;;3103;5;210;32342568.23;5680898.83
+51.13517496;6.8994478;0;point;Stammschäden;329165;Sorbus;Aria;Magnifica;Grosslaubige-Mehlbeere;Emil-Barth-Straße;152;3210;10;110;32353040.76;5666954.98
+51.25848813;6.76236359;0;point;abgestorben;334146;Acer;Platanoides;;Spitzahorn;Danziger Straße;Park;3103;5;110;32343868.56;5680948.91
+51.2552781;6.78054623;0;point;Pilzbefall am Wurzelhals (Schillerporling);334226;Betula;Pendula;;Sandbirke. weiss-Birke;Ulmenstraße;33;3104;6;124;32345126.33;5680553.48
+51.25584686;6.78098292;0;point;;334298;Thuja;Occidentalis;;Abendlaendischer Lebensbaum;Ulmenstraße;Grünanlage;;;;32345158.71;5680615.8
+51.25511622;6.79342379;0;point;;334465;Populus;Nigra;Italica;Italienische pyramiden-Pappel;Vogelsanger Weg;KGV;;;;32346024.29;5680508.4
+51.26642084;6.76819017;0;point;Gebäudeschäden;334469;Robinia;Pseudoacacia;;Schein-Akazie - silberregen;Krönerweg;KGV;3103;6;80;32344301.88;5681818.58
+51.25976347;6.76238535;0;point;Sturmschaden;334472;Acer;Campestre;;Feld-Ahorn;Deikerstraße;;3103;5;90;32343874.4;5681090.67
+51.25980648;6.7623437;0;point;Sturmschaden;334473;Prunus;Avium;;Suess-Kirsche.vogel-kirsche;Deikerstraße;;3103;5;150;32343871.64;5681095.54
+51.25925412;6.76242514;0;point;Sturmschaden;334474;Acer;Platanoides;Faassen's black;Schwarz-Ahorn 'faassen's black;Deikerstraße;;3103;5;160;32343875.45;5681033.95
+51.26706925;6.75262011;0;point;abgestorben;334475;Betula;Pendula;;Sandbirke;Danziger Straße;;3103;5;130;32343217.99;5681923.81
+51.26825766;6.75191783;0;point;;334476;;;;;Danziger Straße;;;;;32343173.05;5682057.45
+51.26722012;6.75412176;0;point;abgestorben;334477;Betula;Pendula;;Sandbirke;Sandweg;;3103;5;85;32343323.25;5681937.38
+51.26721041;6.75415004;0;point;abgestorben;334478;Betula;Pendula;;Sandbirke;Sandweg;;3103;5;90;32343325.19;5681936.24
+51.26904149;6.76174904;0;point;;334480;Sorbus;Aucuparia;;Gemeine eberesche;Zeisigweg ;neben 35;;;;32343861.46;5682123.65
+51.23539951;6.85672017;0;point;;334488;Robinia;Pseudoacaci;Monophylla;Scheinakazie;Heyestraße;neben 71a;;;;32350376.7;5678185.25
+51.31939839;6.74536026;0;point;;334490;Prunus;Avium;;Suess-Kirsche;Heinrich-Walbröhl-Weg;KSP;;;;32342890.35;5687757.85
+51.26280082;6.79177331;0;point;abgestorben;334499;Robinia;Pseudoacaci;Monophylla;Scheinakazie;Höxterweg;;3104;6;93;32345934.83;5681366.32
+51.26290947;6.78980139;0;point;Sturmschaden;334500;Robinia;Pseudoacaci;Monophylla;Scheinakazie;Höxterweg;;3104;6;174;32345797.63;5681382.54
+51.27112921;6.77430879;0;point;Pilzbefall (Schillerporling) ;334503;Sorbus;Aria;;Echte Mehlbeere;Auf den Geisten;4;3104;6;105;32344744.56;5682329.15
+51.27247707;6.77826048;0;point;abgestorben;334504;Sorbus;Aria;;Echte Mehlbeere;Syltstraße;KGV;3104;6;143;32345024.72;5682470.67
+51.27650567;6.78769535;0;point;Sturmschaden;334505;Prunus;Serrula;;Mahagoni-Kirsche;Fehmarnstraße Sozialamt;46;3104;6;152;32345696.27;5682898.74
+51.26072459;6.76108142;0;point;Rußrindenkrankheit;334523;Acer;Platanoides;;Spitzahorn;Danziger Straße;;3103;5;110;32343786.69;5681200.31
+51.26632155;6.75461257;0;point;Unfallgefahr;334525;Acer;Platanoides;;Spitz-Ahorn;Farnweg Schule;10;3103;5;110;32343354.43;5681836.42
+51.26569805;6.75615637;0;point;Sturmschaden;334526;Chamaecyparis;Lawsoniana;;Lawsons Scheinzypresse;Farnweg Schule;10;3103;5;160;32343460;5681763.8
+51.26644981;6.74343913;0;point;Unfallgefahr;334527;Prunus;Avium;;Suess-Kirsche.vogel-kirsche;Clemens-Brentano-Straße;;3103;5;150;32342575.46;5681874.58
+51.26579934;6.74110089;0;point;abgestorben;334535;Betula;Pendula;;Sandbirke. weiss-Birke;Clemens-Brentano-Straße;20;3103;5;90;32342410.13;5681807.27
+51.26571312;6.74072981;0;point;Morschungen am Stammfuß;334537;Quercus;Petraea;;Trauben-Eiche - winter-eiche;Clemens-Brentano-Straße;;3103;5;190;32342383.95;5681798.48
+51.26639457;6.74403505;0;point;;334541;Betula;Pendula;;Sandbirke;Mörikestraße;Park;;;;32342616.84;5681867.16
+51.26579966;6.74440925;0;point;;334542;Acer;Campestre;;Feld-Ahorn;Hölderlinstraße ;neben 1;;;;32342640.91;5681800.21
+51.26476405;6.74553885;0;point;Morschungen am Stammfuß;334543;Acer;Platanoides;;Spitzahorn;Beckbuschstraße;;3103;5;110;32342716.17;5681682.64
+51.26464066;6.77122949;0;point;Stammschäden;334546;Acer;Campestre;;Feld-Ahorn - hecken-ahorn - ma;Mühligweg;Bunker;3103;6;90;32344507.88;5681614.2
+51.26464706;6.77096556;0;point;abgestorben;334547;Pyrus;Communis;;Kultur-Birne;Mühligweg;Bunker;3103;6;110;32344489.49;5681615.47
+51.27046591;6.74873014;0;point;abgestorben;334548;Pinus;Sylvestris;;Gemeine kiefer;Am Vogelsang;;3103;5;80;32342958.23;5682309.8
+51.27048812;6.74894483;0;point;abgestorben;334549;Carpinus;Betulus;;Gemeine hainbuche;Am Vogelsang;;3103;5;80;32342973.28;5682311.81
+51.27055382;6.74887724;0;point;Stammschäden;334550;Prunus;Mahaleb;;Steinweichsel;Am Vogelsang;;3103;5;160;32342968.79;5682319.26
+51.27064141;6.74925117;0;point;abgestorben;334551;Pinus;Sylvestris;;Gemeine kiefer;Am Vogelsang;;3103;5;90;32342995.17;5682328.2
+51.27062997;6.74933904;0;point;Stammschäden;334552;Acer;Platanoides;;Spitzahorn;Am Vogelsang;;3103;5;150;32343001.26;5682326.74
+51.26498426;6.74630218;0;point;abgestorben;334556;Acer;Platanoides;;Spitzahorn;Beckbuschstraße;;3103;5;165;32342770.17;5681705.49
+51.26879878;6.73553941;0;point;abgestorben;334561;Quercus;Robur;;Sommer-Eiche - stiel-eiche;Stockumer Höfe;KGV;3103;5;110;32342032.47;5682152.73
+51.26807171;6.73494766;0;point;Sturmschaden;334562;Salix;Alba;;Baum-Weide - kopf-weide - silb;Stockumer Höfe;KGV;3103;5;80;32341988.7;5682073.16
+51.26805512;6.73495048;0;point;Stammschäden;334563;;;;;Stockumer Höfe;KGV;3103;5;160;32341988.84;5682071.31
+51.26815987;6.73473057;0;point;Stammschäden;334564;Betula;Pendula;;Sandbirke. weiss-Birke;Stockumer Höfe;KGV;3103;5;160;32341973.86;5682083.43
+51.26790264;6.73237572;0;point;abgestorben;334566;Acer;Platanoides;;Spitzahorn;Stockumer Höfe;KGV;3103;5;90;32341808.72;5682059.9
+51.26580959;6.73746974;0;point;Morschungen am Stammfuß;334569;Acer;Platanoides;;Spitzahorn;Stockumer Höfe;KGV;3103;5;90;32342156.87;5681816.21
+51.27032541;6.74807478;0;point;Stammschäden;334571;Acer;Pseudoplatanus;;Bergahorn;Am Vogelsang;;3103;5;130;32342912.04;5682295.58
+51.27029206;6.74795885;0;point;abgestorben;334573;Pinus;Sylvestris;;Gemeine kiefer;Am Vogelsang;;3103;5;90;32342903.84;5682292.12
+51.25851742;6.75872049;0;point;Stammschäden;334577;Sorbus;Aucuparia;;Gemeine eberesche;Gottfried-Keller-Straße;;3103;5;160;32343614.49;5680959.92
+51.25810191;6.75548248;0;point;;334578;Carpinus;Betulus;;Gemeine hainbuche;Kaiserswerther Straße;Park;;;;32343387.17;5680920.62
+51.25810869;6.75594855;0;point;;334579;Acer;Pseudoplatanus;;Bergahorn;Kaiserswerther Straße;Park;;;;32343419.71;5680920.38
+51.25770183;6.75578491;0;point;;334580;Pinus;Nigra aus;;Oesterreichische Schwarzkiefer;Kaiserswerther Straße;Park;;;;32343406.91;5680875.49
+51.25804075;6.75642959;0;point;;334581;Acer;Pseudoplatanus;;Bergahorn;Kaiserswerther Straße;Park;;;;32343453.04;5680911.8
+51.25837616;6.75818213;0;point;Morschungen am Stammfuß;334582;Robinia;Pseudoacacia;;Scheinakazie;Gottfried-Keller-Straße;Grünanlage;3103;5;135;32343576.45;5680945.36
+51.25790701;6.75945696;0;point;abgestorben;334589;Quercus;Petraea;;Trauben-Eiche - winter-eiche;Edith-Stein-Weg;;3103;5;185;32343663.8;5680890.48
+51.20636576;6.80727086;0;point;Stammschäden;334591;Populus;Canescens;;Grau-Pappel;Siegburger Straße;Mitsubishi Halle;3207;3;360;32346828.62;5675058.86
+51.32234789;6.77921339;0;point;Riss im Zwiesel;334658;Prunus;Avium;Plena;Gefuelltbluehende Vogelkirsche;Pannschoppen;28;3111;5;180;32345259;5688013.86
+51.26757708;6.79354519;0;point;Morschung im Stammbereich;334661;Populus;Nigra;Italica;Italienische pyramiden-Pappel;Auf der Reide;;3104;6;187;32346074.4;5681893.68
+51.26294531;6.80083562;0;point;abgestorben;334662;Acer;Pseudoplatanus;Bruchem;Bergahorn;Osterfelder Straße;Grünanlage;3104;6;132;32346567.51;5681363.41
+51.26302027;6.80081843;0;point;abgestorben;334663;Acer;Campestre;;Feld-Ahorn;Osterfelder Straße;Grünanlage;3104;6;185;32346566.56;5681371.78
+51.26379027;6.73880576;0;point;abgestorben;334664;Acer;Platanoides;;Spitzahorn;Beckbuschstraße;;3103;5;80;32342243.15;5681588.81
+51.26590037;6.74434769;0;point;;334665;Sorbus;Alnifolia;;Erlenblaettrige Mehlbeere;Mörikestraße;Grünstreifen;;;;32342636.96;5681811.54
+51.2582194;6.75679742;0;point;;334666;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343479.31;5680930.88
+51.25826688;6.75709253;0;point;;334667;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343500.06;5680935.53
+51.25830224;6.75724847;0;point;;334668;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343511.06;5680939.13
+51.25825741;6.75729322;0;point;;334669;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343514.03;5680934.05
+51.25823203;6.7573581;0;point;;334670;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343518.47;5680931.09
+51.2582746;6.75739243;0;point;;334671;Robinia;Pseudoacacia;;Scheinakazie;Edith-Stein-Weg;;;;;32343521.01;5680935.75
+51.26442233;6.74671285;0;point;Stammschäden;334677;Salix;Alba;;Baum-Weide - kopf-weide - silb;Weißdornstraße;KGV;3103;5;180;32342796.9;5681642.13
+51.14801031;6.87768032;0;point;;334765;Robinia;Pseudoacaci;Bessoniana;Scheinakazie 'bessoniana';Woermannstraße;Sportplatz;;;;32351559.19;5668425.86
+51.1479791;6.87738805;0;point;;334766;Robinia;Pseudoacaci;Bessoniana;Scheinakazie;Kammerrathsfeldstraße;Sportanlage;;;;32351538.65;5668422.98
+51.14605958;6.88653632;0;point;abgestorben;334767;Quercus;Robur;;Sommer-Eiche;Josef-Maria-Olbrich-Straße;41;3210;10;125;32352172.31;5668191.12
+51.13658714;6.90133128;0;point;abgestorben;334768;Acer;Carpinifolium;;Hainbuchenblättriger Ahorn;Reinhold-Schneider-Straße;77;3210;10;130;32353177;5667108.24
+51.12841118;6.90654308;0;point;abgestorben;334769;Salix;Caprea;;Salweide;Ernst-Lemmer-Straße ;32;3210;10;70;32353515.71;5666188.76
+51.24815407;6.80900286;0;point;abgestorben;334772;Salix;Alba;;Baum-Weide - kopf-weide - silb;Marie-Juchacz-Straße;KSP;3104;6;116;32347088.19;5679701.72
+51.24819606;6.80872387;0;point;abgestorben;334773;Prunus;Padus;;Trauben-Kirsche;Marie-Juchacz-Straße;;3104;6;103;32347068.86;5679706.97
+51.22896246;6.86123859;0;point;Stammschäden;334774;Betula;Pendula;;Sandbirke;Siegburger Straße;87;3207;3;181;32350671.26;5677460.31
+51.23254464;6.70890009;0;point;;334850;Robinia;Pseudoacacia;;Scheinakazie;Heerdter Landstraße;Freizeitpark;;;;32340048.56;5678179.31
+51.23235487;6.7088909;0;point;;334851;Quercus;Robur;;Sommer-Eiche;Heerdter Landstraße;Freizeitpark;;;;32340047.26;5678158.23
+51.23274194;6.70725117;0;point;Stammschäden;334852;Juglans;Regia;;Walnuss;Aldekerkstraße;21;3102;4;90;32339934.14;5678204.84
+51.28100503;6.73100985;0;point;;334855;Prunus;Avium;Plena;Gefuelltbluehende Vogelkirsche;Henri-Dunant-Straße;KSP;;;;32341758.48;5683519.7
+51.28603732;6.72454853;0;point;Morschungen am Stammfußbereich;334856;Prunus;Avium;Plena;Gefuelltbluehende Vogelkirsche;Leuchtenberger Kirchweg;;3111;5;180;32341325.26;5684093.19
+51.28598765;6.72459817;0;point;abgestorben;334857;Salix;Caprea;;Salweide;Leuchtenberger Kirchweg;;3111;5;150;32341328.55;5684087.56
+51.28599044;6.72483453;0;point;Rußrindenkrankheit;334858;;;;;Leuchtenberger Kirchweg;;3111;5;160;32341345.04;5684087.36
+51.27584648;6.73761102;0;point;;334859;Tilia;Europaea;Pallida' typ lappe;Kaiser-Linde;Im Grund;78;;;;32342201.12;5682931.91
+51.27512792;6.78177855;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Ahornallee ;22;3111;6;68;32345279;5682758
+51.20285803;6.845423;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Alter Eller Friedhof KSP;;3208;8;90;32349482;5674590
+51.20285803;6.845423;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Alter Eller Friedhof KSP;;3209;3;200;32349482;5674590
+51.2408883;6.77319648;0;point;Riss im Zwiesel;;Carpinus;betulus;;Hainbuche;Alter Golzheimer Friedhof;;3104;1;224;32344565;5678969
+51.20677053;6.83477315;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Am Hackenbruch Schule ;35;3208;8;95;32348750.9;5675046.9
+51.20677053;6.83477315;0;point;abgestorben;;Carpinus;betulus;;Hainbuche;Am Hackenbruch Schule ;35;3208;8;180;32348750.9;5675046.9
+51.20677053;6.83477315;0;point;abgestorben;;Platanus;acerifolia;;Platane;Am Hackenbruch Schule ;35;3208;8;140;32348750.9;5675046.9
+51.29810004;6.73919053;0;point;Riss im Zwiesel;;Acer;pseudoplatanus;;Bergahorn;Am Ritterskamp Grünanlage;;3111;5;350;32342387.5;5685402.9
+51.29810004;6.73919053;0;point;abgestorben;;Betula;pendula;;Birke;Am Ritterskamp Grünanlage;;3111;5;60;32342387.5;5685402.9
+51.29810004;6.73919053;0;point;Pilzbefall (Lackporling) ;;Betula;pendula;;Birke;Am Ritterskamp Grünanlage;;3111;5;90;32342387.5;5685402.9
+51.29810004;6.73919053;0;point;abgestorben;;Betula;pendula;;Birke;Am Ritterskamp Grünanlage;;3111;5;150;32342387.5;5685402.9
+51.29810004;6.73919053;0;point;Pilzbefall (Lackporling) ;;Betula;pendula;;Birke;Am Ritterskamp Grünanlage;;3111;5;260;32342387.5;5685402.9
+51.27006202;6.76020897;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Am Roten Haus ;;3103;5;120;32343757.5;5682240.4
+51.27006202;6.76020897;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Am Roten Haus ;;3103;5;145;32343757.5;5682240.4
+51.27006202;6.76020897;0;point;Morschungen am Stammfuß;;Sorbus;aucuparia;;Eberesche;Am Roten Haus ;;3103;5;150;32343757.5;5682240.4
+51.27047339;6.74897881;0;point;Stammschäden;;;;;Ahorn;Am Vogelsang Verkehrsgrün Böschung;;3103;5;150;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;Stammschäden;;;;;Ahorn;Am Vogelsang Verkehrsgrün Böschung;;3103;5;130;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;abgestorben;;;;;Hainbuche;Am Vogelsang Verkehrsgrün Böschung;;3103;5;80;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;Stammschäden;;;;;Kastanie;Am Vogelsang Verkehrsgrün Böschung;;3103;5;165;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;abgestorben;;;;;Kiefer;Am Vogelsang Verkehrsgrün Böschung;;3103;5;80;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;abgestorben;;;;;Kiefer;Am Vogelsang Verkehrsgrün Böschung;;3103;5;90;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;abgestorben;;;;;Kiefer;Am Vogelsang Verkehrsgrün Böschung;;3103;5;90;32342975.6;5682310.1
+51.27047339;6.74897881;0;point;Stammschäden;;;;;Kirsche;Am Vogelsang Verkehrsgrün Böschung;;3103;5;160;32342975.6;5682310.1
+51.16400787;6.86455902;0;point;Sturmschaden;;;;;Lebensbaum;Benrather Rathausstraße; geg. 5;3220;9;165;32350693.2;5670231.2
+51.16396374;6.86455534;0;point;Sturmschaden;;;;;Lebensbaum;Benrather Rathausstraße; geg. 5;3220;9;165;32350692.8;5670226.3
+51.16376081;6.85808227;0;point;abgestorben;;;;;Weißdorn;Benrodestraße;113;3220;9;100;32350239.6;5670216.9
+51.16438902;6.870961;0;point;Morschungen am Stammfuß;;;;;Scheinakazie;Benrodestraße;KSP;3220;9;215;32351142;5670260.6
+51.15941261;6.87702981;0;point;Stammschäden;;Acer;pseudoplatanus;;Bergahorn;Brucknerstraße; 19 a Schule ;3220;9;200;32351550.3;5669695
+51.17783354;6.86199137;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Buchenstraße;14;3220;9;100;32350558.4;5671773.7
+51.17783354;6.86199137;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Buchenstraße ;14;3220;9;70;32350558.4;5671773.7
+51.17783354;6.86199137;0;point;Morschungen am Stammfuß;;Betula;pendula;;Birke;Buchenstraße ;14;3220;9;70;32350558.4;5671773.7
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;;;;Buche;Buchenstraße  Park;;3220;9;330;32350650.5;5671716.5
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;;;;Buche;Buchenstraße  Park;;3220;9;250;32350650.5;5671716.5
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;;;;Buche;Buchenstraße  Park;;3220;9;210;32350650.5;5671716.5
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;Fagus ;sylvatica;;Buche;Buchenstraße  Park;;3220;9;210;32350650.5;5671716.5
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;Fagus ;sylvatica;;Buche;Buchenstraße  Park;;3220;9;210;32350650.5;5671716.5
+51.1773436;6.8633318;0;point;Morschungen am Stammfuß;;Fagus ;sylvatica;;Buche;Buchenstraße  Park;;3220;9;250;32350650.5;5671716.5
+51.20836126;6.88853245;0;point;Riss im Zwieselbereich;;Quercus;rubra;;Eiche;Buchenweg ;13;3208;8;220;32352510.9;5675114.5
+51.24727485;6.71914232;0;point;Sturmschaden;;;;;Kastanie;Büdericher Straße ;Daueranlage;3102;4;150;32340814.4;5679794.9
+51.24390203;6.76913484;0;point;Vandalismus Verursacher unbekannt;;Malus;;;Apfel;Cecilienallee ;25;3102;1;25;32344291.7;5679312.7
+51.24448784;6.76853906;0;point;Sturmschaden;;;;;Kastanie;Cecilienallee ;35;3102;1;180;32344252.1;5679379.1
+51.23657353;6.77222295;0;point;Unfallschaden;;;;;Kiefer;Cecilienallee Ecke Sittarderstraße ;;3102;1;149;32344482.5;5678491.3
+51.23889405;6.77157068;0;point;Komplexerkrankung;;;;;Kastanie;Cecilienallee gegenüber 3;;3102;1;180;32344444.8;5678750.7
+51.23912043;6.77070727;0;point;Pilzbefall (sparriger Schüppling);;Betula;pendula;;Birke;Cecilienallee Rheinpark;;3102;1;180;32344385.3;5678777.7
+51.2284479;6.81240303;0;point;abgestorben;;Sorbus;aucuparia;;Eberesche;Degerstraße;64;3106;2;46;32347260.2;5677503.5
+51.23007629;6.81151932;0;point;Pilzbefall (zottiger Schillerporling);;Sorbus;aucuparia;;Eberesche;Degerstraße ;37;3106;2;56;32347203.9;5677686.4
+51.22907408;6.81212695;0;point;abgestorben;;Sorbus;aucuparia;;Eberesche;Degerstraße ;56;3106;2;46;32347243;5677573.7
+51.22891812;6.81220311;0;point;Pilzbefall (zottiger Schillerporling);;Sorbus;aucuparia;;Eberesche;Degerstraße ;58;3106;2;98;32347247.8;5677556.2
+51.2325278;6.85173817;0;point;Sturmschaden;;;;;Scheinakazie;Dreherstraße Alter Gerresheimer Friedhof;;3106;7;290;32350019.6;5677876.1
+51.2325278;6.85173817;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Dreherstraße Alter Gerresheimer Friedhof;;3106;7;610;32350019.6;5677876.1
+51.25723297;6.75614013;0;point;abgestorben;;Quercus;rubra;;Eiche;Edith Stein Weg Grünanlage;;3103;5;185;32343430.1;5680822.6
+51.20365608;6.8473943;0;point;Hochspannungsleitung Spannungsüberschlag;;Populus;*hybrid;;Pappel;Ellerkirchstraße;80;3208;8;220;32349622.3;5674674.7
+51.16417903;6.87054156;0;point;Pilzbefall (Schwefelporling);;;;;Scheinakazie;Erich Müller Straße ;8;3220;9;170;32351112;5670238.1
+51.20398623;6.73421554;0;point;Baumaßnahme;;;;;Kastanie;Fährstraße KSP;;3205;3;220;32341717.8;5674949.1
+51.22531594;6.77433367;0;point;abgestorben;;;;;Mehlbeere;Flinger Straße;34;3101;1;;32344591.9;5677235.1
+51.19897234;6.83604358;0;point;abgestorben;;;;;Weide;Flottenstraße KSP;;3208;8;50;32348814.1;5674177.2
+51.19862324;6.83613294;0;point;Sturmschaden;;Acer;pseudoplatanus;;Bergahorn;Flottenstraße Parkplatz;;3208;8;200;32348819.2;5674138.2
+51.19862324;6.83613294;0;point;Sturmschaden;;;;;Kastanie;Flottenstraße Parkplatz;;3208;8;205;32348819.2;5674138.2
+51.14352504;6.9003646;0;point;abgestorben;;Populus;*hybrid;;Pappel;Frankfurterstraße ;;3220;9;290;32353131.4;5667881.6
+51.20924803;6.86701951;0;point;Sturmschaden;;Betula;pendula;;Birke;Friedrich Engels Straße KSP;;3208;8;180;32351011.2;5675256.5
+51.29921583;6.73503415;0;point;Morschungen im Stammfußbereich;;Acer;pseudoplatanus;;Bergahorn;Friedrich von Spee Straße ;51;3111;5;170;32342101.6;5685535.9
+51.2096531;6.82784402;0;point;Sturmschaden;;;;;Zürgelbaum;Gather Weg ;geg 83;3208;8;190;32348276.4;5675381.7
+51.20088618;6.83871958;0;point;Komplexerkrankung;;;;;Kastanie;Gertrudisplatz;5;3208;8;120;32349007.3;5674384.5
+51.21237369;6.75534382;0;point;Baumaßnahme;;;;;Flügelnuss;Gladbacherstraße KSP;;3205;3;210;32343222.1;5675836.4
+51.21237369;6.75534382;0;point;Baumaßnahme;;;;;Flügelnuss;Gladbacherstraße KSP;;3205;3;210;32343222.1;5675836.4
+51.25838346;6.75863829;0;point;abgestorben;;Betula;pendula;;Birke;Gottfried Keller Straße Grünanlage;;3103;5;300;32343608.3;5680945.2
+51.24195326;6.81162033;0;point;Riss im Zwiesel;;;;;Scheinakazie;Graf Recke Straße;93;3104;2;132;32347250.3;5679006.8
+51.24477279;6.81846179;0;point;Morschung;;Acer;pseudoplatanus;;Bergahorn;Graf Recke Straße  Schule ;170;3106;6;76;32347737.1;5679306.1
+51.22948407;6.86099725;0;point;Unfallgefahr;;Betula;pendula;;Birke;Gustav Kneiststraße KITA ;4;3106;7;155;32350656.1;5677518.8
+51.23820991;6.75657329;0;point;Pilzbefall (zottiger Schillerporling);;Sorbus;aucuparia;;Eberesche;Habsburgerstraße;10;3102;4;75;32343395.7;5678706.5
+51.2317245;6.7084959;0;point;Morschungen am Stammfuß;;Populus;*hybrid;;Pappel;Heerdter Landstraße FZA;;3102;4;210;32340017.5;5678089
+51.23574334;6.72672844;0;point;Torso;;Populus;*hybrid;;Pappel;Heerdter Lohweg Albertussee;;3102;4;350;32341304.1;5678496.3
+51.23574334;6.72672844;0;point;Torso;;Populus;*hybrid;;Pappel;Heerdter Lohweg Albertussee;;3102;4;350;32341304.1;5678496.3
+51.22794758;6.807296;0;point;Pilzbefall (zottiger Schillerporling);;Platanus;acerifolia;;Platane;Hermannplatz;;3106;2;227;32346902;5677458.5
+51.21570774;6.77909604;0;point;Riss im Zwiesel;;Ginkgo;biloba;;Ginkgo;Herzogstraße;32;3101;3;125;32344892.1;5676156.7
+51.26582889;6.74429729;0;point;Sturmschaden;;Sorbus;aucuparia;;Eberesche;Hölderlinstraße neben 1;neben 1;3103;5;135;32342633.2;5681803.7
+51.26611712;6.74417996;0;point;abgestorben;;Betula;pendula;;Birke;Hölderlinstraße neben 2;neben 2;3103;5;120;32342626;5681836
+51.17390423;6.87813674;0;point;abgestorben;;;;;Scheinakazie;Hoxbachstraße ;;3220;9;170;32351674.2;5671304.1
+51.17390423;6.87813674;0;point;abgestorben;;;;;Scheinakazie;Hoxbachstraße ;;3220;9;180;32351674.2;5671304.1
+51.17390423;6.87813674;0;point;abgestorben;;;;;Scheinakazie;Hoxbachstraße ;;3220;9;190;32351674.2;5671304.1
+51.17390423;6.87813674;0;point;abgestorben;;;;;Scheinakazie;Hoxbachstraße ;;3220;9;200;32351674.2;5671304.1
+51.17390423;6.87813674;0;point;abgestorben;;;;;Scheinakazie;Hoxbachstraße ;;3220;9;260;32351674.2;5671304.1
+51.21408941;6.78814222;0;point;abgestorben;;;;;Linde;Hüttenstraße ;88;3205;3;200;32345518.4;5675957.7
+51.2358555;6.818017;0;point;Sturmschaden;;;;;Trompetenbaum;Ivo Beucker Straße;14;3106;2;176;32347676.6;5678315.5
+51.25065685;6.72720376;0;point;Sturmschaden ;;Picea;;;Fichte;Josef Willeke Straße;22;3102;4;210;32341388.6;5680153.5
+51.20444069;6.81135773;0;point;Morschungen am Stammfuß;;Quercus;rubra;;Eiche;Kaiserslauternerstraße ;;3207;3;320;32347107.7;5674836.3
+51.15128343;6.88035733;0;point;Morschungen am Stammfuß;;;;;Scheinakazie;Kammerrathsfeldstraße Grünweg ;;3210;10;130;32351756.9;5668784.4
+51.15128343;6.88035733;0;point;Morschungen am Stammfuß;;;;;Scheinakazie;Kammerrathsfeldstraße Grünweg ;;3210;10;160;32351756.9;5668784.4
+51.22555475;6.79253819;0;point;abgestorben;;;;;Scheinakazie;Karl Anton Straße ;8;3101;1;161;32345863.7;5677223.3
+51.20402584;6.83230493;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Klein Eller ;17;3208;8;125;32348569.5;5674746.8
+51.20402584;6.83230493;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Klein Eller ;17;3208;8;135;32348569.5;5674746.8
+51.20402584;6.83230493;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Klein Eller ;17;3208;8;140;32348569.5;5674746.8
+51.22474211;6.78870134;0;point;abgestorben;;;;;Scheinakazie;Klosterstraße;70;3101;1;80;32345593.1;5677141
+51.27346712;6.73600565;0;point;Morschungen im Stammfußbereich;;Acer;pseudoplatanus;;Bergahorn;Lohauser Dorfstraße ;;3111;5;90;32342081;5682670.8
+51.27346712;6.73600565;0;point;Morschungen im Stammfußbereich;;Acer;pseudoplatanus;;Bergahorn;Lohauser Dorfstraße ;;3111;5;330;32342081;5682670.8
+51.16283746;6.85878587;0;point;Pilzbefall (Lackporling) ;;;;;Kirsche;Ludolfstraße ;9;3220;9;100;32350285.8;5670112.8
+51.16661355;6.86674025;0;point;Morschungen am Stammfuß;;;;;Kirsche;Melanchthonstraße ;1;3220;9;115;32350854.1;5670516.5
+51.16661767;6.86696608;0;point;Morschungen am Stammfuß;;;;;Kirsche;Melanchthonstraße ;1;3220;9;116;32350869.9;5670516.5
+51.16664527;6.86828225;0;point;Morschungen am Stammfuß;;;;;Kirsche;Melanchthonstraße ;13;3220;9;110;32350962;5670516.9
+51.22431776;6.80331643;0;point;abgestorben;;Sorbus;aria;;Eberesche;Mettmannerstraße;26;3207;2;62;32346612.1;5677063.2
+51.2508158;6.80453134;0;point;abgestorben;;Sorbus;aria;;Eberesche;Mörsenbroicher Weg KSP ;;3106;6;40;32346785;5680007
+51.21168176;6.84753256;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Neusalzer Weg ;10;3208;8;195;32349658.1;5675566.8
+51.20832633;6.85066567;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Neusalzer Weg ;101;3208;8;170;32349866;5675187.3
+51.21065134;6.80074396;0;point;abgestorben;;;;;Scheinakazie;Oberbilker Allee KSP;;3207;3;115;32346387;5675549
+51.30543387;6.7581539;0;point;abgestorben;;Quercus;rubra;;Eiche;Oberdorfstraße ;;3111;5;160;32343734.3;5686177.8
+51.2359673;6.80423562;0;point;Sturmschaden;;Ailanthus ;altissima;;Götterbaum;Paulusplatz  Schule;1;3106;2;145;32346715;5678356.6
+51.22808432;6.80998667;0;point;Pilzbefall (Schwefelporling);;;;;Scheinakazie;Platanenstraße;18;3106;2;278;32347090.3;5677468.1
+51.13817965;6.90018544;0;point;Stammschäden;;Acer;pseudoplatanus;;Bergahorn;Reinhold Schneider Straße ;29;3210;10;100;32353101.9;5667287.6
+51.23133329;6.79951709;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Rethelstraße Schule;13;3106;2;324;32346370.2;5677851.2
+51.21161748;6.83668637;0;point;Pilzbefall (Lackporling) ;;;;;Scheinakazie;Richardstraße;140;3208;8;155;32348900.4;5675581.9
+51.21591204;6.81867817;0;point;Komplexerkrankung;;;;;Kastanie;Ronsdorferstraße ;;3207;3;149;32347656.9;5676096.6
+51.21591204;6.81867817;0;point;Komplexerkrankung;;;;;Kastanie;Ronsdorferstraße ;;3207;3;132;32347656.9;5676096.6
+51.23137109;6.74473557;0;point;Sturmschaden;;;;;Scheinakazie;Schanzenstraße;26;3102;4;225;32342546.1;5677971.4
+51.26107197;6.80385766;0;point;Riss im Zwiesel;;;;;Scheinakazie;Scheffelstraße KSP;;3104;6;132;32346772.1;5681148.8
+51.19722555;6.8473377;0;point;Sturmschaden;;;;;Linde;Schlossallee Schule;;3208;8;205;32349597.4;5673959.8
+51.16065877;6.87102552;0;point;Sturmschaden;;Carpinus;betulus;;Hainbuche;Schlosspark Benrath;;3220;9;140;32351134.5;5669845.7
+51.33576012;6.79161884;0;point;Neubaumaßnahme ;;Acer;pseudoplatanus;;Bergahorn;Schmitterweg ;;3111;5;320;32346168.2;5689479.1
+51.24204816;6.82989702;0;point;Pilzbefall (Lackporling) ;;Quercus;rubra;;Eiche;Staufenplatz;;3106;7;165;32348526.2;5678979.5
+51.26815348;6.73288206;0;point;abgestorben;;;;;Ahorn;Stockumer Höfe KGV;;3103;5;90;32341844.9;5682086.7
+51.26815348;6.73288206;0;point;Morschungen am Stammfuß;;;;;Apfel;Stockumer Höfe KGV;;3103;5;90;32341844.9;5682086.7
+51.26889541;6.73441253;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Stockumer Höfe Lärmschutzwall;;3103;5;140;32341954.2;5682165.9
+51.20696871;6.79898805;0;point;Morschungen am Stammfuß;;;;;Ahorn;Volksgarten;;3207;3;300;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;;;;Ahorn;Volksgarten;;3207;3;170;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;;;;Ahorn;Volksgarten;;3207;3;135;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;Acer;pseudoplatanus;;Bergahorn;Volksgarten;;3207;3;135;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;Acer;pseudoplatanus;;Bergahorn;Volksgarten;;3207;3;170;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Volksgarten;;3207;3;300;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Wurzelschäden;;Betula;pendula;;Birke;Volksgarten;;3207;3;100;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Riesenporling);;Fagus ;sylvatica;;Buche;Volksgarten;;3207;3;350;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Stammschäden;;Quercus;rubra;;Eiche;Volksgarten;;3207;3;190;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;Quercus;rubra;;Eiche;Volksgarten;;3207;3;300;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Riesenporling);;Quercus;rubra;;Eiche;Volksgarten;;3207;3;330;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;Quercus;rubra;;Eiche;Volksgarten;;3207;3;360;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Komplexerkrankung;;;;;Kastanie;Volksgarten;;3207;3;190;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Stammschäden;;;;;Linde;Volksgarten;;3207;3;200;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;abgestorben;;;;;Linde;Volksgarten;;3207;3;200;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;;;;Linde;Volksgarten;;3207;3;210;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Morschungen am Stammfuß;;;;;Linde;Volksgarten;;3207;3;260;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Lackporling) ;;;;;Linde;Volksgarten;;3207;3;290;32346252.1;5675143.2
+51.20696871;6.79898805;0;point;Pilzbefall (Schwefelporling);;;;;Scheinakazie;Volksgarten;;3207;3;230;32346252.1;5675143.2
+51.23573075;6.86015019;0;point;Riss im Zwiesel;;;;;Kiefer;Wallgraben Kaiserswerth;;3111;5;450;32350617.2;5678215.1
+51.23573075;6.86015019;0;point;Sturmschaden;;;;;Kirsche;Wallgraben Kaiserswerth;;3111;5;250;32350617.2;5678215.1
+51.165201;6.87199069;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Weststraße ;6;3220;9;39;32351216.6;5670348.8
+51.165201;6.87199069;0;point;Morschungen am Stammfuß;;Acer;pseudoplatanus;;Bergahorn;Weststraße ;6;3220;9;50;32351216.6;5670348.8
+51.165201;6.87199069;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Weststraße ;6;3220;9;52;32351216.6;5670348.8
+51.165201;6.87199069;0;point;abgestorben;;Acer;pseudoplatanus;;Bergahorn;Weststraße ;6;3220;9;85;32351216.6;5670348.8
+51.165201;6.87199069;0;point;Sturmschaden;;;;;Scheinakazie;Weststraße ;6;3220;9;115;32351216.6;5670348.8
+51.24335269;6.73302317;0;point;Sturmschaden;;;;;Eiche;Wickrather Straße Schule ;31;3102;4;190;32341769.6;5679328.8
+51.24335269;6.73302317;0;point;Sturmschaden;;;;;Eiche;Wickrather Straße Schule ;31;3102;4;210;32341769.6;5679328.8
+51.25301769;6.82032438;0;point;Pilzbefall (Schillerporling) ;;Sorbus;aria;;Eberesche;Wilhelm Raabe Straße KSP;;3104;6;80;32347894.3;5680219
+51.25301769;6.82032438;0;point;Sturmschaden;;;;;Scheinakazie;Wilhelm Raabe Straße KSP;;3104;6;112;32347894.3;5680219
+51.23949267;6.80351182;0;point;Morschungen im Stammfußbereich;;Populus;*hybrid;;Pappel;Zoopark;;3104;2;147;32346676.2;5678750.1
+51.23949267;6.80351182;0;point;Kernfäule im Kronenansatz;;Populus;*hybrid;;Pappel;Zoopark;;3104;2;334;32346676.2;5678750.1
+51.23949267;6.80351182;0;point;Morschungen im Stammfußbereich;;Populus;*hybrid;;Pappel;Zoopark;;3104;2;337;32346676.2;5678750.1
+51.23949267;6.80351182;0;point;Morschungen im Stammfußbereich;;Populus;*hybrid;;Pappel;Zoopark;;3104;2;342;32346676.2;5678750.1
+51.23949267;6.80351182;0;point;Morschungen im Stammfußbereich;;Populus;*hybrid;;Pappel;Zoopark;;3104;2;350;32346676.2;5678750.1

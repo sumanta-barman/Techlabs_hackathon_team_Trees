@@ -174,7 +174,6 @@ class WeatherData:
             years["mean_wind_speed"].append(weather.get_average_wind_speed())
             years["max_wind_speed"].append(weather.get_max_wind_speed())
 
-        print(json.dumps(years,indent=4))
 
         df = pd.DataFrame(years)
         df.to_csv(filename)

@@ -1,11 +1,15 @@
 import pandas as pd
 import json
+import csv
 
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 
 def median(lst):
-    return int(lst[len(lst)//2])
+    return int(lst[len(lst) // 2])
+
+def average(lst):
+    return sum(lst) / len(lst)
 
 
 class Weather:
@@ -70,7 +74,7 @@ class Weather:
                 values[i] = float(ml.replace(",", "."))
             except:
                 values[i] = None
-        return round(median([x for x in values if x is not None]), 2)
+        return round(average([x for x in values if x is not None]), 2)
 
     def get_average_wind_speed(self):
         column = self.__dataFrame["Wmit"]
@@ -120,10 +124,14 @@ class WeatherData:
 
         self.summer_20 = df_2020.iloc[126:310, :]
 
+        self.winter_20_21 = df_2020.iloc[310:, :]
+
+
         self.seasons = {"winter_17_18": self.winter_17_18, "summer_18": self.summer_18,
                         "winter_18_19": self.winter_18_19,
                         "summer_19": self.summer_19,
-                        "winter_19_20": self.winter_19_20, "summer_20": self.summer_20}
+                        "winter_19_20": self.winter_19_20, "summer_20": self.summer_20,
+                        "winter_20_21":self.winter_20_21}
 
     def get_data(self):
         years = {}
@@ -142,7 +150,41 @@ class WeatherData:
 
         return years
 
+    def export_data(self, filename):
+        years = {
+            "season": [],
+            "max_temp": [],
+            "min_temp": [],
+            "mean_temp": [],
+            "mean_sun_hours": [],
+            "mean_precipitation": [],
+            "min_ground_temp": [],
+            "mean_wind_speed": [],
+            "max_wind_speed": []}
+
+        for season in self.seasons:
+            years["season"].append(season)
+            weather = Weather(self.seasons[season])
+            years["max_temp"].append(weather.get_max_temp())
+            years["min_temp"].append(weather.get_min_temp())
+            years["mean_temp"].append(weather.get_average_temp())
+            years["mean_sun_hours"].append(weather.get_average_sun_hours())
+            years["mean_precipitation"].append(weather.get_average_precipitation())
+            years["min_ground_temp"].append(weather.get_min_ground_temp())
+            years["mean_wind_speed"].append(weather.get_average_wind_speed())
+            years["max_wind_speed"].append(weather.get_max_wind_speed())
+
+        print(json.dumps(years,indent=4))
+
+        df = pd.DataFrame(years)
+        df.to_csv(filename)
+
 
 if __name__ == "__main__":
-    x = WeatherData()
-    print(json.dumps(x.get_data(), indent=4))
+    x = WeatherData().get_data()
+    y = WeatherData().export_data("weather_data.csv")
+
+    # df = pd.DataFrame(x)
+    # df.to_csv('weather_data.csv')
+
+    #print(json.dumps(x, indent=4))
